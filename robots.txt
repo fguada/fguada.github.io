@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /*?
+Disallow: /*/feed
+Disallow: /feed/
+Disallow: /page*/
+Disallow: /*/page/
+Disallow: /index-chronologique
+Disallow: /index-chronologique
+Disallow: /index.php
+Sitemap: http://franckguadagnini.fr/sitemap.xml
