@@ -1,8 +1,0 @@
-User-agent: *
-
-Disallow: /page*/
-Disallow: /index-chronologique
-Disallow: /index-chronologique
-Disallow: /search
-
-Sitemap: http://franckguadagnini.fr/sitemap.xml
