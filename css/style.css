@@ -75,24 +75,24 @@ header {
 	max-width: 25em;
 	margin: 0 auto;
 }
-header > hgroup > h1 {
-	padding-top: 1em;
-	padding-bottom: 0.5em;
-	text-transform: uppercase;	
-}
-h1, h2, .tipue_search_content_title, #tipue_search_results_count {
+h1, h2, .tipue_search_content_title, #tipue_search_results_count, .h01 /* nombre de résultats d'une recherche */ {
 	font-weight: bold;
 	text-align: center;
 }
-h1, .tipue_search_content_title {
+#site-author {
+	padding-top: 1.5em;
+	padding-bottom: 1em;
+	text-transform: uppercase;	
+}
+h1 {
+	font-size: 200%;
+	font-style: italic;
+}
+h2, .tipue_search_content_title {
 	font-size: 130%;
 	line-height: 1.313em;
 	padding-bottom: 1em;
 	padding-top: 2em;
-}
-h2 {
-	font-size: 160%;
-	font-style: italic;	
 }
 article {
 	text-align: left;
@@ -109,7 +109,7 @@ article > footer {
 p {
 	margin-bottom: 0.1em;
 }
-p+p, p.indent {
+p+p {
 	text-indent: 2em;
 }
 .spacebefore, .paginator {
@@ -145,10 +145,6 @@ li.dotedLineBelow {
 	font-size: 90%
 	display: inline;
 }
-.paginator strong {
-	font-weight: 900;
-	padding: 0 0.5em;
-}
 footer, footer a {
 	color: #A6A6A6;	
 }
@@ -176,9 +172,6 @@ form {
 	margin-bottom: 2em;
 	width: 100%;
     text-align: center;
-}
-.h01 { /* nombre de résultats d'une recherche */
-     font-weight: bold;
 }
 img.imageCentered {
 	display: block;
