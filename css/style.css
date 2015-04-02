@@ -190,6 +190,9 @@ img.imageCentered {
 	header {
 	padding-top: 0em;
 	}
+	h1 {
+	font-size: 180%;
+	}
 	#wrapper > footer {
 	padding-bottom: 1em;
 	}
