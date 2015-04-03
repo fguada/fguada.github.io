@@ -13,4 +13,5 @@ task :deploy do
     system "git add -A"
     system "git commit -m publication"
     system "git push"
+    system "open http://fguada.github.io"
 end
