@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Il tombe, mais si lentement…",
+          "tags":"",
+          "loc":"/2015/03/21/il-tombe-mais-si-lentement.html",
+          "text":"Il tombe, mais si lentement que la différence avec simplement flotter est quasi insensible. Il s’enfonce, mais si doucement — imperceptible vrille — que les déblais sont inexistants. Il s’allège et croit ainsi s’élever, mais il ne fait que ralentir encore son enterrement. Combien d’efforts énormes, quel démènement harassant pour effleurer cette immobilité !"
+        } ,
+    
+        {
           "title":"Sous le grand chapeau qui les protège…",
           "tags":"",
           "loc":"/2014/12/20/sous-le-grand-chapeau-qui-les-protege.html",
