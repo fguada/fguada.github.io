@@ -12,5 +12,5 @@ desc "Deploy the site to a remote git repo"
 task :deploy do
     system "git add -A"
     system "git commit -m publication"
-    system "git push origin master"
+    system "git push"
 end
