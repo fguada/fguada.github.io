@@ -1,10 +1,5 @@
-
-# == Configuration =============================================================
-
-# Set "rake watch" as default task
+# Set default task
 task :default => :deploy
-
-# == Tasks =====================================================================
 
 # rake deploy
 desc "Deploy the site to a remote git repo"
