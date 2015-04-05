@@ -8,6 +8,13 @@ var tipuesearch = {"pages": [
         } ,
     
         {
+          "title":"Il y a bien des prêts…",
+          "tags":"",
+          "loc":"/2015/04/05/il-y-a-bien-des-prets.html",
+          "text":"Il y a bien des prêts, mais il n’y a pas dons : il n’y a que des échanges implicites, et cela depuis toujours, disent-ils. C’est faux ; justement dans nos sociétés existe désormais le don gratuit, le don sans contrepartie même virtuelle, même symbolique, même morale ou religieuse. C’est le don anonyme et invisible. C’est pour ma bonne conscience que je le fais ? Premièrement : comment le savez-vous ? Deuxièmement : même si c’est vrai : et alors ? Est-ce que le don n’est pas moins fait ? Est-ce que sa contrepartie n’est pas moins invisible, indifférente — comme si elle n’existait pas ? De toute façon ce n’est pas vrai, du moins pas toujours, pas nécessairement. Je peux le faire pour ma bonne conscience, pour mon plaisir ; je peux le faire pour soulager ma culpabilité ; je peux aussi le faire comme ça, sans prémédition, par un réflexe heureux, un bon réflexe. Est-ce que j’ai toujours ce bon réflexe ? Non : il dépend de mon humeur.Il faut différencier le don pour lequel le plaisir ou la bonne conscience qu’il apporte sont son motif principal, et celui pour lequel ils ne sont qu’un plus : le dont que j’aurais pu, justement, faire par réflexe."
+        } ,
+    
+        {
           "title":"Il tombe, mais si lentement…",
           "tags":"",
           "loc":"/2015/03/21/il-tombe-mais-si-lentement.html",
