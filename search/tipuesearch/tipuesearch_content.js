@@ -1,20 +1,6 @@
 var tipuesearch = {"pages": [
     
         {
-          "title":"Il y a bien des prêts…",
-          "tags":"",
-          "loc":"/2015/04/05/il-y-a-bien-des-prets.html",
-          "text":"Il y a bien des prêts, mais il n’y a pas dons : il n’y a que des échanges implicites, et cela depuis toujours, disent-ils. C’est faux ; justement dans nos sociétés existe désormais le don gratuit, le don sans contrepartie même virtuelle, même symbolique, même morale ou religieuse. C’est le don anonyme et invisible. C’est pour ma bonne conscience que je le fais ? Premièrement : comment le savez-vous ? Deuxièmement : même si c’est vrai : et alors ? Est-ce que le don n’est pas moins fait ? Est-ce que sa contrepartie n’est pas moins invisible, indifférente — comme si elle n’existait pas ? De toute façon ce n’est pas vrai, du moins pas toujours, pas nécessairement. Je peux le faire pour ma bonne conscience, pour mon plaisir ; je peux le faire pour soulager ma culpabilité ; je peux aussi le faire comme ça, sans prémédition, par un réflexe heureux, un bon réflexe. Est-ce que j’ai toujours ce bon réflexe ? Non : il dépend de mon humeur.Il faut différencier le don pour lequel le plaisir ou la bonne conscience qu’il apporte sont son motif principal, et celui pour lequel ils ne sont qu’un plus : le dont que j’aurais pu, justement, faire par réflexe."
-        } ,
-    
-        {
-          "title":"L’idée que les morts sont jugés…",
-          "tags":"",
-          "loc":"/2015/04/05/l-idee-que-les-morts-sont-juges.html",
-          "text":"L’idée que les morts sont jugés par les morts est trompeuse. On imagine un tribunal semblable aux nôtres ; le prévenu peut parler, se défendre, peut-être a-t-il même un avocat ; le ou les juges, quoique monstrueux d’aspect et sévères de sentence, et quoique leur jugement sans appel et leur sentence éternelle, ne sont pas insensibles, pas moins humains que ne l’était il y a peu celui qu’ils ont devant eux. Imitation transparente et puérile. Non, c’est par les vivants que le mort est jugé, à peine enterré. Il n’a plus voix au chapitre, ne peut plus se défendre. Les coffres s’ouvrent et tous les secrets sont exposés, exacerbant les inimitiés, tandis que les voix, libérées des serments, redeviennent volubiles. Moins le mort a de proches vivants, plus les jugements sont impitoyables. Qui sont les juges ? Tout un chacun ; tous ceux qui ne l’ont ne serait-ce qu’aperçu ont quelque témoignage à verser au dossier. Tous jugent. Il y a autant de sentences que de juges, maintenant qu’elles ne sont plus applicables. Absurde ; elles ne l’auraient jamais été ; il ne s’agit pas de juger un acte, mais un être, ou du moins une vie entière comme un seul acte ; acte qui ne peut pas être intégralement illégal et qui, à moins de sainteté, ne peut pas non plus être exempt de toute tache, de toute faute au moins morale. C’est comme on juge un tableau, non un coupable, que le mort est jugé. C’est sa valeur qu’on questionne, son éventuelle exemplarité.Ceux qui essayent leur vie durant de facilité, d’uniformiser ce jugement posthume ont intérêt à ne rien laisser soupçonner de fâcheux, car si leur dessein est finalement percé, il éveillera les soupçons bien plus que le commun des mortels : qu’a-t-il voulu cacher ? Était-il simplement orgueilleux, ou au contraire dépourvu de la moindre confiance en lui, ne supportant pas que qui que ce soit puisse penser du mal de lui ? Pauvre homme ! Dessein voué à l’échec. La statue de lui-même que Chateaubriand s’est efforcé de dresser de son vivant n’est pas moins scrutée que son sculpteur, et par certains jugée plus sévèrement que lui ! Être honnête avec toi implique d’accepter le jugement des juges honnêtes et de n’avoir qu’indifférence pour celui des autres."
-        } ,
-    
-        {
           "title":"Il tombe, mais si lentement…",
           "tags":"",
           "loc":"/2015/03/21/il-tombe-mais-si-lentement.html",
