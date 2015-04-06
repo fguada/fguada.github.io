@@ -98,7 +98,7 @@ article {
 	text-align: left;
 }
 article > p a, article > section > p a, footer a {
-	text-decoration: underline;
+	text-decoration: underline !important;
 }
 article > footer {	
 	margin: 0.3em 0;
@@ -115,6 +115,9 @@ p+p {
 .spacebefore, .paginator {
 	padding-top: 1.5em;
 	text-indent: 0em !important;
+}
+section a {
+	text-decoration: underline !important;
 }
 .centeredparagraph {
 	text-align: center;
