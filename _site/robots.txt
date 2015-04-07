@@ -1,0 +1,13 @@
+User-agent: *
+
+Disallow: /page*/
+Disallow: /index-chronologique
+Disallow: /index-alphabetique
+Disallow: /search
+Disallow: /abonnement-par-courriel
+Disallow: /abonnement-confirme
+Disallow: /validation-d-abonnement
+Disallow: /desabonnement-effectue
+Disallow: /404
+
+Sitemap: http://franckguadagnini.fr/sitemap.xml
