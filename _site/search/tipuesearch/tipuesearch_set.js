@@ -1,1 +1,0 @@
-var tipuesearch_stop_words=["les"];var tipuesearch_replace={words:[{word:"Frank",replace_with:"Franck"}]};var tipuesearch_stem={words:[{word:"e-mail",stem:"email"}]};
