@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Verdict : pas un mot…",
+          "tags":"",
+          "loc":"/2015/05/31/verdict-pas-un-mot-n-est-prononce.html",
+          "text":"Verdict : pas un mot n’est prononcé. L’aveu est si complet qu’il empêche le jugement. Les juges ouvrent leurs mains en signe d’impuissance, et gardent fermées leurs bouches. Leurs yeux ne sont ni levés ni baissés. Implicitement, ils se déclarent incapables de prononcer, même sur le fait de savoir si oui ou non la condamnation antérieure et le sursis en cours sont annulés, si la réhabilitation est totale ou partielle. Un instant il nous semble — avocats, public, jurés — nous voir au travers de celui qu’on ne peut plus nommer l’accusé, il a disparu en-deça même du repentir, dans cet interstice infime entre l’innocence perdue irrémédiablement et la culpabilité inévitable. Illusion qui ne dure pas : il est bien là, il a bougé, il glisse vers la porte que quel huissier sans l’avoir décidé a entrouverte ? Il est sorti, nous reprenons nos esprits, la parole nous revient mais, honteux, nous quittons la salle sans nous regarder, aussi discrètement que possible."
+        } ,
+    
+        {
           "title":"Il tombe, mais si lentement…",
           "tags":"",
           "loc":"/2015/03/21/il-tombe-mais-si-lentement.html",
