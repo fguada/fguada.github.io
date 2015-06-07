@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Ta vie ? C’est une partie…",
+          "tags":"",
+          "loc":"/2015/06/07/ta-vie-c-est-une-partie.html",
+          "text":"Ta vie ? C’est une partie que tu ne peux pas remporter. Mais hors du jeu que ferais-tu ? Tu papillonnerais, tu somnolerais, tu fuirais l’inéluctable. La loi te contraint à jouer, le jeu te condamne à l’échec, mais c’est pour t’épargner pire encore."
+        } ,
+    
+        {
           "title":"Verdict : pas un mot…",
           "tags":"",
           "loc":"/2015/05/31/verdict-pas-un-mot-n-est-prononce.html",
