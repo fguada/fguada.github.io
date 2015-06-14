@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Innocent ? Impossible ! Depuis l’âge de raison…",
+          "tags":"",
+          "loc":"/2015/06/14/innocent-impossible-depuis-l-age-de-raison.html",
+          "text":"Innocent ? Impossible ! Depuis l’âge de raison, l’innocence est perdue irrémédiablement. D’où les juges : ils observent ton combat contre toi-même et contre la vie, et ils comptent les points, les faux pas, notent les accomplissements.Devant toi l’horizon indépassable d’une défaite honorable, et sur le bord du chemin les yeux luisants des juges et témoins — tous les témoins sont juges et vice-versa. Tu les entends ricaner des pièges qu’ils t’ont tendus — par ennui ? —, dans lesquels tu es déjà résigné à tomber le plus souvent, d’autant qu’on ne te félicite jamais quand tu les évites, comme si c’était normal, tandis qu’il n’est pas rare que t’accablent blâmes ou railleries quand tu y tombes. Mais leur silence prolongé t’accable aussi : s’ils s’étaient détournés, indifférents, s’ils avaient relâché voire abandonné leur surveillance ? Pour un peu, c’est volontairement que tu trébucherais, dans l’espoir que les juges se manifestent et ainsi te rassurent. Mais tu n’as pas à t’inquiéter : les scrutateurs sourcilleux savent qu’il est important que tu sois constamment sous la menace d’une mauvaise note. Et puisque tu n’es pas moins juge et témoin qu’eux tous, tu sais aussi qu’il ne sert à rien de scruter leurs visages à la recherche d’un indice, et que tu ne peux pas te fier à ton propre jugement. Pourtant tu continues à essayer d’estimer, de deviner le verdict que — petite consolation — tu n’entendras pas. Sans négliger le vain tourment que tu t’infliges ainsi, les juges sont plus prudents que toi ; dans leur vigilance turbulente, ils attendent patiemment ta mort : le moment du jugement final et sans appel, les parjures des témoins, le résultat du comptage des points, consigné dans le grand livre des accomplissements. Untel, tant de points. Une courte ligne dans un répertoire qui, même s’il n’est tenu que depuis quelques milliers d’années, et alors que l’espèce humaine est encore jeune, en comprend déjà des millions.Reste ceux, de moins en moins nombreux, qui, discrets, insignifiants, inaperçus, échappent au jugement et sombrent directement dans l’oubli. Tu hésites à les envier."
+        } ,
+    
+        {
           "title":"Ta vie ? C’est une partie…",
           "tags":"",
           "loc":"/2015/06/07/ta-vie-c-est-une-partie.html",
