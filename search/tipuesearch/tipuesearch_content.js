@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Il a beau être tordu…",
+          "tags":"",
+          "loc":"/2015/07/04/il-a-beau-etre-tordu.html",
+          "text":"Il a beau être tordu par l’arthrose et voûté par les ans, sa rectitude intérieure est intacte. Il a beau cheminer lentement et par de nombreux détours — on pourrait croire qu’il se promène, et il aurait bien l’âge de s’y consacrer exclusivement —, il ne s’écarte guère du chemin le plus court."
+        } ,
+    
+        {
           "title":"Innocent ? Impossible ! Depuis l’âge de raison…",
           "tags":"",
           "loc":"/2015/06/14/innocent-impossible-depuis-l-age-de-raison.html",
