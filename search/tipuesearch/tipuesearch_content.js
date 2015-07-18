@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Il est probable que je ne fasse que tourner…",
+          "tags":"",
+          "loc":"/2015/07/18/il-est-probable-que-je-ne-fasse-que-tourner.html",
+          "text":"Il est probable que je ne fasse que tourner en rond. Dans un monde confiné, comment pourrait-il en être autrement ? Mais du moment que la courbure de mon cercle est assez large pour me donner l’impression d’aller tout droit, je ne me plains pas, ne me sens pas à l’étroit.D’ailleurs je ne crois pas être déjà passé deux fois au même endroit : peut-être même la courbure de mon cercle est-elle si vaste qu’elle ne m’est pas seulement insensible, mais que je pourrai la suivre sans jamais boucler un seul tour complet avant ma mort."
+        } ,
+    
+        {
           "title":"Il a beau être tordu…",
           "tags":"",
           "loc":"/2015/07/04/il-a-beau-etre-tordu.html",
