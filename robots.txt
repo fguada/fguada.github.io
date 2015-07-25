@@ -3,6 +3,7 @@ User-agent: *
 Disallow: /page*/
 Disallow: /index-chronologique
 Disallow: /index-alphabetique
+Disallow: /tout-sur-une-seule-page
 Disallow: /search
 Disallow: /abonnement-par-courriel
 Disallow: /abonnement-confirme
