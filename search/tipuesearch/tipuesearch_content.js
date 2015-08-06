@@ -10,7 +10,7 @@ var tipuesearch = {"pages": [
         {
           "title":"Il a beau être tordu…",
           "tags":"",
-          "loc":"/2015/07/04/Il-a-beau-e%CC%82tre-tordu%E2%80%A6.html",
+          "loc":"/2015/07/04/Il-a-beau-etre-tordu%E2%80%A6.html",
           "text":"Il a beau être tordu par l’arthrose et voûté par les ans, sa rectitude intérieure est intacte. Il a beau cheminer lentement et par de nombreux détours — on pourrait croire qu’il se promène, et il aurait bien l’âge de s’y consacrer exclusivement —, il ne s’écarte guère du chemin le plus court."
         } ,
     
