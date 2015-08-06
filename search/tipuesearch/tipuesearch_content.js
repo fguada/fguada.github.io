@@ -2031,7 +2031,7 @@ var tipuesearch = {"pages": [
         } ,
     
         {
-          "title":"La boule",
+          "title":"Prends la boule dans ta main…",
           "tags":"",
           "loc":"/prends-la-boule-dans-ta-main",
           "text":"Prends la boule dans ta main, serre-la de toute ta force, qui peut être énorme : tu ne l’entameras pas, ne l’écraseras pas ; relâche ta pression, et la boule est intacte. Tu peux l’observer des heures, des années durant, toute ta vie même, sans cesser de la voir boule ; tu peux suivre indéfiniment des yeux les courbes des nœuds que sa matière dessine… La boule est une boule reste une boule.Mais que tu la tiennes un jour un peu différemment, que tu la jettes contre le mur, que le soleil soudainement l’éclaire d’une manière inaccoutumée : la boule disparaît, et tu n’as plus devant les yeux qu’une pelote de fils, un filet de pêche tout emmêlé roulé en boule. Tire un de ces fils, et tu peux le trouver plus solide que le plus gros des filins d’acier ou plus fin et cassant qu’un cheveu ; saisis-toi du filet, et vois qu’entre les mailles, tu peux passer tout entier.Tu sors de la maille et tu rattrapes la boule au vol, qu’on t’a lancée par jeu, comme boule, et qui t’aurait assommé comme telle. La boule est une boule, une pelote de causalité, un filet de relations nouées. Tout dépend de ce que tu veux en faire."
