@@ -114,7 +114,7 @@ p+p {
 }
 .spacebefore, .paginator {
 	padding-top: 1.5em;
-	text-indent: 0em !important;
+	text-indent: 0 !important;
 }
 .star {
 	padding-top: 1.5em;
@@ -202,10 +202,13 @@ img.imageCentered {
 	font-size: 1.25em;
 	}
 	header {
-	padding-top: 0em;
+	padding-top: 0;
 	}
 	h1 {
 	font-size: 180%;
+	}
+	h2 {
+	padding-top: 4em;
 	}
 	#wrapper > footer {
 	padding-bottom: 1em;
@@ -217,6 +220,6 @@ img.imageCentered {
 	bottom:1.5em;
 	}
 	#menu, #haut {
-	right: 0em;
+	right: 0;
 	}
 }
