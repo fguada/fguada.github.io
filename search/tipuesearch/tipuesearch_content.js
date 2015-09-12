@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Les loups, une fois rassasiés…",
+          "tags":"",
+          "loc":"/les-loups-une-fois-rassasies",
+          "text":"Les loups, une fois rassasiés, s’ils ne digèrent pas en somnolant, se disputent pour faire passer le temps. Ils retroussent leurs babines ensanglantées, font grincer leurs dents, grognent, hurlent. Quel que soit le sujet abordé, le moindre désaccord est source d’agressivité. Seules la grande table chargée de vaisselle, peut-être, et la lourdeur de leurs estomacs, les retiennent de résoudre dans le sang des crocs leurs débats. Avec ce tapage, nul n’entend ce que bêle l’agneau épargné par le festin trop garni. Lui aussi a faim ! Et le moment ne tardera pas où, la faim dépassant la peur, il essaiera de téter la plus proche louve repue. Pauvre agnelet ! Serais-tu resté au champ, ce n’aurait guère été différent : dans le brouhaha des bêlements continuels et mêlés, qui aurait entendu ta plainte ?"
+        } ,
+    
+        {
           "title":"Il est probable que je ne fasse que tourner…",
           "tags":"",
           "loc":"/il-est-probable-que-je-ne-fasse-que-tourner",
