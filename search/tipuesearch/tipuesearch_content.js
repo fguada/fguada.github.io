@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Les réponses gueulées",
+          "tags":"",
+          "loc":"/les-reponses-gueulees",
+          "text":"De partout, ça gueule des réponses. J’ai beau changer de trottoir et me boucher les oreilles, je ne peux pas ne pas les entendre, ces réponses hurlées enchevêtrées, chacune essayant de dominer les autres. J’ai beau essayer de ne pas leur prêter attention, c’est impossible, presque à tous les carrefours un militant est là pour capturer mon regard fuyant et, profitant de ma politesse, m’asséner, les yeux dans les yeux sans ciller, sa réponse, sa petite réponse propre. Pas d’échappatoire, je vais devoir subir jusqu’au bout la leçon, ennuyeuse et naïve. Il arrive encore que ma propre petite réponse me brûle la langue, mais je ravale la tirade ridiculement vengeresse que je tiens prête (en substance : que je récuse ces réponses qui se contredisent et s’excluent mutuellement, et entre lesquelles nul ne peut trancher ; que si quelqu’un, un jour, vient qui peut les départager, je me rangerai évidemment à son avis ; mais qu’en attendant — car celui-là ne sera pas moi — je me contenterai du minimum…). Je prends mon mal en patience, et dès que j’en ai l’occasion je pars me recueillir au fond de forêts ou de mon esprit, là où le vacarme des harangues n’atteint pas, là où je puis à nouveau, tendant l’oreille, entendre ce que chuchotent les voix timides des questions. Si je devais répondre, je me contenterais de questionner. Mais je ne dis rien : nul ne me demande mon avis, et je ne force personne à l’entendre, refusant d’ajouter encore à la confusion globale, refusant d’être la cible de contradicteurs agressifs au propos immodéré. Je me tais, de plus en plus décidément à mesure que les voix montent alentour."
+        } ,
+    
+        {
           "title":"Dans notre communauté, la solidarité…",
           "tags":"",
           "loc":"/dans-notre-communaute-la-solidarite",
