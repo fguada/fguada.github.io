@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Le mur qui ceint le paradis…",
+          "tags":"",
+          "loc":"/le-mur-qui-ceint-le-paradis",
+          "text":"Le mur qui ceint le paradis tombe en ruine. Ici de profondes lézardes où vivent des colonies d’abeilles, là de larges pans effondrés ; presque partout, ce sont les filets enchevêtrés des lianes aux crampons infimes et des épaisses toiles d’araignées qui le tiennent encore debout, plus que foi ou mortier. De gardes, il n’y a sans doute jamais eu ; et quant aux ouvriers, qui les paierait ?Facile à abattre comme à escalader, il n’arrête plus les curieux. Mais leur curiosité est rapidement déçue : dans l’enceinte du paradis, ils ne trouvent rien d’autre qu’une forêt un peu plus sombre, un peu plus profonde, un peu plus sauvage et dangereuse qu’alentour. Parfois, ils sont même ressortis du vieux paradis sans s’en apercevoir."
+        } ,
+    
+        {
           "title":"Les réponses gueulées",
           "tags":"",
           "loc":"/les-reponses-gueulees",
