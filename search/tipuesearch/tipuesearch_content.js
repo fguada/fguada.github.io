@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"La force et le courage, la persévérance…",
+          "tags":"",
+          "loc":"/la-force-et-le-courage-la-perseverance",
+          "text":"La force et le courage, la persévérance, l’ingéniosité ne nous ont pas manqué pour faire le plus gros du chemin et parvenir où nous sommes. Mais ici, en vue du but, presque à portée, quasiment nous stagnons depuis des siècles. Aucun obstacle infranchissable ne s’est pourtant dressé contre nous au dernier moment ; au contraire, pour qui se ressaisit un instant, il semble que le plus dur a été fait, qu’il suffirait, qu’il aurait suffi de presque rien ; mais d’abord le découragement de ne plus avancer — nous qui longtemps avions été grisés par notre vitesse —, puis l’apathie et le dégoût ont fini par nous paralyser. Ce n’est plus que par dessus nos épaules que nous jetons un coup d’œil, parfois encore amer mais le plus souvent déjà distrait, un simple réflexe, à ce vers quoi nous n’essayons même plus d’aller. Nous nous sommes retournés, nous regardons vers le passé, nous nous remémorons le chemin parcouru, nous en énumérons les étapes, nous nous glorifions des obstacles franchis. Ce qui nous retient de faire demi-tour est de plus en plus fragile."
+        } ,
+    
+        {
           "title":"La plupart, arrivés au bout du monde…",
           "tags":"",
           "loc":"/la-plupart-arrives-au-bout-du-monde",
