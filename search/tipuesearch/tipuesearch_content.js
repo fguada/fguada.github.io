@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Je suis sur le point d’entrer quand je remarque…",
+          "tags":"",
+          "loc":"/je-suis-sur-le-point-d-entrer-quand-je-remarque",
+          "text":"Je suis sur le point d’entrer quand je remarque, au mur à côté de la porte, le panneau « Entrée interdite à toute personne non autorisée ». Ma main s’immobilise sur la poignée. Malheureux panonceau. Suis-je autorisé ou pas ? Peut-on être autorisé à son insu ? C’est pourtant bien l’adresse indiquée. Que faire ?Je tourne la poignée, hésitant je passe la tête dans la porte entrebaillée, ne voyant rien je l’ouvre assez grand pour y passer mon corps, j’avance, une porte s’ouvre, un employé sort, me reconnaît manifestement, me sourit, m’invite à continuer, m’indique que j’étais attendu ; c’est ainsi que je rejoins la société de mes Pairs.Mais ce n’est pas ainsi que ça se passe : d’abord je n’ose pas entrer ; même si je l’osais la porte serait fermée ; même si elle ne l’était pas je ne rencontrerais personne ; et même si je rencontrais quelqu’un il s’étonnerait de ma présence, prendrait peur ou du moins serait soupçonneux, inquisiteur, douterait de mes explications, ne répondrait pas à mes questions, ou seulement par d’autres questions, ou seulement par des mensonges, me renverrait là d’où je viens ou me ferait raccompagner par un vigile colossal et muet, qui me pousserait dehors sans ménagement et refermerait derrière moi la porte, dans la serrure de laquelle j’entendrais tourner la clé. Il n’est pas possible qu’il en aille autrement. Au lieu de m’autoriser moi-même à entrer, je vais chercher le pouvoir supérieur qui me dispensera d’autorisation, qui même me donnera sa bénédiction pour que j’emprunte ma voie naturelle, c’est-à-dire la porte de derrière, si elle existe."
+        } ,
+    
+        {
           "title":"À ma surprise, il y avait un portier…",
           "tags":"",
           "loc":"/a-ma-surprise-il-y-avait-un-portier",
