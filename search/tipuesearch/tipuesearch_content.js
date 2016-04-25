@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Je me réveille, mal reposé…",
+          "tags":"",
+          "loc":"/je-me-reveille-mal-repose",
+          "text":"Je me réveille, mal reposé. Je dois pourtant me lever. Je me dresse, remets ma tête sur mes épaules, et aussitôt, comme toujours, m’affaisse sous le poids. Me frotte les yeux, les ouvre, vérifie l’intégrité du monde alentour, et commence pesamment ma journée.Je tends la main et saisis le monde par le premier bout qui se présente. Je m’y aggripe, le secoue comme pour en arracher un morceau, mais c’est seulement pour me secouer moi-même, partie d’un tout que je dois constamment retrouver en moi, dehors à l’intérieur du dedans.« Aujourd’hui, je vais devenir moi-même » me dis-je comme tous les matins."
+        } ,
+    
+        {
           "title":"Je suis sur le point d’entrer quand je remarque…",
           "tags":"",
           "loc":"/je-suis-sur-le-point-d-entrer-quand-je-remarque",
