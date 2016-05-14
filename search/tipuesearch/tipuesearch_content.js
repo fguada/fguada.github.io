@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"À une époque, tu évitais les miroirs…",
+          "tags":"",
+          "loc":"/a-une-epoque-tu-evitais-les-miroirs",
+          "text":"À une époque, tu évitais les miroirs ; mais tu as dépassé cette facile faiblesse : désormais, la plupart du temps, ce n’est plus toi que tu vois dans le miroir, mais un être humain, un visage anonyme, quelconque. Tu ne veux être ni quelqu’un ni personne et tu y parviens de mieux en mieux. Te regardant tu sais ne pas voir, du moins tu sais occulter, tout signe d’intériorité.Pour l’affrontement, au contraire, te te campes face au miroir, tu fixes les yeux, et tu attends : tu attends qu’il prenne la parole, qu’il accuse, absolve, agisse, t’emmène. Quand ton impatience est devenue trop vive, tu lui craches au visage et te détournes, plein de mépris. Quel lâche, te dis-tu en t’enfuyant."
+        } ,
+    
+        {
           "title":"Je me réveille, mal reposé…",
           "tags":"",
           "loc":"/je-me-reveille-mal-repose",
