@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Du vieux piédestal…",
+          "tags":"",
+          "loc":"/du-vieux-piedestal",
+          "text":"Du vieux piédestal — lisse et rectiligne haut artefact —, la statue a depuis longtemps déjà été mise à bas, et un homme s’en est relevé, dont la première pensée fut un adieu, les yeux levés sur la plate-forme vide.Ce que j’appelle désormais mon piédestal est un rocher à peu près plat, guère plus haut qu’un tabouret, que j’ai découvert un jour dans les bois proches. Mes balades m’y ramènent presque invariablement. Mais les détritus alentour montrent assez que je suis loin d’être le seul à fréquenter l’endroit. Si, quand j’approche, je vois quelqu’un, je passe au large, sans m’arrêter ni même regarder par là. Et pour que je me dresse sur mon piédestal, il me faut rien moins que la certitude d’être seul à la ronde. Silence, immobilité des fourrés. Le moindre cri d’oiseau me fait sursauter. De toute façon l’envie est devenue rare. L’horizon est assez proche, et je n’ai rien là-haut ni à voir ni à montrer. La plupart du temps je me contente de m’asseoir sur mon piédestal, jambes pendantes. J’y grimpe facilement ; j’en descends encore plus facilement. Ou bien j’allonge mon dos sur sa surface dure, inerte, et, presque entièrement caché par les hautes herbes qui l’entourent, les mains sous la tête, les yeux au ciel à travers les frondaisons, lucide, j’attends, ce n’est jamais long, que l’urgence à œuvrer, la solitude ou la faim me chassent."
+        } ,
+    
+        {
           "title":"À une époque, tu évitais les miroirs…",
           "tags":"",
           "loc":"/a-une-epoque-tu-evitais-les-miroirs",
