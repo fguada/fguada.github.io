@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Mon amie géographe…",
+          "tags":"",
+          "loc":"/mon-amie-geographe",
+          "text":"Mon amie géographe, tristement me dit :« De même que les barbares avaient fini par disparaître, on pensait que bientôt le dernier étranger aussi s’éteindrait, et avec lui toute altérité ; qu’il n’y aurait plus que des singularités, plus que des bons et des méchants, des justes ou des criminels ; la même loi du Nord au Sud et de l’Est à l’Ouest, la même langue, finalement la même couleur de peau, grise.Certains le déploraient : où trouver désormais les différences qui permettent de se mesurer, de trouver définition et inspiration ? D’autres s’en réjouissaient : fini les guerres, la xénophobie, l’incompréhension mutuelle, fini la compétition catastrophique pour des terres de plus en plus épuisées ; c’était la meilleure chose qui pût arriver à la biosphère, à Gaïa.Mais comme ils se sont trompés, ceux qui, d’un côté comme de l’autre, y croyaient ! Non seulement les étrangers résistent les uns aux autres, résistent à une assimilation qu’on avait crue irréversible, mais les dissensions de nouveau croissantes nous éloignent de l’uniformité et de l’homogénéité que quelques-uns désirent encore. C’en est au point que certains, ici ou là, pensent devoir déclarer la renaissance des barbares ! L’altérité est certes moins diverse qu’avant les avions et les télécommunications, mais pas moins affirmée.Pauvre Gaïa : dans cette longue histoire, c’est la seule à être toujours et partout victime. Alors qu’il lui aurait fallu que, dilués, prospères, nous dormions pendant cent mille ans, puis que, réveillés, assagis, sans plus rêver aux étoiles, irrémédiablement trop lointaines, nous les terrestres nous contentions de contempler et d’étudier les brins d’herbes qui tapissent les clairières du paradis qu’elle serait entre-temps redevenue. »Ignorant, sans avis, ne sachant que lui répondre, je me contente de la consoler, je l’étreins, je la réchauffe ; et pour nous, lovés, pour un temps, du proche au lointain le monde s’ordonne."
+        } ,
+    
+        {
           "title":"Le marcheur",
           "tags":"",
           "loc":"/le-marcheur",
