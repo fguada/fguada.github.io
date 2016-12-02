@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"C’est encore loin ?…",
+          "tags":"",
+          "loc":"/c-est-encore-loin",
+          "text":"— C’est encore loin ? me demande-t-elle.— Bien sûr. C’est même beaucoup trop loin ! Heureusement !Je prends la main de ma fille, qui est fatiguée — moins par le terrain que parce qu’elle va trop vite, quoiqu’elle ne se presse pas —, et, la ralentissant, à mon rythme, nous continuons notre chemin spiralé vers l’intérieur, tranquilles et infimes au centre de la vastitude, à l’abri d’horizons lointains."
+        } ,
+    
+        {
           "title":"On vivait là quasiment coupé du monde…",
           "tags":"",
           "loc":"/on-vivait-la-quasiment-coupe-du-monde",
