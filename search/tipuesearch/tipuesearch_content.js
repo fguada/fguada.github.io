@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Il s’envole, le moi…",
+          "tags":"",
+          "loc":"/il-s-envole-le-moi",
+          "text":"Il s’envole, le moi, il voltige comme l’oiseau qui semble ne suivre les courants que pour son plaisir — puisqu’il n’a pas l’air de chercher des yeux une proie au sol, puisqu’il ne regarde même pas le sol, et pas non plus l’horizon lointain d’où sa migration annuelle l’a porté — ; il voltige et c’est, de l’être dont il participe, le peu qui reste qui le regarde, calme, appréciatif mais heureux de n’être soumis qu’à distance à l’excitation du vol rapide, secoué, tourbillonnant, vertigineux.Quand il s’est bien défoulé, le moi se replie et rentre, et l’unité prévaut dans cette petite portion du monde qui englobe et joint deux yeux et quelques pommiers, deux pieds nus dans des sandales, la terre humide et l’herbe du jardin, deux fesses et l’assise d’une chaise dépaillée."
+        } ,
+    
+        {
           "title":"C’est encore loin ?…",
           "tags":"",
           "loc":"/c-est-encore-loin",
