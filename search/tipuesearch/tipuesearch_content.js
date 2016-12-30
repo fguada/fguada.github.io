@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Mais pourquoi faut-il que le chemin…",
+          "tags":"",
+          "loc":"/mais-pourquoi-faut-il-que-le-chemin",
+          "text":"— Mais pourquoi faut-il que le chemin soit si long ? demande, un peu devant, quelqu’un d’une voix excédée mais avec une exagération ostensible.— Ce n’est pas une nécessité, répond un autre.— Tu peux t’arrêter quand tu veux, ajoute un troisième.Après un temps, le premier : « Je sais, je sais ». Nous comprenons tous à son ton qu’il regrette que son mouvement d’humeur ait été pris au sérieux ; il recherchait, certes maladroitement, des encouragements, non une leçon, dont l’évidence par surcroît est presque méprisante. Je me réjouis silencieusement de n’avoir pas donné mon avis. À sa place — et c’est seulement par timidité, non par endurance ou stoïcisme, que je n’y suis pas encore — moi aussi j’aurais voulu des encouragements. Ce n’est donc pas ainsi que je les obtiendrais. Mais l’évidence, toujours vite oubliée comme une habitude prise, ne m’a pas été rappelée vainement. Et si je m’arrêtais ? Bien sûr que non. La prochaine étape n’est plus très loin, et la récompence du bivouac. Je ne peux pas vouloir m’arrêter maintenant, alors que la fin du jour approche et qu’il me reste si peu d’énergie. Le matin plutôt, après une nuit reposante, je pourrais trouver la force de laisser les autres partir sans moi. Mais le matin j’ai aussi la force nécessaire pour les suivre, et aucune raison de ne pas le faire.« Il pourrait tout de même être plus court, ou moins dur », reprend le premier, touché. Accord, ou pitié, personne ne le contredit. Soudain les nuages découvrent les premières étoiles, qui nous distraient et nous fortifient.Je pense : « Il pourrait descendre au lieu de monter » mais je me donne tort aussitôt. Je me corrige : « Il pourrait du moins faire une boucle, pour nous donner le plaisir périodique d’un retour qui ne soit pas unique, tardif, définitif, terminal. » Dans le silence du crépuscule, je n’ose pas le dire."
+        } ,
+    
+        {
           "title":"Il s’envole, le moi…",
           "tags":"",
           "loc":"/il-s-envole-le-moi",
