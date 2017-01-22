@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Tu ne peux pas te détacher…",
+          "tags":"",
+          "loc":"/tu-ne-peux-pas-te-detacher",
+          "text":"Tu ne peux pas te détacher (te dit, par dessus ton épaule, le passant qui t’aperçoit essayer en cachette) : les nœuds sont trop nombreux, trop compliqués même s’ils ne sont pas trop serrés : tu ne peux qu’arracher, trancher tes liens. Pour quoi faire ? voudrait-on te demander. Est-ce à notre présence que tu veux échapper ; à la possibilité constante, certes, quoique rarement concrétisée, de notre survenue, intempestive peut-être mais toujours bienveillante ? Mais tu t’es déjà esquivé, confirmant nos pires craintes : il ne s’agissait pas de relâcher des liens déjà suffisamment ductiles pour pouvoir être allongés au moins jusqu’à Pluton, mais bien d’une rupture. Tu as disparu. Inutile de tirer : plus personne au bout du fil ; mais nous ne te chercherons pas ; et te rencontrerions-nous par hasard que nous aurions grand mal à seulement nous reconnaître. Puisses-tu trouver, dans cet état de…  — comment le décrirais-tu : liberté périlleuse, autonomie errante, refondation solipsiste, solitude misanthrope…? — puisses-tu trouver, même si ce n’est pas ton souhait, à qui, à quoi raccrocher les liens effilochés que tu traînes et qui, j’en ai peur, battant, s’emmêlant et partout au moindre relief se prenant, t’entravent bien plus maintenant qu’alors."
+        } ,
+    
+        {
           "title":"Mais pourquoi faut-il que le chemin…",
           "tags":"",
           "loc":"/mais-pourquoi-faut-il-que-le-chemin",
