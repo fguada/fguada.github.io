@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Tu m’as donné un but…",
+          "tags":"",
+          "loc":"/tu-m-as-donne-un-but",
+          "text":"— Tu m’as donné un but, sans me montrer de chemin : tu m’as emprisonné dans un commencement indépassable. Si tu m’avais montré plutôt un chemin, je serais du moins arrivé quelque part.— Tu n’étais pas obligé de me croire. Ne récrimine pas contre ta cellule : tu l’as douillettement aménagée. Ferme les volets, ou bien ouvre la porte : tu as le choix."
+        } ,
+    
+        {
           "title":"Tu ne peux pas te détacher…",
           "tags":"",
           "loc":"/tu-ne-peux-pas-te-detacher",
