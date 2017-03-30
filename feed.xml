@@ -5,9 +5,20 @@
     <description>Fictions brèves en prose.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 Feb 2017 09:03:14 +0100</pubDate>
-    <lastBuildDate>Sat, 25 Feb 2017 09:03:14 +0100</lastBuildDate>
+    <pubDate>Thu, 30 Mar 2017 09:58:11 +0200</pubDate>
+    <lastBuildDate>Thu, 30 Mar 2017 09:58:11 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Tu as tenu à partir le dernier…</title>
+        <description>&lt;p&gt;Tu as tenu à partir le dernier, mais non pas, comme presque tous ont dû le croire, pour te recueillir, mais plutôt pour n’avoir pas à subir leur bavardage ou leur compassion importune. Tu ne te retournes pas avant que le silence se soit rétabli dans ton dos. Tu inspectes de loin le parking, vide, et la route, déserte. Tu sors donc le dernier du cimetière, tu refermes derrière toi sa porte, et du même geste la part pesante de ta vie. Te voilà dégagé du dernier des liens auxquels tu n’avais pas dû consentir. C’est d’un pas léger, guilleret si tu l’osais, que tu pars te promener à la découverte d’une liberté jusqu’alors seulement soupçonnée, ardemment désirée, longuement et patiemment attendue.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 30 Mar 2017 09:57:23 +0200</pubDate>
+        <link>http://localhost:4000/tu-as-tenu-a-partir-le-dernier</link>
+        <guid isPermaLink="true">http://localhost:4000/tu-as-tenu-a-partir-le-dernier</guid>
+        
+        
+      </item>
     
       <item>
         <title>Tu m’as donné un but…</title>
@@ -352,17 +363,6 @@
         <pubDate>Sat, 19 Sep 2015 17:16:14 +0200</pubDate>
         <link>http://localhost:4000/pour-les-aider-a-vivre-on-condamne</link>
         <guid isPermaLink="true">http://localhost:4000/pour-les-aider-a-vivre-on-condamne</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Les loups, une fois rassasiés…</title>
-        <description>&lt;p&gt;Les loups, une fois rassasiés, s’ils ne digèrent pas en somnolant, se disputent pour faire passer le temps. Ils retroussent leurs babines ensanglantées, font grincer leurs dents, grognent, hurlent. Quel que soit le sujet abordé, le moindre désaccord est source d’agressivité. Seules la grande table chargée de vaisselle, peut-être, et la lourdeur de leurs estomacs, les retiennent de résoudre dans le sang des crocs leurs débats. Avec ce tapage, nul n’entend ce que bêle l’agneau épargné par le festin trop garni. Lui aussi a faim ! Et le moment ne tardera pas où, la faim dépassant la peur, il essaiera de téter la plus proche louve repue. Pauvre agnelet ! Serais-tu resté au champ, ce n’aurait guère été différent : dans le brouhaha des bêlements continuels et mêlés, qui aurait entendu ta plainte ?&lt;/p&gt;
-</description>
-        <pubDate>Sat, 12 Sep 2015 12:16:41 +0200</pubDate>
-        <link>http://localhost:4000/les-loups-une-fois-rassasies</link>
-        <guid isPermaLink="true">http://localhost:4000/les-loups-une-fois-rassasies</guid>
         
         
       </item>

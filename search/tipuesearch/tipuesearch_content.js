@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Tu as tenu à partir le dernier…",
+          "tags":"",
+          "loc":"/tu-as-tenu-a-partir-le-dernier",
+          "text":"Tu as tenu à partir le dernier, mais non pas, comme presque tous ont dû le croire, pour te recueillir, mais plutôt pour n’avoir pas à subir leur bavardage ou leur compassion importune. Tu ne te retournes pas avant que le silence se soit rétabli dans ton dos. Tu inspectes de loin le parking, vide, et la route, déserte. Tu sors donc le dernier du cimetière, tu refermes derrière toi sa porte, et du même geste la part pesante de ta vie. Te voilà dégagé du dernier des liens auxquels tu n’avais pas dû consentir. C’est d’un pas léger, guilleret si tu l’osais, que tu pars te promener à la découverte d’une liberté jusqu’alors seulement soupçonnée, ardemment désirée, longuement et patiemment attendue."
+        } ,
+    
+        {
           "title":"Tu m’as donné un but…",
           "tags":"",
           "loc":"/tu-m-as-donne-un-but",
