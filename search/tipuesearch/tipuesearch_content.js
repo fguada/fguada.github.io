@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Mes adjuvants…",
+          "tags":"",
+          "loc":"/mes-adjuvants",
+          "text":"Mes adjuvants… Si seulement je pouvais être sûr qu’ils me poussent dans la bonne direction. Mais leur sourire est un masque qui me fait baisser les yeux, leur assurance évidente m’incite à la confiance, leurs encouragements parlent à mon âme d’enfant avec ses propres mots et lui disent exactement ce qu’elle désire timidement et profondément entendre, et je suis leurs conseils. Mais le scrupule me ralentit, et ma lenteur est cause de la désapprobation, voire de la pitié, que je les soupçonne d’exprimer entre eux à mon égard quand, leur rôle rempli, ils se reposent en bavardant. J’imagine aisément leurs commentaires sur mon cheminement : « Quelle présomption : ne pas nous faire une confiance aveugle ! — Résultat : il traîne ; ce contre quoi nous l’avons mis en garde l’attire ; les directions que nous lui avons interdites lui semblent des raccourcis dont malignement nous le privons… — Qui veut encore se donner de la peine pour lui ? » Je les fais taire avant de les entendre parier contre moi. J’ai peur qu’ils m’abandonnent et me laissent seul face aux bifurcations sans fin. Mais si ma gratitude ne leur suffit pas, s’il me faut choisir entre les perdre et leur obéir sans réserve, je choisis la perte. Il me restera, comme aide, les hasards favorables ; et, plus précieuse que toute aide, la liberté de m’arrêter n’importe quand."
+        } ,
+    
+        {
           "title":"Tu as tenu à partir le dernier…",
           "tags":"",
           "loc":"/tu-as-tenu-a-partir-le-dernier",
