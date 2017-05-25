@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Il attaque tous ses jours en conquérant…",
+          "tags":"",
+          "loc":"/il-attaque-tous-ses-jours-en-conquerant",
+          "text":"Il attaque tous ses jours en conquérant, les finit presque tous au bord du suicide. Même les fois, d’ailleurs fréquentes, où il parvient à anticiper le moment où l’enthousiasme devient excitation et l’excitation énervement, où l’ardeur devient violence, où l’énergie se retourne contre elle-même, il n’arrive que très rarement à s’y arracher, sage alors mais d’abord amer de cette sagesse même et des désirs dont elle le prive, bien que, d’un autre côté, il les sache inassouvissables. C’est seulement lorsque l’enthousiasme apaisé est devenu sérénité, lorsque l’énergie est finalement canalisée par une ardeur devenue diligence, qu’il peut jouir des bienfaits de cette victoire remportée sur lui-même et de la douceur d’un soir pour une fois plus proche de la renaissance que du trépas."
+        } ,
+    
+        {
           "title":"Mes adjuvants…",
           "tags":"",
           "loc":"/mes-adjuvants",
