@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Le sage — ainsi les villageois l’appellent-ils…",
+          "tags":"",
+          "loc":"/le-sage-ainsi-les-villageois-l-appellent-ils",
+          "text":"Le sage — ainsi les villageois l’appellent-ils — sort du bois comme un loup. Il ne voit personne, ne parle pas. Il n’a peur de rien, traversant les routes n’importe où, n’importe quand, marchant au printemps sur la glace et sous l’orage. On lui prédit souvent une mort prochaine — il ne répond jamais —, jusqu’au jour où on cesse de l’apercevoir. Est-il mort ? Est-il parti ? Reviendra-t-il ? Nul n’en a la moindre idée. On finit par l’oublier, la vie sans lui ne fait aucune différence. Des années plus tard, en sauvant un bébé tombé dans un puits tari, on trouve là au fond les haillons habituels du vieux sage, entourant des os blanchis. Lui aussi était tombé dans le puits, comprend-on, et contrairement au bébé, dont tout le monde ici avait entendu les cris, il n’avait pas appelé au secours, pour lui non plus sa vie ne faisait aucune différence."
+        } ,
+    
+        {
           "title":"Quand j’étais garde forestier…",
           "tags":"",
           "loc":"/quand-j-etais-garde-forestier",

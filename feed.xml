@@ -5,9 +5,20 @@
     <description>Fictions brèves en prose.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Jun 2017 21:04:03 +0200</pubDate>
-    <lastBuildDate>Sat, 24 Jun 2017 21:04:03 +0200</lastBuildDate>
+    <pubDate>Mon, 28 Aug 2017 21:14:24 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Aug 2017 21:14:24 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Le sage — ainsi les villageois l’appellent-ils…</title>
+        <description>&lt;p&gt;Le sage — ainsi les villageois l’appellent-ils — sort du bois comme un loup. Il ne voit personne, ne parle pas. Il n’a peur de rien, traversant les routes n’importe où, n’importe quand, marchant au printemps sur la glace et sous l’orage. On lui prédit souvent une mort prochaine — il ne répond jamais —, jusqu’au jour où on cesse de l’apercevoir. Est-il mort ? Est-il parti ? Reviendra-t-il ? Nul n’en a la moindre idée. On finit par l’oublier, la vie sans lui ne fait aucune différence. Des années plus tard, en sauvant un bébé tombé dans un puits tari, on trouve là au fond les haillons habituels du vieux sage, entourant des os blanchis. Lui aussi était tombé dans le puits, comprend-on, et contrairement au bébé, dont tout le monde ici avait entendu les cris, il n’avait pas appelé au secours, pour lui non plus sa vie ne faisait aucune différence.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Aug 2017 21:13:26 +0200</pubDate>
+        <link>http://localhost:4000/le-sage-ainsi-les-villageois-l-appellent-ils</link>
+        <guid isPermaLink="true">http://localhost:4000/le-sage-ainsi-les-villageois-l-appellent-ils</guid>
+        
+        
+      </item>
     
       <item>
         <title>Quand j’étais garde forestier…</title>
@@ -332,19 +343,6 @@
         <pubDate>Sun, 27 Dec 2015 09:43:40 +0100</pubDate>
         <link>http://localhost:4000/la-plupart-arrives-au-bout-du-monde</link>
         <guid isPermaLink="true">http://localhost:4000/la-plupart-arrives-au-bout-du-monde</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Le mur qui ceint le paradis…</title>
-        <description>&lt;p&gt;Le mur qui ceint le paradis tombe en ruine. Ici de profondes lézardes où vivent des colonies d’abeilles, là de larges pans effondrés ; presque partout, ce sont les filets enchevêtrés des lianes aux crampons infimes et des épaisses toiles d’araignées qui le tiennent encore debout, plus que foi ou mortier. De gardes, il n’y a sans doute jamais eu ; et quant aux ouvriers, qui les paierait ?&lt;/p&gt;
-
-&lt;p&gt;Facile à abattre comme à escalader, il n’arrête plus les curieux. Mais leur curiosité est rapidement déçue : dans l’enceinte du paradis, ils ne trouvent rien d’autre qu’une forêt un peu plus sombre, un peu plus profonde, un peu plus sauvage et dangereuse qu’alentour. Parfois, ils sont même ressortis du vieux paradis sans s’en apercevoir.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 20 Dec 2015 12:40:10 +0100</pubDate>
-        <link>http://localhost:4000/le-mur-qui-ceint-le-paradis</link>
-        <guid isPermaLink="true">http://localhost:4000/le-mur-qui-ceint-le-paradis</guid>
         
         
       </item>
