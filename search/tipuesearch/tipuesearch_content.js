@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"J’apprends qu’une guerre vient d’éclater…",
+          "tags":"",
+          "loc":"/j-apprends-qu-une-guerre-vient-d-eclater",
+          "text":"J’apprends qu’une guerre vient d’éclater entre deux pays lointains. Elle s’ajoute, dans la balance du monde, à la guerre civile qui a cours depuis plusieurs années dans un pays presque voisin du nôtre. Comment faire ici, où, même si nous n’arrivons pas à être heureux, nous sommes du moins à l’abri de la violence et des destructions de masse, comment faire pour contrebalancer le mal et le malheur qui se déchaîneront bientôt là-bas ? Déjà cette proche guerre civile nous avait forcés à redoubler d’efforts ; pouvons-nous les accroître encore ? Certes, pour l’instant la nouvelle guerre n’a causé ni mort ni exode, c’est seulement la peur que nous devons compenser, et nous avons assez de confiance et de sang-froid pour ça ; mais quand les bombes frapperont, quand les batailles tueront et mutileront les hommes par miliers, où trouvererons-nous les trésors d’amour, de bienveillance, de compassion, de douceur, de rire, de joie, de bonheur même qu’il faudrait pour empêcher le monde de pencher dangereusement ou d’osciller constamment, de sursaut en sursaut, entre excès opposés ? Cela nous sera d’autant plus difficile que, ce faisant, nous ne pouvons nous permettre de laisser croitre entre ces malheureux et nous un écart infranchissable. Il ne s’agit pas de devenir ici des saints : nous nous isolerions, nous couperions le monde en deux, ne compensant plus rien du tout. Il nous faut continuer à trembler pour et avec eux, et en même temps être aussi bons et heureux que possible ; comme Atlas qui devait pousser plus fort le côté du monde qui pèse le plus lourd pour ne pas le tenir de travers. Y parviendrons-nous, ou bien, soit que nous suivions la pente amorcée par ceux qui versent le sang, soit que nos efforts ne suffisent pas pour compenser leur acharnement, ne pourrons-nous empêcher le monde de perdre son fragile équilibre ?"
+        } ,
+    
+        {
           "title":"Le sage — ainsi les villageois l’appellent-ils…",
           "tags":"",
           "loc":"/le-sage-ainsi-les-villageois-l-appellent-ils",
