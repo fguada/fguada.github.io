@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"C’est mon tour de faire la vaisselle, dit-il…",
+          "tags":"",
+          "loc":"/c-est-mon-tour-de-faire-la-vaisselle-dit-il",
+          "text":"C’est mon tour de faire la vaisselle, dit-il en se dirigeant vers la cuisine. Les convives se levèrent tous pour aider à débarrasser la table, et restèrent debout dans son dos dans la cuisine étroite, à bavarder. Il les entendait, les écoutait par instants, riait de leurs blagues, ajoutait par instants sa voix aux leurs. Il n’avait pas encore commencé à laver la vaisselle, il en était encore à la ranger : superposer toutes les assiettes, les creuses sur les plates, et tous les bols du plus grand au plus petit ; rassembler tous les couverts dans le même sens dans le saladier ; répartir l’eau de rinçage des légumes dans les différentes casseroles… S’il n’était pas aussi méthodique, soupira-t-il intérieurement, il aurait déjà lavé la moitié de la vaisselle. Mais c’était plus fort que lui, il avait besoin de cette préparation, qui répondait chez lui à un goût général qu’il avait toujours du mal à formuler : que les choses soient disposées de telle façon que l’acte décisif, à la fin, soit bref, doux, facile, idéalement un simple effleurement… Évidemment pour cette satisfaction, tout le travail était de préparation ; et il se disait parfois que sa vie, toute sa vie jusqu’alors, ressemblait peut-être aux durs préparatifs d’une mort si douce, rapide et silencieuse que nul, lui compris, n’y prendrait garde, une mort par soudaine évaporation, par disparition totale et subite, y compris des mémoires et des registres, un effacement dans un clin d’œil."
+        } ,
+    
+        {
           "title":"J’apprends qu’une guerre vient d’éclater…",
           "tags":"",
           "loc":"/j-apprends-qu-une-guerre-vient-d-eclater",

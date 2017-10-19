@@ -5,9 +5,20 @@
     <description>Fictions brèves en prose.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Sep 2017 09:02:41 +0200</pubDate>
-    <lastBuildDate>Sun, 24 Sep 2017 09:02:41 +0200</lastBuildDate>
+    <pubDate>Thu, 19 Oct 2017 11:37:29 +0200</pubDate>
+    <lastBuildDate>Thu, 19 Oct 2017 11:37:29 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>C’est mon tour de faire la vaisselle, dit-il…</title>
+        <description>&lt;p&gt;C’est mon tour de faire la vaisselle, dit-il en se dirigeant vers la cuisine. Les convives se levèrent tous pour aider à débarrasser la table, et restèrent debout dans son dos dans la cuisine étroite, à bavarder. Il les entendait, les écoutait par instants, riait de leurs blagues, ajoutait par instants sa voix aux leurs. Il n’avait pas encore commencé à laver la vaisselle, il en était encore à la ranger : superposer toutes les assiettes, les creuses sur les plates, et tous les bols du plus grand au plus petit ; rassembler tous les couverts dans le même sens dans le saladier ; répartir l’eau de rinçage des légumes dans les différentes casseroles… S’il n’était pas aussi méthodique, soupira-t-il intérieurement, il aurait déjà lavé la moitié de la vaisselle. Mais c’était plus fort que lui, il avait besoin de cette préparation, qui répondait chez lui à un goût général qu’il avait toujours du mal à formuler : que les choses soient disposées de telle façon que l’acte décisif, à la fin, soit bref, doux, facile, idéalement un simple effleurement… Évidemment pour cette satisfaction, tout le travail était de préparation ; et il se disait parfois que sa vie, toute sa vie jusqu’alors, ressemblait peut-être aux durs préparatifs d’une mort si douce, rapide et silencieuse que nul, lui compris, n’y prendrait garde, une mort par soudaine évaporation, par disparition totale et subite, y compris des mémoires et des registres, un effacement dans un clin d’œil.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Oct 2017 11:35:40 +0200</pubDate>
+        <link>http://localhost:4000/c-est-mon-tour-de-faire-la-vaisselle-dit-il</link>
+        <guid isPermaLink="true">http://localhost:4000/c-est-mon-tour-de-faire-la-vaisselle-dit-il</guid>
+        
+        
+      </item>
     
       <item>
         <title>J’apprends qu’une guerre vient d’éclater…</title>
@@ -330,17 +341,6 @@
         <pubDate>Sat, 26 Mar 2016 11:39:46 +0100</pubDate>
         <link>http://localhost:4000/a-ma-surprise-il-y-avait-un-portier</link>
         <guid isPermaLink="true">http://localhost:4000/a-ma-surprise-il-y-avait-un-portier</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>La force et le courage, la persévérance…</title>
-        <description>&lt;p&gt;La force et le courage, la persévérance, l’ingéniosité ne nous ont pas manqué pour faire le plus gros du chemin et parvenir où nous sommes. Mais ici, en vue du but, presque à portée, quasiment nous stagnons depuis des siècles. Aucun obstacle infranchissable ne s’est pourtant dressé contre nous au dernier moment ; au contraire, pour qui se ressaisit un instant, il semble que le plus dur a été fait, qu’il suffirait, qu’il aurait suffi de presque rien ; mais d’abord le découragement de ne plus avancer — nous qui longtemps avions été grisés par notre vitesse —, puis l’apathie et le dégoût ont fini par nous paralyser. Ce n’est plus que par dessus nos épaules que nous jetons un coup d’œil, parfois encore amer mais le plus souvent déjà distrait, un simple réflexe, à ce vers quoi nous n’essayons même plus d’aller. Nous nous sommes retournés, nous regardons vers le passé, nous nous remémorons le chemin parcouru, nous en énumérons les étapes, nous nous glorifions des obstacles franchis. Ce qui nous retient de faire demi-tour est de plus en plus fragile.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 03 Jan 2016 17:51:26 +0100</pubDate>
-        <link>http://localhost:4000/la-force-et-le-courage-la-perseverance</link>
-        <guid isPermaLink="true">http://localhost:4000/la-force-et-le-courage-la-perseverance</guid>
         
         
       </item>
