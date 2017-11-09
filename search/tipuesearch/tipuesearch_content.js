@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Il était à peine parti qu’il aperçut…",
+          "tags":"",
+          "loc":"/il-etait-a-peine-parti-qu-il-apercut",
+          "text":"Il était à peine parti qu’il aperçut à quelques centaines de pas devant lui une silhouette qui le fit sursauter. Il se mit à courir pour la rattraper, mais elle se mit à courir à son tour et non seulement il ne put la rattraper mais l’écart entre eux augmenta jusqu’à ce qu’il la perde de vue. Il se coucha épuisé, inquiet. Le lendemain l’autre était là, levant le camp à la même heure, juste au bout du regard. La poursuite recommença, et s’acheva de la même manière que la veille. Depuis — mis à part les jours où, comme d’un accord tacite, les deux s’ignorent, se distraient et se reposent — l’un poursuit tandis que l’autre fuit.Un jour d’heureuse, d’exceptionnelle coïncidence entre grande forme, confiance, endurance et enthousiasme, il se rend compte qu’il gagne du terrain. Ce constat le fait accélérer encore. Mais plus il s’en approche, plus l’autre s’estompe ; au lieu de pouvoir de plus en plus clairement distinguer sa forme, ses traits, il a de plus en plus de mal à ne pas le confondre avec un arbre, une ombre, à ne pas voir à travers. Au moment où il croit l’attraper enfin, il n’étreint que le vide, il se retrouve seul, ses mains, ses bras serrés sur rien d’autre qu’eux-mêmes.A-t-il perdu toutes ces années à poursuivre un fantôme ? Mais sans cet appât, où serait-il aujourd’hui ? À combien d’années en arrière ? Et maintenant, comment va-t-il faire pour continuer sans traînasser ? Va-t-il s’arrêter, s’installer ? Ces questions l’obnubilent, l’hypnotisent, il s’endort bientôt. Le lendemain matin, à peine réveillé, il se rend compte que la silhouette est de nouveau là, à portée de regard, en train de replier sa tente."
+        } ,
+    
+        {
           "title":"C’est mon tour de faire la vaisselle, dit-il…",
           "tags":"",
           "loc":"/c-est-mon-tour-de-faire-la-vaisselle-dit-il",
