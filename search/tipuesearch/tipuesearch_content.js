@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"À force de tout accepter…",
+          "tags":"",
+          "loc":"/a-force-de-tout-accepter",
+          "text":"À force de tout accepter, de se contenter de tout, il ne lui reste rien d’autre que son contentement. Il se sent et se dit heureux, mais tous les autres le fuient, comme exemple de la pire, de la plus honteuse déchéance, de l’abjection, du reniement de la plus élémentaire dignité. Il est peut-être sage, reconnaissent-ils, mais uniquement parce qu’il est déjà presque mort. Seuls les petits enfants ne se détournent pas. Ils n’ont pas encore honte pour lui, et n’ont pas non plus peur de lui : il n’a pas l’air dangereux, et ils ne craignent pas de lui ressembler parce qu’ils n’éprouvent aucune envie de l’imiter, sinon, brièvement, pour jouer. Sa nullité les attire, zéro tout rond, abîme souriant. Grâce à lui ils apprivoisent le néant. Les plus avisés des parents le comprennent, c’est pourquoi, malgré leur propre répugnance, ils laissent leurs enfants le côtoyer. Ils savent que ceux-ci, d’eux-mêmes, en grandissant, s’en éloigneront peu à peu jusqu’à s’en détourner complètement. Le risque que l’un d’eux sombre dans cet abîme, quoique ni nul ni négligeable, est intuitivement faible, et ils le courent parce que les bénéfices attendus de cette exposition précoce sont décisifs : immunité totale à la fascination du simple, propension à distinguer, goût de peu, absence de vertige au bord de l’abîme."
+        } ,
+    
+        {
           "title":"Il était à peine parti qu’il aperçut…",
           "tags":"",
           "loc":"/il-etait-a-peine-parti-qu-il-apercut",
