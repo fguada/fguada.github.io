@@ -137,13 +137,17 @@ a:hover {
 cite, em {
 	font-style: italic;
 }
-ul, ol {
+ul {
 	list-style: none;
 }
 li.dotedLineBelow {
 	margin-bottom: 0.5em;
 }
-
+.indexnumber {
+	color: #A6A6A6;
+	font-size: 70%;
+	padding-right: 1em;
+}
 .indextime {
 	color: #A6A6A6;
 	font-style: italic;
