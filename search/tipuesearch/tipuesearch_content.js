@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Nous vivons dans une bulle…",
+          "tags":"",
+          "loc":"/nous-vivons-dans-une-bulle",
+          "text":"Nous vivons dans une bulle, dis-tu ? Comme quasiment tout le monde. Même le mendiant sans-abri, même le réfugié de guerre vivent dans une bulle. Seuls quelques sages, peut-être, ont assez de force d’âme pour supporter de vivre sans autre bulle que le ciel. Du moins la nôtre n’est pas dépourvue de fenêtres ; nous n’omettons pas d’ouvrir régulièrement les rideaux ; nous n’avons même pas de volets. Elle est certes douillette mais elle est aussi petite et légère, tout le contraire de ces grandes bulles opaques qu’on devine à l’horizon, qu’on voit parfois briller, jamais sans nous demander avec inquiétude si ce ne seraient pas des explosions, plutôt que les reflets du soleil, qui les illuminent ainsi. Que faire d’autre ? Oui, nous allons continuer à tenter de réduire le rayon de notre bulle, allégeant pour nous l’entretien, pour autrui, certes infimement, la pression. Crever notre bulle ne nous rapprocherait de personne."
+        } ,
+    
+        {
           "title":"Je ne suis pas chez moi…",
           "tags":"",
           "loc":"/je-ne-suis-pas-chez-moi",

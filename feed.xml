@@ -5,9 +5,20 @@
     <description>Fictions brèves en prose.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jan 2018 16:17:19 +0100</pubDate>
-    <lastBuildDate>Wed, 17 Jan 2018 16:17:19 +0100</lastBuildDate>
+    <pubDate>Sat, 27 Jan 2018 20:41:10 +0100</pubDate>
+    <lastBuildDate>Sat, 27 Jan 2018 20:41:10 +0100</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Nous vivons dans une bulle…</title>
+        <description>&lt;p&gt;Nous vivons dans une bulle, dis-tu ? Comme quasiment tout le monde. Même le mendiant sans-abri, même le réfugié de guerre vivent dans une bulle. Seuls quelques sages, peut-être, ont assez de force d’âme pour supporter de vivre sans autre bulle que le ciel. Du moins la nôtre n’est pas dépourvue de fenêtres ; nous n’omettons pas d’ouvrir régulièrement les rideaux ; nous n’avons même pas de volets. Elle est certes douillette mais elle est aussi petite et légère, tout le contraire de ces grandes bulles opaques qu’on devine à l’horizon, qu’on voit parfois briller, jamais sans nous demander avec inquiétude si ce ne seraient pas des explosions, plutôt que les reflets du soleil, qui les illuminent ainsi. Que faire d’autre ? Oui, nous allons continuer à tenter de réduire le rayon de notre bulle, allégeant pour nous l’entretien, pour autrui, certes infimement, la pression. Crever notre bulle ne nous rapprocherait de personne.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Jan 2018 20:37:13 +0100</pubDate>
+        <link>http://localhost:4000/nous-vivons-dans-une-bulle</link>
+        <guid isPermaLink="true">http://localhost:4000/nous-vivons-dans-une-bulle</guid>
+        
+        
+      </item>
     
       <item>
         <title>Je ne suis pas chez moi…</title>
@@ -264,19 +275,6 @@
         <pubDate>Mon, 15 Aug 2016 20:29:16 +0200</pubDate>
         <link>http://localhost:4000/du-vieux-piedestal</link>
         <guid isPermaLink="true">http://localhost:4000/du-vieux-piedestal</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>À une époque, tu évitais les miroirs…</title>
-        <description>&lt;p&gt;À une époque, tu évitais les miroirs ; mais tu as dépassé cette facile faiblesse : désormais, la plupart du temps, ce n’est plus toi que tu vois dans le miroir, mais un être humain, un visage anonyme, quelconque. Tu ne veux être ni quelqu’un ni personne et tu y parviens de mieux en mieux. Te regardant tu sais ne pas voir, du moins tu sais occulter, tout signe d’intériorité.&lt;/p&gt;
-
-&lt;p&gt;Pour l’affrontement, au contraire, tu te campes face au miroir, tu fixes les yeux, et tu attends : tu attends qu’il prenne la parole, qu’il accuse, absolve, agisse, t’emmène. Quand ton impatience est devenue trop vive, tu lui craches au visage et te détournes, plein de mépris. Quel lâche, te dis-tu en t’enfuyant.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 14 May 2016 16:50:01 +0200</pubDate>
-        <link>http://localhost:4000/a-une-epoque-tu-evitais-les-miroirs</link>
-        <guid isPermaLink="true">http://localhost:4000/a-une-epoque-tu-evitais-les-miroirs</guid>
         
         
       </item>
