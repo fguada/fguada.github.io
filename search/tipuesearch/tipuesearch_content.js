@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Après leur dure journée…",
+          "tags":"",
+          "loc":"/apres-leur-dure-journee",
+          "text":"Après leur dure journée, les hommes bavardent au bivouac :Un premier : « C’est la haute frontière, là-bas, on la voit de loin, on ne s’en approche qu’en tremblant… »Un autre : « Non, ça c’était avant ; maintenant on s’en approche en riant, les enfants jouent à ses pieds. »Un autre : « Non, ça c’était encore hier ; aujourd’hui on la franchit sans hésiter, sans crainte. »Un autre : « Non, ça c’était ce matin ; désormais on fait si peu attention à la frontière qu’on ne la voit plus. »Un autre : « On fait comme si elle n’existait pas, si bien qu’on ne sait même plus si l’on est encore en deçà ou déjà au-delà. »Un autre : « Oui, c’est bien ainsi que ça se passe désormais. »Un autre : « Jusqu’au jour où, la frontière effectivement négligée, oubliée, effondrée, disparue, nous nous retrouverons à la merci de ce dont elle nous gardait. »Un autre : « Et où trouverons-nous alors le temps, les forces, les simples pierres nécessaires à sa reconstruction ? »Un autre : « D’autant qu’il nous faudra d’abord rechercher, retrouver ses ruines pour savoir où la dresser… »Un autre : « Elle ne sera pas redressée ; qui s’y sacrifierait ? Au mieux, nous resterons serrés, loin en arrière, apeurés, et si nous survivons nous rendrons tabou, plus par ignorance que par précaution, une zone bien plus grande que strictement nécessaire. »Un autre : « Et ce ne sera pas un mal : elle ne sera pas perdue pour tout le monde. »Un autre : « Au contraire ! »"
+        } ,
+    
+        {
           "title":"Gueule de bois",
           "tags":"",
           "loc":"/gueule-de-bois",
