@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Le Sphinx pose une autre devinette…",
+          "tags":"",
+          "loc":"/le-sphinx-pose-une-autre-devinette",
+          "text":"Le Sphinx pose une autre devinette :— Quel est l’animal qui, parce qu’il regarde vers le ciel, ne se rend pas compte qu’il marche dans la boue ; et qui, lorsque finalement il s’en rend compte — souvent c’est trop tard, il est déjà irrémédiablement embourbé, voué à l’engloutissement, à la noyade — au lieu de s’en vouloir ou, s’il reste une chance, d’essayer de se dépêtrer, maudit le ciel ou la boue ?Je réponds, sans hésiter, instruit par l’expérience d’Œdipe : « L’homme est cet animal. » Et comme l’étudiant qui cherche les honneurs, j’ajoute : « Cet animal en qui la nature tend naturellement vers la culture, c’est-à-dire son propre accomplissement, ou son propre dépassement, ou son propre anéantissement. »C’est à cet instant que le Sphinx me transperce l’épaule d’une seule de ses griffes immenses. Et derrière mon hurlement je l’entends tonner :— Réponse incomplète !Et il me jette au loin.Comme toujours dans mes rêves, je me réveille avant de m’écraser au sol. Malgré la frayeur, le rêve continue un instant : une mare de boue me sauve la vie. La boue amortit ma chute, et un emplâtre de boue arrête l’hémorragie de mon épaule. Je garderai au bras un défaut de mobilité ; et au cœur un nœud où je ne sais démêler le soulagement, la honte, l’humilité, la reconnaissance.Maintenant, levé, lucide, c’est surtout le regret qui domine et m’attriste : le regret de ne jamais savoir s’il manquait à ma réponse seulement la concision ou, positivement, quelque qualificatif dont l’évidence m’échappe."
+        } ,
+    
+        {
           "title":"Débris",
           "tags":"",
           "loc":"/debris",
