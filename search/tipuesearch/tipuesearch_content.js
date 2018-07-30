@@ -1,6 +1,20 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Je scrute les lointains…",
+          "tags":"",
+          "loc":"/je-scrute-les-lointains",
+          "text":"Je scrute les lointains. Dès que j’aperçois l’ombre du grand mur du monde, je m’arrête et j’attends que tous les autres me rejoignent. Bras tendu, je leur montre la direction de la grande ombre ; les enfants veulent monter sur mes épaules pour tenter de l’entrevoir. Eux comme les adultes, peu la discernent mais tous me font confiance. Je déplie la carte pour choisir une nouvelle route, qui nous maintienne à bonne distance du mur. Je leur annonce que le raccourci que j’avais cru trouver était en fait une impasse. Certains désirent s’approcher du mur, certains voudraient même le toucher ; je les préviens : ce sera sans moi ; et je les décourage : à mesure qu’on approche du mur, les dangers croissent et en nombre et en intensité. Quelques téméraires veulent tout de même assouvir une curiosité qu’ils déclarent soit religieuse, soit sacrée, soit métaphysique, soit scientifique ; je la juge simplement morbide mais n’essaye plus de les convaincre de renoncer ; je garde mon énergie pour guider au mieux ceux qui restent. Nous convenons d’attendre les curieux jusqu’au moment où l’imminence de notre propre perte, faute d’eau en suffisance ici, nous rendrait la leur préférable. Je prévois ce moment distant de quelques jours seulement, mais ne le révèle pas. Étreintes, accolades, et les curieux s’en vont. Quelques enfants les escortent un temps puis reviennent, perplexes. Nous les rassurons. Bientôt, je le crains, il faudra les consoler, ce qui ne sera pas aussi facile mais pourrait aussi nous rapprocher encore ; j’espère avoir tort. Nous observons les silhouettes aux longues ombres s’amenuiser vers l’horizon déchiqueté. Quand elles ont disparu, nous nous préparons à camper. Installation des tentes, corvée de bois, glanage. Guitares, violons sortent des étuis, et je pressens que nous serons, ce soir, même capables de rire. Nous avons réappris à attendre. Je leur cache du mieux possible mon inquiétude ; j’essaye de la tromper en me concentrant sur la carte ; je les fais participer à la décision du chemin à prendre pour continuer. J’ai choisi le bon moment pour ce faire : la musique et la douceur du soir tempèrent l’anxiété que cette incertitude recèle : faire demi-tour est nécessaire, mais jusqu’où ?"
+        } ,
+    
+        {
+          "title":"Où sont les limites ?…",
+          "tags":"",
+          "loc":"/ou-sont-les-limites",
+          "text":"— Où sont les limites ? Je ne les vois pas. Comment m’abstenir de m’en approcher, si je ne les vois pas ?— Tu regardes au mauvais endroit. Ferme les yeux : voici déjà la première des limites. Les autres sont derrière, de plus en plus profond à l’intérieur."
+        } ,
+    
+        {
           "title":"Le Sphinx pose une autre devinette…",
           "tags":"",
           "loc":"/le-sphinx-pose-une-autre-devinette",
