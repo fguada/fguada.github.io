@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Qu’est-ce là-bas ? Non…",
+          "tags":"",
+          "loc":"/qu-est-ce-la-bas-non",
+          "text":"Qu’est-ce là-bas ? Non, ce n’est pas une bande de grands singes. Il s’agit bien de quelques terrestres, quelques poignées de terrestres qui passent. La dernière espèce non éteinte des primates du genre Homo. Je les distingue mal ; ils avancent vite ; semble-t-il sans regarder de côté. Ils ne fuient pas un danger qui les poursuivrait, puisque rien ne les suit qu’un vague sillage de poussière. Sont-ils pressés ? J’étais trop loin pour le leur demander. Et je crois que, aurais-je été assez proche, ils n’auraient pas pris la peine de s’arrêter à moins que je ne m’interpose, auquel cas, si j’avais échappé à leur violence toujours imminente, je n’aurais obtenu pour toute réponse que des questions au mieux rhétoriques, au pire insultantes et aggressives. Mais je suis peut-être injuste, moi, un terrestre comme eux ; peut-être courent-ils éteindre un incendie, prêter une main gracieuse à une destruction vivifiante ? Auquel cas c’est moi le fautif, qui traîne au lieu de me presser à leur suite."
+        } ,
+    
+        {
           "title":"Ses parents morts et son deuil fait…",
           "tags":"",
           "loc":"/ses-parents-morts-et-son-deuil-fait",
