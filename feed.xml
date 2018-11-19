@@ -5,9 +5,20 @@
     <description>Fictions brèves en prose.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Sep 2018 21:35:06 +0200</pubDate>
-    <lastBuildDate>Mon, 24 Sep 2018 21:35:06 +0200</lastBuildDate>
-    <generator>Jekyll v3.7.3</generator>
+    <pubDate>Mon, 19 Nov 2018 11:21:51 +0100</pubDate>
+    <lastBuildDate>Mon, 19 Nov 2018 11:21:51 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>L’entretien du monde…</title>
+        <description>&lt;p&gt;L’entretien du monde, de ce monde hypertrophié, nous prend maintenant presque tout le temps ; finalement, ce n’est plus qu’après le travail, le lourd travail quotidien de son entretien, le soir, fatigués, quand les enfants sont couchés, la vaisselle faite, que nous pouvons profiter du monde, utiliser le monde, nous réjouir du monde, contempler le monde, sortir dans le monde, jeter un œil au monde, deviner de loin la forme du monde, observer au sol l’ombre mouvante des nuages du monde ; et même alors, nous avons du mal à ignorer les peintures délavées, les boulons manquants, les recoins vétustes, sans parler des robinets qui fuient, des lampadaires éteints… Nous les voyons, nous détournons les yeux, mais nous sommes taraudés ; nous n’avons pas toujours le courage de rajouter ces réparations nécessaires à la liste déjà trop longue des tâches du lendemain. Souvent, résignés, si c’est vite fait nous nous y mettons aussitôt, préférant rogner nos loisirs qu’y penser toute la soirée. D’ailleurs nous avons toujours dans nos poches un minimum d’outils, canif, colle forte, mètre, tournevis, papier de verre… Au lieu de nous servir du monde, nous sommes au service du monde ; lui, qui n’était qu’un moyen, a tant grossi que nous nous retrouvons soumis aux exigences de sa complexité croissante, écrasante, accaparante ; plus grands les moyens, plus étroites les fins ! Il suffirait, bien sûr, que nous cessions de l’entretenir, que nous le laissions tomber en ruine. Mais qui risquera les amers reproches encourus, l’exclusion, la privation ? Qui est prêt pour les ruines ? L’avenir est obstrué par le monde, qui masque désormais le ciel, ses fumées devant les nuages ; il ne nous reste plus que la nostalgie d’un monde petit, un monde maniable, un monde qui tenait dans la poche, qu’on pouvait déplier, émerveillé, contempler fasciné, avec ses petits champs arcadiens, ses quelques pyramides, ses aqueducs et les lignes sinueuses des longues routes des caravanes et des armées en route… Il y a bien longtemps que le monde est trop grand pour ta poche. Désormais c’est nous les infimes, lui le géant ; si le monde se replie — faute d’un entretien excédant de plus en plus nos capacités laborieuses et logistiques — il nous broiera. Quelques survivants dans les gigantesques ruines mondiales, essayant, sous peine de mort, d’acheminer de l’eau, de cultiver des graines, de dresser un toit, d’entretenir au foyer un feu, dans et avec les débris du monde, les morceaux du cadavre du monde, mort boursouflé, gangréné jusqu’au cou mais la tête aux étoiles, extasié…&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Nov 2018 11:32:13 +0100</pubDate>
+        <link>http://localhost:4000/l-entretien-du-monde</link>
+        <guid isPermaLink="true">http://localhost:4000/l-entretien-du-monde</guid>
+        
+        
+      </item>
     
       <item>
         <title>Qu’est-ce là-bas ? Non…</title>
@@ -298,17 +309,6 @@
         <pubDate>Sat, 29 Apr 2017 09:49:33 +0200</pubDate>
         <link>http://localhost:4000/mes-adjuvants</link>
         <guid isPermaLink="true">http://localhost:4000/mes-adjuvants</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Tu as tenu à partir le dernier…</title>
-        <description>&lt;p&gt;Tu as tenu à partir le dernier, mais non pas, comme presque tous ont dû le croire, pour te recueillir, mais plutôt pour n’avoir pas à subir leur bavardage ou leur compassion importune. Tu ne te retournes pas avant que le silence se soit rétabli dans ton dos. Tu inspectes de loin le parking, vide, et la route, déserte. Tu sors donc le dernier du cimetière, tu refermes derrière toi sa porte, et du même geste la part pesante de ta vie. Te voilà dégagé du dernier des liens auxquels tu n’avais pas dû consentir. C’est d’un pas léger, guilleret si tu l’osais, que tu pars te promener à la découverte d’une liberté jusqu’alors seulement soupçonnée, ardemment désirée, longuement et patiemment attendue.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 30 Mar 2017 09:57:23 +0200</pubDate>
-        <link>http://localhost:4000/tu-as-tenu-a-partir-le-dernier</link>
-        <guid isPermaLink="true">http://localhost:4000/tu-as-tenu-a-partir-le-dernier</guid>
         
         
       </item>
