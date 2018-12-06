@@ -5,15 +5,40 @@
     <description>Fictions brèves en prose.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Mon, 19 Nov 2018 11:21:51 +0100</pubDate>
-    <lastBuildDate>Mon, 19 Nov 2018 11:21:51 +0100</lastBuildDate>
+    <pubDate>Thu, 06 Dec 2018 11:45:55 +0100</pubDate>
+    <lastBuildDate>Thu, 06 Dec 2018 11:45:55 +0100</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
-=======
-    <pubDate>Thu, 15 Nov 2018 13:22:27 +0100</pubDate>
-    <lastBuildDate>Thu, 15 Nov 2018 13:22:27 +0100</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
->>>>>>> db3b201aba6519ca1c9bc75c24704a2d06993a65
+    
+      <item>
+        <title>La chasse aux ermites</title>
+        <description>&lt;p&gt;Triste souvenir — soudain remonté de ma petite enfance — de cette époque honteuse, heureusement révolue : celle de la chasse aux ermites. Poursuivis jusqu’au fond des grottes, jusqu’en haut des arbres ; ligotés, bâillonnés, traînés jusqu’aux grand-places des capitales ; publiquement accusés d’être de faux prophètes (alors que beaucoup d’entre eux avaient fait vœu de silence !), des exemples fallacieux et corrupteurs (alors qu’ils fuyaient tout contact !) ; enfin exposés à la foule des curieux, à l’attention de laquelle on les forçait à réciter une confession forgée, litanie de péchés supposés. Ce qui leur était reproché ? Extraits d’un pamphlet d’époque (un des plus mesurés) :&lt;/p&gt;
+
+&lt;p&gt;« Ils ne sont en rien dégagés de la mortalité, de la corporéité. S’ils le croient, ils se trompent eux-mêmes ; s’ils le font croire, ils trompent le monde.&lt;/p&gt;
+
+&lt;p&gt;Comment osent-ils chercher la perfection dans la solitude ? Un être complet ne devrait-il pas englober tous les autres ? Il n’y a qu’une seule plénitude : celle du monde ! (Et encore : le monde fuit !)&lt;/p&gt;
+
+&lt;p&gt;À force de restriction, de retranchement, que reste-t-il d’eux ? Moins qu’une bête : un sac de peau, vide ! Un crâne vide aux orbites vides !&lt;/p&gt;
+
+&lt;p&gt;À quoi leur servent encore leurs membres, leurs sens ? Ils pourraient être de purs esprits, cerveaux dans une cuve, machines à sagesse !&lt;/p&gt;
+
+&lt;p&gt;Ils savent réfléchir, attendre et jeûner, disent-ils. Mais ils n’ont plus besoin de réfléchir, puisqu’ils ont trouvé la réponse, comme l’anémone son rocher ! Il ne leur reste donc qu’à jeûner et attendre… Attendre la mort ou l’Éveil ? Différence négligeable !&lt;/p&gt;
+
+&lt;p&gt;Ils se sont, ces renonçants, retranchés dans leur for intérieur ! Ils vivent comme si la mort et le mal n’existaient pas, comme s’ils étaient déjà au paradis ! Mais ils n’ont même pas appris à mourir : ils ont seulement appris à vivre comme s’ils étaient déjà morts.&lt;/p&gt;
+
+&lt;p&gt;Pour leur défense, qu’arguent les rares d’entre eux qui savent encore parler ? Seulement, d’une voix geignarde, ceci : “Toutes les utopies ne se valent-elles pas ? Tous les chemins n’y mènent-ils pas ?”&lt;/p&gt;
+
+&lt;p&gt;Défense absconse et absurde, qui ne leur épargnera pas d’être pourchassés jusqu’au dernier ! »&lt;/p&gt;
+
+&lt;p&gt;Je me souviens de ce jour où, jeune enfant encore mais déjà partiellement et secrètement désapprobateur, rentrant seul de l’école primaire je dus contourner la grand-place bondée, au centre de laquelle, sur une estrade de circonstance, était exposé un de ces ermites, entouré d’une foule scandant le slogan demeuré célèbre « Pas de sépulture pour les déchets humains : aux ordures ! aux ordures ! ». Je m’arrêtai un instant, dans ma rue parallèle, et j’entendis l’ermite demander le silence, étrangement l’obtenir, puis répéter en effet : « Toutes les utopies ne se valent-elles pas ? Tous les chemins n’y mènent-ils pas ? » Je ne le comprends pas mieux qu’alors, mais je l’aurais volontiers sauvé.&lt;/p&gt;
+
+&lt;p&gt;Seule la récente abolition de la peine de mort leur évita d’être exterminés (ce que le peuple réclamait, en substance pour entériner un fait accompli) et préserva notre conscience historique d’un génocide supplémentaire. Comble d’absurdité, comment les punîmes-nous : en les bannissant !&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Dec 2018 11:41:45 +0100</pubDate>
+        <link>http://localhost:4000/la-chasse-aux-ermites</link>
+        <guid isPermaLink="true">http://localhost:4000/la-chasse-aux-ermites</guid>
+        
+        
+      </item>
     
       <item>
         <title>L’entretien du monde…</title>
@@ -304,17 +329,6 @@
         <pubDate>Thu, 25 May 2017 23:00:12 +0200</pubDate>
         <link>http://localhost:4000/il-attaque-tous-ses-jours-en-conquerant</link>
         <guid isPermaLink="true">http://localhost:4000/il-attaque-tous-ses-jours-en-conquerant</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Mes adjuvants…</title>
-        <description>&lt;p&gt;Mes adjuvants… Si seulement je pouvais être sûr qu’ils me poussent dans la bonne direction. Mais leur sourire est un masque qui me fait baisser les yeux, leur assurance évidente m’incite à la confiance, leurs encouragements parlent à mon âme d’enfant avec ses propres mots et lui disent exactement ce qu’elle désire timidement et profondément entendre, et je suis leurs conseils. Mais le scrupule me ralentit, et ma lenteur est cause de la désapprobation, voire de la pitié, que je les soupçonne d’exprimer entre eux à mon égard quand, leur rôle rempli, ils se reposent en bavardant. J’imagine aisément leurs commentaires sur mon cheminement : « Quelle présomption : ne pas nous faire une confiance aveugle ! — Résultat : il traîne ; ce contre quoi nous l’avons mis en garde l’attire ; les directions que nous lui avons interdites lui semblent des raccourcis dont malignement nous le privons… — Qui veut encore se donner de la peine pour lui ? » Je les fais taire avant de les entendre parier contre moi. J’ai peur qu’ils m’abandonnent et me laissent seul face aux bifurcations sans fin. Mais si ma gratitude ne leur suffit pas, s’il me faut choisir entre les perdre et leur obéir sans réserve, je choisis la perte. Il me restera, comme aide, les hasards favorables ; et, plus précieuse que toute aide, la liberté de m’arrêter n’importe quand.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 29 Apr 2017 09:49:33 +0200</pubDate>
-        <link>http://localhost:4000/mes-adjuvants</link>
-        <guid isPermaLink="true">http://localhost:4000/mes-adjuvants</guid>
         
         
       </item>
