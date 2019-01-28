@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Souvent le soir, ils se réunissent…",
+          "tags":"",
+          "loc":"/souvent-le-soir-ils-se-reunissent",
+          "text":"Souvent le soir, ils se réunissent pour la musique. Chacun s’assoit où il peut ; s’ils sont tous présents, les cent cinquante chaises de la maison commune suffisent à peine, et la surface est comble, bien qu’on ait depuis longtemps démonté l’estrade. On accorde son instrument ; on se recueille un long moment, on attend que les conversations particulières, les nouvelles du jour, les nouvelles intimes, tarissent. Quand le silence est installé depuis assez longtemps, on peut commencer. Ils prennent leur instrument et les phrases montent. Chacun y va de sa voix particulière, de son épanchement. De cette cacophonie la plupart des fois émergent pourtant, au fil du temps, des motifs. Quand les motifs se répètent, le premier stade, celui où un échec musical collectif est encore possible, est passé. Peu à peu, à partir de ce moment, les phrases particulières deviennent moins nombreuses, moins longues, jusqu’au moment où les instruments qui ne se sont pas tus se sont fondus en une seule harmonie. On la répète alors un certain temps, le temps pour chacun d’en appréhender, d’en explorer toutes les subtilités, toutes les virtualités. Ils s’expriment d’une seule voix, enfin, voix pour tous, consensus au moins tacite et vérité collective d’un soir. Mais cet unisson ne peut qu’être bref. Longtemps pour l’atteindre, peu de temps pour le dépasser. Bientôt les diversions, les variations commencent, à partir du motif qui a lentement émergé. Elles peuvent durer jusqu’au matin, le temps que chacun récupère sa voix particulière. Mais la plupart des fois, c’est par fatigue, faute de participants, que la musique s’éteint. Rieurs ou taciturnes suivant la tonalité de cette fois-là, ils font beaucoup de bruits, bruits de chaises, d’instruments cognés contre les caisses où on les range. Puis on se disperse, chacun rentre chez soi ; beaucoup fredonnent."
+        } ,
+    
+        {
           "title":"Invitation en poche, c’est en toute innocence…",
           "tags":"",
           "loc":"/invitation-en-poche-c-est-en-toute-innocence",
