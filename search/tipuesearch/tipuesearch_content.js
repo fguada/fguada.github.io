@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Sur la tombe encore fraîche de ma chère épouse…",
+          "tags":"",
+          "loc":"/sur-la-tombe-encore-fraiche-de-ma-chere-epouse",
+          "text":"Sur la tombe encore fraîche de ma chère épouse, sur une feuille de l’arbuste que j’ai planté là et qui grandit presque à vue d’œil, je trouve un escargot, un minuscule escargot. Je pourrais l’attraper et le jeter au loin, mais je l’observe. Quelle n’est pas ma surprise de soudain le voir ouvrir une bouche infime et y enfourner le bout d’un pétale ! Je suis ému, émerveillé. Je ne savais pas que les escargots ont une bouche, ne m’étais jamais demandé comment ils se nourrissent. Ce qui peut sembler évident — comment se nourriraient-ils autrement que par ingestion ? — ne l’était aucunement pour moi. Pourtant depuis longtemps j’aime particulièrement les escargots ; quand il a plu, j’essaye de ne pas en écraser (c’est le seul moment où je me félicite de mon habitude de marcher les yeux baissés) ; et si nous en trouvons un au milieu du chemin, ma fille ou moi le déposons à l’abri dans la bordure végétale. J’aime les observer aussi ; pourtant — sans doute faute de patience — c’est la première fois que j’en vois un accomplir cet acte si banal et fréquemment nécessaire : manger. L’endroit n’est pas anodin. Depuis combien de temps es-tu né, petit escargot ? Ta taille infime est-elle celle des adultes de ton espèce, ou bien es-tu jeune, très jeune ? J’aimerais que tu sois à peine né, appelé à grandir et grossir jusqu’à la taille des plus gros escargots du pays… Combien d’atomes du corps décomposé de ma chère épouse seront-ils intégrés à ton corps, si tu es né tout près, si tu continues d’y vivre, de te nourrir là des plantes dont les racines auront tiré de lui leurs aliments ? Belle réincarnation. Malgré ma douleur de la perte irrémédiable, la vie continue, sous mes yeux, renouvelée, recyclée. Vivant, je mange le vivant ; mort, je le nourris. J’essaie de m’en réjouir, d’y puiser le courage d’un apaisement qui tarde à s’épanouir.Petit escargot ! Mon frère et mon fils ! Cette bouche infime, ligne fine, radula invisible lorsqu’elle est fermée, dans laquelle tu enfonces ces morceaux de pétales blancs que tu as, si j’ai bien vu, humectés de mucus et découpés de la fleur sur laquelle tu rampes — tu es si léger qu’elle ne ploie même pas sous ton poids — ; par une contraction de ton pied, ces morceaux tu les portes à ta bouche, et tu t’en régales ! Continue, je t’en prie !"
+        } ,
+    
+        {
           "title":"Une fois pour toutes",
           "tags":"",
           "loc":"/une-fois-pour-toutes",
