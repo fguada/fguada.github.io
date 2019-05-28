@@ -5,9 +5,20 @@
     <description>Fictions brèves en prose.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Apr 2019 09:52:42 +0200</pubDate>
-    <lastBuildDate>Fri, 26 Apr 2019 09:52:42 +0200</lastBuildDate>
+    <pubDate>Tue, 28 May 2019 07:13:17 +0200</pubDate>
+    <lastBuildDate>Tue, 28 May 2019 07:13:17 +0200</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Vers le minimum</title>
+        <description>&lt;p&gt;Vers le minimum, il procède par étapes. Le corps aspire à la mobilité : il s’assied et s’efforce de ne plus bouger, même un cil. Première étape. La respiration est naturellement arythmique : il entreprend de la réguler. Seconde. Il rentre dans sa tête, une tête vite aveugle, bientôt sourde, muette, édentée, chauve, lisse, pure. Mais il est encore loin du minimum. Il ne boit plus qu’une fois par jour, ne mange plus qu’une fois tous les trois jours, suçant quelques croûtes de pain. Mais il est encore loin du minimum. Puis il s’efforce de ne penser à rien, de tarir sa conscience, d’être un vide intérieur et d’y vivre. Il n’est toujours pas au minimum. Il se rapetisse, finit par se réduire à la taille d’un escargot : ce n’est pas encore le minimum. Enfin il se donne le plus difficile des objectifs : ne plus respirer. Il coupe sa respiration et attend, volonté déjà minérale. Même quand il meurt, que le peu qu’il reste de son corps décomposé retourne à la terre pour la prochaine étape du cycle biotique — même alors, il n’est pas, il n’a jamais été au minimum.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 May 2019 07:10:49 +0200</pubDate>
+        <link>http://localhost:4000/vers-le-minimum</link>
+        <guid isPermaLink="true">http://localhost:4000/vers-le-minimum</guid>
+        
+        
+      </item>
     
       <item>
         <title>Hasard ou volonté : et voilà…</title>
@@ -346,21 +357,6 @@
         <pubDate>Sun, 03 Dec 2017 09:42:27 +0100</pubDate>
         <link>http://localhost:4000/a-force-de-tout-accepter</link>
         <guid isPermaLink="true">http://localhost:4000/a-force-de-tout-accepter</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Il était à peine parti qu’il aperçut…</title>
-        <description>&lt;p&gt;Il était à peine parti qu’il aperçut à quelques centaines de pas devant lui une silhouette qui le fit sursauter. Il se mit à courir pour la rattraper, mais elle se mit à courir à son tour et non seulement il ne put la rattraper mais l’écart entre eux augmenta jusqu’à ce qu’il la perde de vue. Il se coucha épuisé, inquiet. Le lendemain l’autre était là, levant le camp à la même heure, juste au bout du regard. La poursuite recommença, et s’acheva de la même manière que la veille. Depuis — mis à part les jours où, comme d’un accord tacite, les deux s’ignorent, se distraient et se reposent — l’un poursuit tandis que l’autre fuit.&lt;/p&gt;
-
-&lt;p&gt;Un jour d’heureuse, d’exceptionnelle coïncidence entre grande forme, confiance, endurance et enthousiasme, il se rend compte qu’il gagne du terrain. Ce constat le fait accélérer encore. Mais plus il s’en approche, plus l’autre s’estompe ; au lieu de pouvoir de plus en plus clairement distinguer sa forme, ses traits, il a de plus en plus de mal à ne pas le confondre avec un arbre, une ombre, à ne pas voir à travers. Au moment où il croit l’attraper enfin, il n’étreint que le vide, il se retrouve seul, ses mains, ses bras serrés sur rien d’autre qu’eux-mêmes.&lt;/p&gt;
-
-&lt;p&gt;A-t-il perdu toutes ces années à poursuivre un fantôme ? Mais sans cet appât, où serait-il aujourd’hui ? À combien d’années en arrière ? Et maintenant, comment va-t-il faire pour continuer sans traînasser ? Va-t-il s’arrêter, s’installer ? Ces questions l’obnubilent, l’hypnotisent, il s’endort bientôt. Le lendemain matin, à peine réveillé, il se rend compte que la silhouette est de nouveau là, à portée de regard, en train de replier sa tente.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 09 Nov 2017 08:46:01 +0100</pubDate>
-        <link>http://localhost:4000/il-etait-a-peine-parti-qu-il-apercut</link>
-        <guid isPermaLink="true">http://localhost:4000/il-etait-a-peine-parti-qu-il-apercut</guid>
         
         
       </item>

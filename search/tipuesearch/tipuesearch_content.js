@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Vers le minimum",
+          "tags":"",
+          "loc":"/vers-le-minimum",
+          "text":"Vers le minimum, il procède par étapes. Le corps aspire à la mobilité : il s’assied et s’efforce de ne plus bouger, même un cil. Première étape. La respiration est naturellement arythmique : il entreprend de la réguler. Seconde. Il rentre dans sa tête, une tête vite aveugle, bientôt sourde, muette, édentée, chauve, lisse, pure. Mais il est encore loin du minimum. Il ne boit plus qu’une fois par jour, ne mange plus qu’une fois tous les trois jours, suçant quelques croûtes de pain. Mais il est encore loin du minimum. Puis il s’efforce de ne penser à rien, de tarir sa conscience, d’être un vide intérieur et d’y vivre. Il n’est toujours pas au minimum. Il se rapetisse, finit par se réduire à la taille d’un escargot : ce n’est pas encore le minimum. Enfin il se donne le plus difficile des objectifs : ne plus respirer. Il coupe sa respiration et attend, volonté déjà minérale. Même quand il meurt, que le peu qu’il reste de son corps décomposé retourne à la terre pour la prochaine étape du cycle biotique — même alors, il n’est pas, il n’a jamais été au minimum."
+        } ,
+    
+        {
           "title":"Hasard ou volonté : et voilà…",
           "tags":"",
           "loc":"/hasard-ou-volonte-et-voila",
