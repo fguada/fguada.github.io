@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"On a posé et déployé le monde ici…",
+          "tags":"",
+          "loc":"/on-a-pose-et-deploye-le-monde-ici",
+          "text":"On a posé et déployé le monde ici, là, tout autour, partout. Quand le monde s’adaptait mal au terrain, on a rasé montagnes et forêts, asséché les marais, détourné les fleuves. Maintenant le monde semble si bien ajusté qu’on ne sait même plus si l’on ne discerne plus la démarcation stratigraphique entre le monde et le terrain dans lequel il a dû s’enfoncer, ou si l’on ne voit plus du tout le terrain, si l’on ne voit plus que le monde seul qui le recouvre donc et le masque entièrement. Comment était ce terrain ? Jusqu’à quelle profondeur faudrait-il creuser pour le trouver assurément ? nous sommes-nous demandé, mais nous avons creusé dans le fond même des océans sans rien trouver d’autre que le monde, et si nous n’allons pas jusqu’au magma loin sous la surface de la planète, c’est moins par crainte du volcan ainsi créé que par quasi-certitude de ne trouver là encore rien d’autre que le monde. C’est seulement lorsque se produisent un ouragan, un tremblement de terre, un tsunami que nous retrouvons la terre. Mais nous la perdons aussi vite qu’elle a été rapide à semer chaos et terreur dans le monde. Nous avons beau chercher par un vain acquit de conscience, nous savons déjà que dans les décombres nous ne trouverons de nouveau rien d’autre que le monde, parmi ses propres débris."
+        } ,
+    
+        {
           "title":"Vers le minimum",
           "tags":"",
           "loc":"/vers-le-minimum",

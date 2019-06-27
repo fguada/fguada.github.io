@@ -5,9 +5,20 @@
     <description>Fictions brèves en prose.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 May 2019 07:13:17 +0200</pubDate>
-    <lastBuildDate>Tue, 28 May 2019 07:13:17 +0200</lastBuildDate>
+    <pubDate>Thu, 27 Jun 2019 12:50:10 +0200</pubDate>
+    <lastBuildDate>Thu, 27 Jun 2019 12:50:10 +0200</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>On a posé et déployé le monde ici…</title>
+        <description>&lt;p&gt;On a posé et déployé le monde ici, là, tout autour, partout. Quand le monde s’adaptait mal au terrain, on a rasé montagnes et forêts, asséché les marais, détourné les fleuves. Maintenant le monde semble si bien ajusté qu’on ne sait même plus si l’on ne discerne plus la démarcation stratigraphique entre le monde et le terrain dans lequel il a dû s’enfoncer, ou si l’on ne voit plus du tout le terrain, si l’on ne voit plus que le monde seul qui le recouvre donc et le masque entièrement. Comment était ce terrain ? Jusqu’à quelle profondeur faudrait-il creuser pour le trouver assurément ? nous sommes-nous demandé, mais nous avons creusé dans le fond même des océans sans rien trouver d’autre que le monde, et si nous n’allons pas jusqu’au magma loin sous la surface de la planète, c’est moins par crainte du volcan ainsi créé que par quasi-certitude de ne trouver là encore rien d’autre que le monde. C’est seulement lorsque se produisent un ouragan, un tremblement de terre, un tsunami que nous retrouvons la terre. Mais nous la perdons aussi vite qu’elle a été rapide à semer chaos et terreur dans le monde. Nous avons beau chercher par un vain acquit de conscience, nous savons déjà que dans les décombres nous ne trouverons de nouveau rien d’autre que le monde, parmi ses propres débris.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Jun 2019 12:49:13 +0200</pubDate>
+        <link>http://localhost:4000/on-a-pose-et-deploye-le-monde-ici</link>
+        <guid isPermaLink="true">http://localhost:4000/on-a-pose-et-deploye-le-monde-ici</guid>
+        
+        
+      </item>
     
       <item>
         <title>Vers le minimum</title>
@@ -346,17 +357,6 @@
         <pubDate>Fri, 29 Dec 2017 00:50:21 +0100</pubDate>
         <link>http://localhost:4000/je-ne-suis-pas-chez-moi</link>
         <guid isPermaLink="true">http://localhost:4000/je-ne-suis-pas-chez-moi</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>À force de tout accepter…</title>
-        <description>&lt;p&gt;À force de tout accepter, de se contenter de tout, il ne lui reste rien d’autre que son contentement. Il se sent et se dit heureux, mais tous les autres le fuient, comme exemple de la pire, de la plus honteuse déchéance, de l’abjection, du reniement de la plus élémentaire dignité. Il est peut-être sage, reconnaissent-ils, mais uniquement parce qu’il est déjà presque mort. Seuls les petits enfants ne se détournent pas. Ils n’ont pas encore honte pour lui, et n’ont pas non plus peur de lui : il n’a pas l’air dangereux, et ils ne craignent pas de lui ressembler parce qu’ils n’éprouvent aucune envie de l’imiter, sinon, brièvement, pour jouer. Sa nullité les attire, zéro tout rond, abîme souriant. Grâce à lui ils apprivoisent le néant. Les plus avisés des parents le comprennent, c’est pourquoi, malgré leur propre répugnance, ils laissent leurs enfants le côtoyer. Ils savent que ceux-ci, d’eux-mêmes, en grandissant, s’en éloigneront peu à peu jusqu’à s’en détourner complètement. Le risque que l’un d’eux sombre dans cet abîme, quoique ni nul ni négligeable, est intuitivement faible, et ils le courent parce que les bénéfices attendus de cette exposition précoce sont décisifs : immunité totale à la fascination du simple, propension à distinguer, goût de peu, absence de vertige au bord de l’abîme.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 03 Dec 2017 09:42:27 +0100</pubDate>
-        <link>http://localhost:4000/a-force-de-tout-accepter</link>
-        <guid isPermaLink="true">http://localhost:4000/a-force-de-tout-accepter</guid>
         
         
       </item>
