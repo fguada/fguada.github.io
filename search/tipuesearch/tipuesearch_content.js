@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"À peine adulte, il se met en route…",
+          "tags":"",
+          "loc":"/a-peine-adulte-il-se-met-en-route",
+          "text":"À peine adulte, il se met en route, sa décision prise : il sera chercheur de trésor ! Il a étudié l’histoire et la géographie, appris la plongée sous-marine et la spéléologie : il est prêt, résolu, et il ne tarde pas à obtenir ses premiers succès.Très tôt pourtant, il prend conscience que ce ne sont pas les trésors qui l’attirent, ni a fortiori le luxe, mais la recherche elle-même, et le pur instant de la découverte, son apothéose, la consécration des longs efforts. Même quand il échoue, c’est-à-dire quand il renonce, la perte, il le découvre, n’est que financière, celle du lourd investissement consenti. Le temps passé, les tâches effectuées se suffisaient presque. La déception est vite tournée en nouvelle quête.Puis, à mesure qu’il mûrit, il se rend compte que c’est toujours plus facilement, plus près de lui qu’il trouve le genre de trésors qui a toujours éclairé, sans qu’il le reconnaisse, son quotidien de bibliothèque et d’exploration. Ce qui, dans sa jeunesse, nécessitait des mois d’enquête et de préparation patientes, des semaines de fouille périlleuse par trois cents mètres de fond, peu à peu ne requiert plus qu’une certaine disposition : un œil levé, une main tendue, une oreille attentive, un pas ralenti, un détour de quelques heures…Le voilà, au bout d’une demi-vie d’adulte passée à chercher des trésors, à en trouver beaucoup et en amasser peu, qui néglige îles désertes et galions engloutis pour accueillir le solstice d’été au sommet d’une colline et la pleine lune au bord d’un lac. Les rayons dorés du soleil ont remplacé pièces et pépites.À partir de ce moment, sa vie se remplit de trésors. C’est chaque dimanche, chaque nuit étoilée, chaque matin ensoleillé, puis chaque gorgée d’eau, puis chacun de ses pas, puis chaque inspiration complète, enfin chacun de ses cillements, jusqu’au dernier.Ses trésors d’une richesse périodique et incarnée périssent avec lui. Ses héritiers n’ont rien d’autre à se partager que ses chaussures et ses jumelles."
+        } ,
+    
+        {
           "title":"On a posé et déployé le monde ici…",
           "tags":"",
           "loc":"/on-a-pose-et-deploye-le-monde-ici",
