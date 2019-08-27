@@ -5,9 +5,22 @@
     <description>Fictions brèves en prose.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Jul 2019 08:50:51 +0200</pubDate>
-    <lastBuildDate>Sun, 28 Jul 2019 08:50:51 +0200</lastBuildDate>
+    <pubDate>Tue, 27 Aug 2019 21:02:23 +0200</pubDate>
+    <lastBuildDate>Tue, 27 Aug 2019 21:02:23 +0200</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Ce n’est pas un guide…</title>
+        <description>&lt;p&gt;Ce n’est pas un guide. Certes, il est loin devant ; certes, tu le suis ; mais il n’y est pour rien, il ne t’a rien demandé, rien dit, il ne t’a même pas fait signe, peut-être ignore-t-il même ta présence, quoi que ce soit improbable : ne serait-ce que pour s’orienter, il lui arrive de regarder en arrière, et tu n’as pas toujours où te cacher ni la présence d’esprit de te coucher. Où va-t-il ? Le sait-il lui-même ?&lt;/p&gt;
+
+&lt;p&gt;Non, il n’y est tout de même pas pour rien : celui qui se rend visible sur de hautes crêtes doit toujours s’attendre à être pris pour guide par un de ceux qui n’ont même pas le courage de s’abandonner à l’errance. Il ne l’ignore sans doute pas, donc tu pourrais cesser de te cacher, surtout maladroitement : tu ne fais que te ridiculiser un peu plus. S’il y a une chance qu’il te fasse signe un jour, qu’il te laisse le rattraper, qu’il te tende la main, son préalable est que tu assumes ta nullité et qu’au moins tu fasses montre de constance dans l’humilité. Mais c’est une chance infime… et tu n’es pas sûr de préférer un vrai compagnon à un faux guide.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Aug 2019 21:00:31 +0200</pubDate>
+        <link>http://localhost:4000/ce-n-est-pas-un-guide</link>
+        <guid isPermaLink="true">http://localhost:4000/ce-n-est-pas-un-guide</guid>
+        
+        
+      </item>
     
       <item>
         <title>À peine adulte, il se met en route…</title>
@@ -352,17 +365,6 @@
         <pubDate>Sun, 25 Feb 2018 16:05:45 +0100</pubDate>
         <link>http://localhost:4000/sur-le-chemin-ancestral</link>
         <guid isPermaLink="true">http://localhost:4000/sur-le-chemin-ancestral</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Nous vivons dans une bulle…</title>
-        <description>&lt;p&gt;Nous vivons dans une bulle, dis-tu ? Comme quasiment tout le monde. Même le mendiant sans-abri, même le réfugié de guerre vivent dans une bulle. Seuls quelques sages, peut-être, ont assez de force d’âme pour supporter de vivre sans autre bulle que le ciel. Du moins la nôtre n’est pas dépourvue de fenêtres ; nous n’omettons pas d’ouvrir régulièrement les rideaux ; nous n’avons même pas de volets. Elle est certes douillette mais elle est aussi petite et légère, tout le contraire de ces grandes bulles opaques qu’on devine à l’horizon, qu’on voit parfois briller, jamais sans nous demander avec inquiétude si ce ne seraient pas des explosions, plutôt que les reflets du soleil, qui les illuminent ainsi. Que faire d’autre ? Oui, nous allons continuer à tenter de réduire le rayon de notre bulle, allégeant pour nous l’entretien, pour autrui, certes infimement, la pression. Crever notre bulle ne nous rapprocherait de personne.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 27 Jan 2018 20:37:13 +0100</pubDate>
-        <link>http://localhost:4000/nous-vivons-dans-une-bulle</link>
-        <guid isPermaLink="true">http://localhost:4000/nous-vivons-dans-une-bulle</guid>
         
         
       </item>

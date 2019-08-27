@@ -1,6 +1,13 @@
 var tipuesearch = {"pages": [
     
         {
+          "title":"Ce n’est pas un guide…",
+          "tags":"",
+          "loc":"/ce-n-est-pas-un-guide",
+          "text":"Ce n’est pas un guide. Certes, il est loin devant ; certes, tu le suis ; mais il n’y est pour rien, il ne t’a rien demandé, rien dit, il ne t’a même pas fait signe, peut-être ignore-t-il même ta présence, quoi que ce soit improbable : ne serait-ce que pour s’orienter, il lui arrive de regarder en arrière, et tu n’as pas toujours où te cacher ni la présence d’esprit de te coucher. Où va-t-il ? Le sait-il lui-même ?Non, il n’y est tout de même pas pour rien : celui qui se rend visible sur de hautes crêtes doit toujours s’attendre à être pris pour guide par un de ceux qui n’ont même pas le courage de s’abandonner à l’errance. Il ne l’ignore sans doute pas, donc tu pourrais cesser de te cacher, surtout maladroitement : tu ne fais que te ridiculiser un peu plus. S’il y a une chance qu’il te fasse signe un jour, qu’il te laisse le rattraper, qu’il te tende la main, son préalable est que tu assumes ta nullité et qu’au moins tu fasses montre de constance dans l’humilité. Mais c’est une chance infime… et tu n’es pas sûr de préférer un vrai compagnon à un faux guide."
+        } ,
+    
+        {
           "title":"À peine adulte, il se met en route…",
           "tags":"",
           "loc":"/a-peine-adulte-il-se-met-en-route",
