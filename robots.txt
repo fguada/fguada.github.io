@@ -4,11 +4,10 @@ Disallow: /page*/
 Disallow: /index-chronologique
 Disallow: /index-alphabetique
 Disallow: /tout-sur-une-seule-page
-Disallow: /search
 Disallow: /abonnement-par-courriel
 Disallow: /abonnement-confirme
 Disallow: /validation-d-abonnement
 Disallow: /desabonnement-effectue
 Disallow: /404
 
-Sitemap: http://franckguadagnini.fr/sitemap.xml
+Sitemap: https://franckguadagnini.fr/sitemap.xml

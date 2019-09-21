@@ -1,14 +1,14 @@
 /* forked of http://wordpress.org/extend/themes/blankslate */
 
 /* css reset from meyerweb.com/eric/tools/css/reset & normalize.css */
-html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, cite, em, strong, sub, sup, ol, ul, li, form, article, footer, header, hgroup, nav, section, time {
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, cite, em, strong, sub, sup, ol, ul, li, form, article, footer, header, nav, section, time {
 	margin: 0;
 	padding: 0;
 	border: 0;
 	font: inherit;
 	vertical-align: baseline;
 }
-article, footer, header, hgroup, nav, section {
+article, footer, header, nav, section {
 	display: block;
 }
 html {
@@ -32,7 +32,7 @@ sub {
 body {
 	line-height: 1.375;
 	background: #fdfdfd;
-	font-family: Palatino, "Palatino Linotype", "Book Antiqua", "TeX Gyre Pagella", 'texgyrepagella', "Palatino Nova", "URW Palladio L", "Bitstream Charter", Constantia, FreeSerif, Georgia, serif;
+	font-family: Palatino, "Palatino Linotype", "Book Antiqua", "TeX Gyre Pagella", texgyrepagella, "Palatino Nova", "URW Palladio L", "Bitstream Charter", Constantia, FreeSerif, Georgia, serif;
 	font-size: 1.188em;
 	color: #111;
 	position: relative;
@@ -75,7 +75,7 @@ header {
 	max-width: 25em;
 	margin: 0 auto;
 }
-h1, h2, .tipue_search_content_title, #tipue_search_results_count, .h01 /* nombre de résultats d'une recherche */ {
+h1, h2 {
 	font-weight: bold;
 	text-align: center;
 }
@@ -88,7 +88,7 @@ h1 {
 	font-size: 200%;
 	font-style: italic;
 }
-h2, .tipue_search_content_title {
+h2 {
 	font-size: 130%;
 	line-height: 1.313em;
 	padding-bottom: 1em;
