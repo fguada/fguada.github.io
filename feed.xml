@@ -5,9 +5,20 @@
     <description>Fictions brèves en prose.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Jan 2020 13:42:10 +0100</pubDate>
-    <lastBuildDate>Wed, 01 Jan 2020 13:42:10 +0100</lastBuildDate>
+    <pubDate>Mon, 27 Jan 2020 20:51:22 +0100</pubDate>
+    <lastBuildDate>Mon, 27 Jan 2020 20:51:22 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Un homme s’approche d’une statue…</title>
+        <description>&lt;p&gt;Un homme s’approche d’une statue, épaules basses et pas lent, il a l’air fatigué, accablé de tristesse et de soucis. La statue, au bord d’un large chemin désert, représente une femme, qui tient dans ses bras un nourrisson. L’homme la voit sans la regarder, il la connaît bien, habitué à passer devant. Mais cette fois il s’arrête. Sans lever ses yeux déjà humides, il s’agenouille devant la statue de bois sombre et rongé. Mais ce n’est pas encore assez : il doit se pencher jusqu’à poser ses mains sur le sol, ses mains jointes, et son front dessus. Alors, alors seulement, quelques larmes peuvent s’épancher, et peut-être un sanglot retentir, un seul sanglot ravalé, ou le cri d’un oiseau, difficile à dire. Les yeux et la gorge secs, l’homme peut rester un moment ainsi, peu à peu soulagé, puis réconforté. Il peut enfin lever la tête, et, par réflexe, les yeux. Il constate alors, ébahi, effrayé, qu’à la place de la tête de femme se tient, grossièrement sculpté et dessiné mais reconnaissable sans le moindre doute, un globe de bois, un globe terrestre.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Jan 2020 19:48:57 +0100</pubDate>
+        <link>http://localhost:4000/un-homme-s-approche-d-une-statue</link>
+        <guid isPermaLink="true">http://localhost:4000/un-homme-s-approche-d-une-statue</guid>
+        
+        
+      </item>
     
       <item>
         <title>Arrivé en haut de la colline…</title>
@@ -298,31 +309,6 @@
         <pubDate>Sun, 29 Jul 2018 23:03:35 +0200</pubDate>
         <link>http://localhost:4000/ou-sont-les-limites</link>
         <guid isPermaLink="true">http://localhost:4000/ou-sont-les-limites</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Le Sphinx pose une autre devinette…</title>
-        <description>&lt;p&gt;Le Sphinx pose une autre devinette :&lt;/p&gt;
-
-&lt;p&gt;— Quel est l’animal qui, parce qu’il regarde vers le ciel, ne se rend pas compte qu’il marche dans la boue ; et qui, lorsque finalement il s’en rend compte — souvent c’est trop tard, il est déjà irrémédiablement embourbé, voué à l’engloutissement, à la noyade — au lieu de s’en vouloir ou, s’il reste une chance, d’essayer de se dépêtrer, maudit le ciel ou la boue ?&lt;/p&gt;
-
-&lt;p&gt;Je réponds, sans hésiter, instruit par l’expérience d’Œdipe : « L’homme est cet animal. » Et comme l’étudiant qui cherche les honneurs, j’ajoute : « Cet animal en qui la nature tend naturellement vers la culture, c’est-à-dire son propre accomplissement, ou son propre dépassement, ou son propre anéantissement. »&lt;/p&gt;
-
-&lt;p&gt;C’est à cet instant que le Sphinx me transperce l’épaule d’une seule de ses griffes immenses. Et derrière mon hurlement je l’entends tonner :&lt;/p&gt;
-
-&lt;p&gt;— Réponse incomplète !&lt;/p&gt;
-
-&lt;p&gt;Et il me jette au loin.&lt;/p&gt;
-
-&lt;p&gt;Comme toujours dans mes rêves, je me réveille avant de m’écraser au sol. Malgré la frayeur, le rêve continue un instant : une mare de boue me sauve la vie. La boue amortit ma chute, et un emplâtre de boue arrête l’hémorragie de mon épaule. Je garderai au bras un défaut de mobilité ; et au cœur un nœud où je ne sais démêler le soulagement, la honte, l’humilité, la reconnaissance.&lt;/p&gt;
-
-&lt;p&gt;Maintenant, levé, lucide, c’est surtout le regret qui domine et m’attriste : le regret de ne jamais savoir s’il manquait à ma réponse seulement la concision ou, positivement, quelque qualificatif dont l’évidence m’échappe.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jul 2018 22:58:42 +0200</pubDate>
-        <link>http://localhost:4000/le-sphinx-pose-une-autre-devinette</link>
-        <guid isPermaLink="true">http://localhost:4000/le-sphinx-pose-une-autre-devinette</guid>
         
         
       </item>
