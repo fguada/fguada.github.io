@@ -5,9 +5,20 @@
     <description>Fictions brèves en prose.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Feb 2020 19:20:31 +0100</pubDate>
-    <lastBuildDate>Tue, 11 Feb 2020 19:20:31 +0100</lastBuildDate>
+    <pubDate>Wed, 26 Feb 2020 13:16:45 +0100</pubDate>
+    <lastBuildDate>Wed, 26 Feb 2020 13:16:45 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>« Nous n’avons vu ni hommes ni traces d’hommes »…</title>
+        <description>&lt;p&gt;« Nous n’avons vu ni hommes ni traces d’hommes », me fait remarquer mon compagnon de marche et vieil ami. Constat d’autant plus réjouissant qu’on a de moins en moins l’occasion de pouvoir le faire, et qui me rappelle une autre longue journée de marche, en Europe celle-là. Ni humains ni traces fraîches d’humains, certes, mais que de ruines ! Il y a de nombreuses années de cela : j’étais jeune alors, à peine majeur ; et les ruines n’ont pu depuis que continuer à s’effondrer, tombeaux s’ensevelissant eux-mêmes. Certes je ne l’ai pas constaté, mais c’est l’évidence, la conséquence inexorable d’un processus provoqué, puis accéléré, par les qualités, les vertus mêmes qui avaient temporairement soulevé les habitants humains de ce continent. À l’époque, je n’avais pas eu envie d’y aller, c’est mon service militaire qui m’y avait contraint ; même si je le voulais désormais, je ne le pourrais plus, faute de moyens : depuis peu, seule l’armée dispose encore des véhicules indispensables à la traversée. Mais je n’envie nullement les forces qu’on y envoie. Je reste ici, chez moi, volontiers, quoique je n’aie guère le choix. Là-bas, il est trop tard pour les vivants, trop tôt pour les archéologues.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Feb 2020 13:13:46 +0100</pubDate>
+        <link>http://localhost:4000/nous-n-avons-vu-ni-hommes-ni-traces-d-hommes</link>
+        <guid isPermaLink="true">http://localhost:4000/nous-n-avons-vu-ni-hommes-ni-traces-d-hommes</guid>
+        
+        
+      </item>
     
       <item>
         <title>Un homme s’approche d’une statue…</title>
@@ -296,19 +307,6 @@
         <pubDate>Mon, 30 Jul 2018 19:19:55 +0200</pubDate>
         <link>http://localhost:4000/je-scrute-les-lointains</link>
         <guid isPermaLink="true">http://localhost:4000/je-scrute-les-lointains</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Où sont les limites ?…</title>
-        <description>&lt;p&gt;— Où sont les limites ? Je ne les vois pas. Comment m’abstenir de m’en approcher, si je ne les vois pas ?&lt;/p&gt;
-
-&lt;p&gt;— Tu regardes au mauvais endroit. Ferme les yeux : voici déjà la première des limites. Les autres sont derrière, de plus en plus profond à l’intérieur.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 29 Jul 2018 23:03:35 +0200</pubDate>
-        <link>http://localhost:4000/ou-sont-les-limites</link>
-        <guid isPermaLink="true">http://localhost:4000/ou-sont-les-limites</guid>
         
         
       </item>
