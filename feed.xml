@@ -1,30 +1,323 @@
-h---
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:20 %}
+    <title>Journal du conteur</title>
+    <description>Fictions brèves en prose.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 14 Jul 2020 21:31:56 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2020 21:31:56 +0200</lastBuildDate>
+    <generator>Jekyll v4.1.0</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Notre école d’élite accueille…</title>
+        <description>&lt;p&gt;Notre école d’élite accueille deux types d’étudiants :&lt;/p&gt;
+
+&lt;p&gt;Ceux qui viennent chercher des moyens, des outils, apprendre un métier se voient proposer un large choix d’outils conceptuels et manuels à apprendre à utiliser. Au bout de leurs quelques années de formation, ils repartent en général satisfaits.&lt;/p&gt;
+
+&lt;p&gt;À ceux qui viennent chercher des réponses, des fins, apprendre à vivre et à mourir, nous professeurs n’offrons, n’avons rien d’autre à offrir, sous d’autres noms, plus ronflants, que les mêmes outils. Ces étudiants-ci repartent, pas nécessairement plus vite et souvent bien plus tard que les autres, en général frustrés, habiles mais frustrés. Et pourtant, à leur insu, eux aussi comblés.&lt;/p&gt;
+
+&lt;p&gt;Mais à la fin tous nos lauréats s’unissent pour porter à tous les autres gens ce qui leur revient : des moyens qu’ils n’ont pas mérités pour des fins qu’ils n’ont pas choisies.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 Jun 2020 08:34:16 +0200</pubDate>
+        <link>http://localhost:4000/notre-ecole-d-elite-accueille</link>
+        <guid isPermaLink="true">http://localhost:4000/notre-ecole-d-elite-accueille</guid>
+        
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Certains n’ont fait que les quelques dernières…</title>
+        <description>&lt;p&gt;Certains n’ont fait que les quelques dernières centaines de mètres à pied, à travers les dunes ; certains ont même dû être portés ; d’autres arrivent là au bout de nombreuses semaines de pèlerinage profane. Mais tous au même moment, dans un silence à peine troublé, pieds nus sur le sable sourd, s’approchent du rivage autant que le permet leur nombre croissant d’année en année, puis, là où ils sont, s’allongent sur le sable et contemplent le ciel nocturne du solstice d’été.&lt;/p&gt;
+
+&lt;p&gt;Les premiers à pratiquer puis populariser ce rituel, dans leur solitude trouvaient facilement ce qu’ils venaient chercher : le sentiment apaisant d’être petit sous les étoiles. Mais les derniers arrivés, à les voir, à les écouter, et malgré la foule qui recouvre la plage, trouvent eux aussi facilement, impressionnés par un silence et une prévenance qu’une telle promiscuité empêche habituellement. Ils se recueillent peut-être différemment, n’étant plus rares sous les étoiles mais partageant leur médiocrité avec ceux dont le moindre mouvement fait sentir et toucher la tête, qu’on n’ose pas caresser, les pieds, de l’odeur desquels on ne s’offusque pas, les mains, qu’on voudrait saisir, que les plus confiants serrent parfois ; mais ils ne semblent pas moins émus. Il fallait qu’ils fussent attirés, guidés là, leur masse se prête à l’amortissement d’une transcendance temporelle et spatiale dont l’ivresse a déjà pu rendre folles quelques imaginations.&lt;/p&gt;
+
+&lt;p&gt;Désormais, cela ne peut plus durer toute la nuit. Les premiers ronflements, les premiers chuchotements sonnent la fin d’un événement écourté mais qu’il a été décidé, étant donné les bienfaits individuels et collectifs qu’il prodigue, de répéter dès l’année prochaine aux équinoxes.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 May 2020 16:55:50 +0200</pubDate>
+        <link>http://localhost:4000/certains-n-ont-fait-que-les-quelques-dernieres</link>
+        <guid isPermaLink="true">http://localhost:4000/certains-n-ont-fait-que-les-quelques-dernieres</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Au cours de mes pérégrinations…</title>
+        <description>&lt;p&gt;Au cours de mes pérégrinations, j’ai rencontré beaucoup de marcheurs sobres dans leur équipement, certains par pauvreté matérielle, la plupart par choix, mais aucun davantage que celui-ci que je suis de loin depuis quelques heures, espérant le rattraper, curieux de l’interroger. Comment fait-il pour aller pieds nus sur ce chemin caillouteux ? La plante de ses pieds est-elle donc couverte de corne comme celle de nos ancêtres préhistoriques ? Et la résistance au froid qui lui permet de se contenter de la sorte de toge que je vois baller autour de lui : est-elle héritée du même âge, de la même manière et pour la même raison ? Et cache-t-il dans les plis de sa robe une outre de peau, ou peut-il vraiment se passer d’une gourde et d’eau en chemin ? Et dispose-t-il de grandes poches pour suppléer l’absence de sac que je lui constate, ou peut-il vraiment se contenter de ses seuls dix doigts comme outils et ustensiles ? N’a-t-il pas un biface, un poinçon d’os, une lame de jaspe à user ? Est-il alors un lointain disciple de Diogène le cynique ? Dois-je me méfier de lui — de son impudeur à tout le moins, de son ironie cruelle sinon de son agressivité désarmée ?&lt;/p&gt;
+
+&lt;p&gt;Tandis que je m’interroge, je m’aperçois que la nuit tombe ; que, malgré mes semelles épaisses, je n’ai pas gagné sur lui, ou à peine ; qu’il ne s’est pas retourné une seule fois, quoique le bruit des pierres que j’envoie parfois rouler en contrebas par hasard ne puisse pas ne pas lui être parvenu — il n’est pas sourd car je l’ai vu lever la tête vers des oiseaux criards — ; que je ne le rattraperai pas ce soir ; qu’il ne semble pas près de s’arrêter ; qu’il ne donne pas l’impression de chercher un abri, contrairement à moi. Bientôt, debout contre ma tente à peine montée, je l’observe s’évanouir lentement dans les dernières lueurs du couchant, puis disparaître avec ses réponses.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 May 2020 14:56:45 +0200</pubDate>
+        <link>http://localhost:4000/au-cours-de-mes-peregrinations</link>
+        <guid isPermaLink="true">http://localhost:4000/au-cours-de-mes-peregrinations</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>De la crête basse où je suis monté…</title>
+        <description>&lt;p&gt;De la crête basse où je suis monté, au loin dans la plaine j’aperçois une bande de nomades en mouvement. Quelques dizaines (une grosse centaine ?) de silhouettes longilignes et lentes en route, je le suppose, vers ces bosquets de noyers géants qui s’atteignent en deux ou trois jours et qui, en cette saison, couvrent le sol de leurs fruits très nutritifs et protéinés. À cette distance, je ne discerne pas leur équipement, nécessairement mince. On dirait qu’ils vont nus sur la terre, tranquilles comme un troupeau sans appréhension. Seules peut-être leur grande taille et la petitesse de leur tête laissent deviner que certains d’entre eux portent une lance. Plutôt pour la chasse ou pour la guerre ? Je ne le saurai probablement pas. Je les regarde passer, honteusement envieux, et triste. Envieux d’une liberté qui dédaignerait même le casse-noix que je pourrais leur offrir : à quoi bon le transporter, quand on trouve partout des pierres ; triste de savoir que la survie même de l’enfant malade que je fus implique un mode de vie beaucoup trop lourd pour être mobile — et peut-être même soutenable. Moi qui aime tant marcher, j’aurais pu être heureux parmi eux. Mais, à mon âge, la distance culturelle est infranchissable, et l’habitude une armure inamovible. Du moins, je me console et me résigne en le croyant.&lt;/p&gt;
+
+&lt;p&gt;Ils ont presque disparu de la surface de la terre, mais certains parmi nous, optimistes ou pessimistes, croient qu’un lointain avenir leur appartient. Les optimistes le souhaitent, les pessimistes le craignent.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Mar 2020 11:55:31 +0100</pubDate>
+        <link>http://localhost:4000/de-la-crete-basse-ou-je-suis-monte</link>
+        <guid isPermaLink="true">http://localhost:4000/de-la-crete-basse-ou-je-suis-monte</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>« Nous n’avons vu ni hommes ni traces d’hommes »…</title>
+        <description>&lt;p&gt;« Nous n’avons vu ni hommes ni traces d’hommes », me fait remarquer mon compagnon de marche et vieil ami. Constat d’autant plus réjouissant qu’on a de moins en moins l’occasion de pouvoir le faire, et qui me rappelle une autre longue journée de marche, en Europe celle-là. Ni humains ni traces fraîches d’humains, certes, mais que de ruines ! Il y a de nombreuses années de cela : j’étais jeune alors, à peine majeur ; et les ruines n’ont pu depuis que continuer à s’effondrer, tombeaux s’ensevelissant eux-mêmes. Certes je ne l’ai pas constaté, mais c’est l’évidence, la conséquence inexorable d’un processus provoqué, puis accéléré, par les qualités, les vertus mêmes qui avaient temporairement soulevé les habitants humains de ce continent. À l’époque, je n’avais pas eu envie d’y aller, c’est mon service militaire qui m’y avait contraint ; même si je le voulais désormais, je ne le pourrais plus, faute de moyens : depuis peu, seule l’armée dispose encore des véhicules indispensables à la traversée. Mais je n’envie nullement les forces qu’on y envoie. Je reste ici, chez moi, volontiers, quoique je n’aie guère le choix. Là-bas, il est trop tard pour les vivants, trop tôt pour les archéologues.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Feb 2020 13:13:46 +0100</pubDate>
+        <link>http://localhost:4000/nous-n-avons-vu-ni-hommes-ni-traces-d-hommes</link>
+        <guid isPermaLink="true">http://localhost:4000/nous-n-avons-vu-ni-hommes-ni-traces-d-hommes</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Un homme s’approche d’une statue…</title>
+        <description>&lt;p&gt;Un homme s’approche d’une statue, épaules basses et pas lent, il a l’air fatigué, accablé de tristesse et de soucis. La statue, au bord d’un large chemin désert, représente une femme, qui tient dans ses bras un nourrisson. L’homme la voit sans la regarder, il la connaît bien, habitué à passer devant. Mais cette fois il s’arrête. Sans lever ses yeux déjà humides, il s’agenouille devant la statue de bois sombre et rongé. Mais ce n’est pas encore assez : il doit se pencher jusqu’à poser ses mains sur le sol, ses mains jointes, et son front dessus. Alors, alors seulement, quelques larmes peuvent s’épancher, et peut-être un sanglot retentir, un seul sanglot ravalé, ou le cri d’un oiseau, difficile à dire. Les yeux et la gorge secs, l’homme peut rester un moment ainsi, peu à peu soulagé, puis réconforté. Il peut enfin lever la tête, et, par réflexe, les yeux. Il constate alors, ébahi, effrayé, qu’à la place de la tête de femme se tient, grossièrement sculpté et dessiné mais reconnaissable sans le moindre doute, un globe de bois, un globe terrestre.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Jan 2020 20:48:57 +0100</pubDate>
+        <link>http://localhost:4000/un-homme-s-approche-d-une-statue</link>
+        <guid isPermaLink="true">http://localhost:4000/un-homme-s-approche-d-une-statue</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Arrivé en haut de la colline…</title>
+        <description>&lt;p&gt;Arrivé en haut de la colline, j’admirai le paysage qui s’étendait en contrebas dans la vallée. Des bois, des champs ; quelques cheminées fumantes, quelques pâturages ; des potagers multicolores et des toits sombres. En descendant, je vis que le chemin longeait un verger. Plus je m’en approchais, plus j’avais envie d’un fruit. Arrivé contre la clôture, à la vision d’une pomme que le soleil faisait briller, je me trouvai forcé de déglutir, ma bouche emplie de salive ! Me reprochant, mais avec une indulgence amusée, une telle gourmandise, comme je l’aurais reprochée à un chien bavant ou un enfant suppliant pour un biscuit, je continuai ma route. Mais quand j’aperçus une pomme tombée roulée jusqu’à la clôture, je n’hésitai pas à passer ma main entre les barbelés rouillés. Elle était bonne, acidulée comme je les aime ; pourtant je la savourai moins que la satisfaction du désir que j’en avais eu ; et encore moins que la chance qui me l’avait offerte ; et moins encore que l’absence du plus petit effort de ma part pour l’obtenir.&lt;/p&gt;
+
+&lt;p&gt;La pomme avalée, et le verger derrière moi, je traversai la vallée. Au bas de la suivante des quelques collines que je devais encore franchir, j’admirai ses flancs boisés par étage, et les hautes frondaisons agitées par les premières rafales d’un vent qui me fit presser le pas. C’est dans mes pensées, la nuit dans le dos, réchauffé par ma vitesse et grisé par la dopamine, que j’atteignis la prochaine étape.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Dec 2019 11:42:57 +0100</pubDate>
+        <link>http://localhost:4000/arrive-en-haut-de-la-colline</link>
+        <guid isPermaLink="true">http://localhost:4000/arrive-en-haut-de-la-colline</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Je ne sais plus si ce qui d’abord alerta mon attention…</title>
+        <description>&lt;p&gt;Je ne sais plus si ce qui d’abord alerta mon attention fut le nuage de poussière ou le brouhaha. Le premier s’aperçoit de plus loin que ne s’entend le second, mais je marche habituellement les yeux baissés, isolé par un soliloque le plus souvent muet. Ce dont je me souviens, en revanche, c’est qu’à peine eus-je conscience d’une approche massive que j’essayai d’identifier sa cause. Vite ce fut évident : un groupe de congénères, une bande d’Homo sapiens, des terrestres en marche à mon encontre. Aussitôt, je cherche un détour ou une cachette, mais le chemin est droit et unique, le terrain plat et dégagé. M’écarter par les champs jaunes attirerait sur moi l’attention, à l’opposé de mon souhait pressant. Pas de meilleur choix : je me résigne à les croiser. C’est en moi-même, derrière mon visage, derrière un regard vague et une expression quelconque affectée, que j’essaye de me cacher. Ne pouvant, par un salut, un sourire, un hochement de tête, reconnaître même fugacement chacun d’eux pour mon prochain, je les ignore en espérant la réciproque.&lt;/p&gt;
+
+&lt;p&gt;Leur bavardage monte. Coups d’œil que je n’ai pas su ne pas hasarder ; quelques regards croisés, inexpressifs. Et déjà plus que leur sillage de poussière sonore.&lt;/p&gt;
+
+&lt;p&gt;Quand, quelques heures plus tard, je croise un autre marcheur solitaire, je le salue et lui souris avec plaisir. Par mon pas ralenti, mon regard amène, l’angle de mon profil, je l’incite à s’arrêter pour bavarder. Négligeant cette occasion tendue, il se borne, avec une politesse visiblement contrainte, à me rendre mon salut, d’un seul coup d’œil et d’une voix sourde. Légère déception, qui sera vite oubliée. Je continue seul jusqu’à mon retour vespéral, où me réchauffe et me réjouit la double chaleur du foyer.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Nov 2019 11:26:34 +0100</pubDate>
+        <link>http://localhost:4000/je-ne-sais-plus-si-ce-qui-d-abord-alerta-mon-attention</link>
+        <guid isPermaLink="true">http://localhost:4000/je-ne-sais-plus-si-ce-qui-d-abord-alerta-mon-attention</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Arrivé parmi les non-premiers…</title>
+        <description>&lt;p&gt;Arrivé parmi les non-premiers, je dois me contenter d’une vie quelconque, errante, oiseuse, presque onirique. Un destin ? Disparaître. Un but ? Ne laisser aucune trace. Je revendique la médiocrité à laquelle j’ai été assigné par hasard.&lt;/p&gt;
+
+&lt;p&gt;Serais-je arrivé plus tôt, j’aurais eu le choix. Le grand sac des buts et des sens n’était pas encore vide. J’aurais tiré l’exaltant, ou du moins le remarquable. Mais, parti tard, j’ai par surcroît traîné. Le sac était vide et je n’ai même pas été autorisé à glisser ma main dedans. Dérisoirement unique, j’ai suivi la foule, où si ma voix n’est que la mienne, elle est inaudible. Mais j’ai beau jouer des coudes, impossible de rester bien au milieu, bien entouré, négligé, annulé. Comme une bulle d’air qui ne peut éclater qu’à la surface du fleuve, je me retrouve toujours au bord. Par une dynamique aussi mystérieuse que persistante, même l’anonyme me repousse, comme si j’étais en avance sur ma propre absence.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Oct 2019 16:10:59 +0200</pubDate>
+        <link>http://localhost:4000/arrive-parmi-les-non-premiers</link>
+        <guid isPermaLink="true">http://localhost:4000/arrive-parmi-les-non-premiers</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>À peine sorti de l’enfance…</title>
+        <description>&lt;p&gt;À peine sorti de l’enfance, arraché de ma vie je fus jeté dans les poubelles de l’histoire. Nulle aversion particulière contre moi. Je n’étais qu’un numéro dans un registre. Oublié là parmi tant d’autres, nous nous débrouillions. Les poubelles de l’histoire étant bien remplies, et certains déchets n’en ayant que le nom, le matériau ne manquait pas pour dresser des habitations de fortune. Haillons, restes, croûtes et quignons secs, eau de pluie. Vie morne mais tranquillisée par l’absence d’espoir, et courte par absence de soins.&lt;/p&gt;
+
+&lt;p&gt;Puis un jour le grand chambardement : on retourne, on vide les poubelles de l’histoire, nous nous retrouvons cul par-dessus tête au milieu des débris. On ne nous cherchait pas mais on nous retrouve. Sauver est un grand mot, mais du moins on nous tire de là. Des poubelles de l’histoire, nous passons dans un camp de réfugiés. Petite, petite amélioration.&lt;/p&gt;
+
+&lt;p&gt;On nous fait miroiter des logements proprets, robinets rutilants, douches à volonté, lumière électrique, toiture étanche… Nous découvrons l’espoir et l’impatience, tortures auxquelles nous n’étions pas préparés. Malgré les soins, nous succombons peu à peu à la fièvre de l’histoire.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 29 Sep 2019 17:46:15 +0200</pubDate>
+        <link>http://localhost:4000/a-peine-sorti-de-l-enfance</link>
+        <guid isPermaLink="true">http://localhost:4000/a-peine-sorti-de-l-enfance</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ce n’est pas un guide…</title>
+        <description>&lt;p&gt;Ce n’est pas un guide. Certes, il est loin devant ; certes, tu le suis ; mais il n’y est pour rien, il ne t’a rien demandé, rien dit, il ne t’a même pas fait signe, peut-être ignore-t-il même ta présence, quoi que ce soit improbable : ne serait-ce que pour s’orienter, il lui arrive de regarder en arrière, et tu n’as pas toujours où te cacher ni la présence d’esprit de te coucher. Où va-t-il ? Le sait-il lui-même ?&lt;/p&gt;
+
+&lt;p&gt;Non, il n’y est tout de même pas pour rien : celui qui se rend visible sur de hautes crêtes doit toujours s’attendre à être pris pour guide par un de ceux qui n’ont même pas le courage de s’abandonner à l’errance. Il ne l’ignore sans doute pas, donc tu pourrais cesser de te cacher, surtout maladroitement : tu ne fais que te ridiculiser un peu plus. S’il y a une chance qu’il te fasse signe un jour, qu’il te laisse le rattraper, qu’il te tende la main, son préalable est que tu assumes ta nullité et qu’au moins tu fasses montre de constance dans l’humilité. Mais c’est une chance infime… et tu n’es pas sûr de préférer un vrai compagnon à un faux guide.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Aug 2019 21:00:31 +0200</pubDate>
+        <link>http://localhost:4000/ce-n-est-pas-un-guide</link>
+        <guid isPermaLink="true">http://localhost:4000/ce-n-est-pas-un-guide</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>À peine adulte, il se met en route…</title>
+        <description>&lt;p&gt;À peine adulte, il se met en route, sa décision prise : il sera chercheur de trésor ! Il a étudié l’histoire et la géographie, appris la plongée sous-marine et la spéléologie : il est prêt, résolu, et il ne tarde pas à obtenir ses premiers succès.&lt;/p&gt;
+
+&lt;p&gt;Très tôt pourtant, il prend conscience que ce ne sont pas les trésors qui l’attirent, ni a fortiori le luxe, mais la recherche elle-même, et le pur instant de la découverte, son apothéose, la consécration des longs efforts. Même quand il échoue, c’est-à-dire quand il renonce, la perte, il le découvre, n’est que financière, celle du lourd investissement consenti. Le temps passé, les tâches effectuées se suffisaient presque. La déception est vite tournée en nouvelle quête.&lt;/p&gt;
+
+&lt;p&gt;Puis, à mesure qu’il mûrit, il se rend compte que c’est toujours plus facilement, plus près de lui qu’il trouve le genre de trésors qui a toujours éclairé, sans qu’il le reconnaisse, son quotidien de bibliothèque et d’exploration. Ce qui, dans sa jeunesse, nécessitait des mois d’enquête et de préparation patientes, des semaines de fouille périlleuse par trois cents mètres de fond, peu à peu ne requiert plus qu’une certaine disposition : un œil levé, une main tendue, une oreille attentive, un pas ralenti, un détour de quelques heures…&lt;/p&gt;
+
+&lt;p&gt;Le voilà, au bout d’une demi-vie d’adulte passée à chercher des trésors, à en trouver beaucoup et en amasser peu, qui néglige îles désertes et galions engloutis pour accueillir le solstice d’été au sommet d’une colline et la pleine lune au bord d’un lac. Les rayons dorés du soleil ont remplacé pièces et pépites.&lt;/p&gt;
+
+&lt;p&gt;À partir de ce moment, sa vie se remplit de trésors. C’est chaque dimanche, chaque nuit étoilée, chaque matin ensoleillé, puis chaque gorgée d’eau, puis chacun de ses pas, puis chaque inspiration complète, enfin chacun de ses cillements, jusqu’au dernier.&lt;/p&gt;
+
+&lt;p&gt;Ses trésors d’une richesse périodique et incarnée périssent avec lui. Ses héritiers n’ont rien d’autre à se partager que ses chaussures et ses jumelles.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 Jul 2019 08:47:36 +0200</pubDate>
+        <link>http://localhost:4000/a-peine-adulte-il-se-met-en-route</link>
+        <guid isPermaLink="true">http://localhost:4000/a-peine-adulte-il-se-met-en-route</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>On a posé et déployé le monde ici…</title>
+        <description>&lt;p&gt;On a posé et déployé le monde ici, là, tout autour, partout. Quand le monde s’adaptait mal au terrain, on a rasé montagnes et forêts, asséché les marais, détourné les fleuves. Maintenant le monde semble si bien ajusté qu’on ne sait même plus si l’on ne discerne plus la démarcation stratigraphique entre le monde et le terrain dans lequel il a dû s’enfoncer, ou si l’on ne voit plus du tout le terrain, si l’on ne voit plus que le monde seul qui le recouvre donc et le masque entièrement. Comment était ce terrain ? Jusqu’à quelle profondeur faudrait-il creuser pour le trouver assurément ? nous sommes-nous demandé, mais nous avons creusé dans le fond même des océans sans rien trouver d’autre que le monde, et si nous n’allons pas jusqu’au magma loin sous la surface de la planète, c’est moins par crainte du volcan ainsi créé que par quasi-certitude de ne trouver là encore rien d’autre que le monde. C’est seulement lorsque se produisent un ouragan, un tremblement de terre, un tsunami que nous retrouvons la terre. Mais nous la perdons aussi vite qu’elle a été rapide à semer chaos et terreur dans le monde. Nous avons beau chercher par un vain acquit de conscience, nous savons déjà que dans les décombres nous ne trouverons de nouveau rien d’autre que le monde, parmi ses propres débris.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Jun 2019 12:49:13 +0200</pubDate>
+        <link>http://localhost:4000/on-a-pose-et-deploye-le-monde-ici</link>
+        <guid isPermaLink="true">http://localhost:4000/on-a-pose-et-deploye-le-monde-ici</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Vers le minimum</title>
+        <description>&lt;p&gt;Vers le minimum, il procède par étapes. Le corps aspire à la mobilité : il s’assied et s’efforce de ne plus bouger, même un cil. Première étape. La respiration est naturellement arythmique : il entreprend de la réguler. Seconde. Il rentre dans sa tête, une tête vite aveugle, bientôt sourde, muette, édentée, chauve, lisse, pure. Mais il est encore loin du minimum. Il ne boit plus qu’une fois par jour, ne mange plus qu’une fois tous les trois jours, suçant quelques croûtes de pain. Mais il est encore loin du minimum. Puis il s’efforce de ne penser à rien, de tarir sa conscience, d’être un vide intérieur et d’y vivre. Il n’est toujours pas au minimum. Il se rapetisse, finit par se réduire à la taille d’un escargot : ce n’est pas encore le minimum. Enfin il se donne le plus difficile des objectifs : ne plus respirer. Il coupe sa respiration et attend, volonté déjà minérale. Même quand il meurt, que le peu qu’il reste de son corps décomposé retourne à la terre pour la prochaine étape du cycle biotique — même alors, il n’est pas, il n’a jamais été au minimum.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 May 2019 07:10:49 +0200</pubDate>
+        <link>http://localhost:4000/vers-le-minimum</link>
+        <guid isPermaLink="true">http://localhost:4000/vers-le-minimum</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hasard ou volonté : et voilà…</title>
+        <description>&lt;p&gt;Hasard ou volonté : et voilà pour résultat une tête pure. Immobile par terre, dans les bois. Les animaux d’abord l’observent de loin, prudemment. Puis les plus curieux s’enhardissent à l’approcher, l’aborder : qu’est-elle, que fait-elle là ? Elle est une tête, ne le voient-ils pas ! Une tête seule, une pure tête. Et une tête affamée, qui lève haut les sourcils. Les loups commencent à se lécher les babines, devant cette tête sans défense, censément pleine de graisse très calorique. Mais voici les hommes qui arrivent. Ni surpris ni intrigués, mais qui révoltés, qui dégoûtés — tous pleins de mépris. Le plus hardi l’attrape par les cheveux et la jette dans la charrette, parmi le bois glané. Un peu plus loin on la bâillonne. Et à l’entrée du village, on la jette aux ordures, au compost, aux corbeaux.&lt;/p&gt;
+
+&lt;p&gt;C’était au temps où les têtes poussaient toutes seules dans la terre : elles avaient beau pleurer, crier, supplier, rien n’y faisait : même avant les hommes, déjà les géants, les ogres et d’autres monstres oubliés les arrachaient, ou les coupaient d’un coup de griffe comme une salade, et les dévoraient aussitôt, telle une pomme à peine cueillie.&lt;/p&gt;
+
+&lt;p&gt;Mais cette histoire est seulement celle que racontent, et entre eux se racontent, ceux qui s’efforcent de rentrer dans leur tête et parfois y réussissent, pour justifier, par l’autorité du mythe, une propension et une pratique qui suscitent une méfiance, une désapprobation croissantes, et même des menaces de moins en moins timides et anonymes d’interdiction voire d’ostracisme.&lt;/p&gt;
+
+&lt;p&gt;Il faut les voir pousser, comprimer, se concentrer, rétrécir, gélifier, liquéfier ; s’efforcer de rentrer dans leur tête comme escargot dans sa coquille. Et peut-être pour la même raison. Grosses têtes molles.&lt;/p&gt;
+
+&lt;p&gt;Il faut voir les familles prendre soin de ces têtes, les coiffer, les nourrir, les moucher : comme des nourrissons.&lt;/p&gt;
+
+&lt;p&gt;Ils ne survivent jamais longtemps, mais on ne peut pourtant pas assimiler leur pratique à la forme la plus longue, la plus lente, la plus difficile et pénible pour autrui de suicide : ils ne veulent pas mourir, ils veulent seulement rentrer. Et on ne peut pas non plus nier que lorsqu’ils y sont parvenus — ceux qui y parviennent, c’est-à-dire une minorité —, ils ont l’air heureux, enfin bien installés dans leur tête, recroquevillés, douillettement lovés dans leur tête, leurs traits expriment non la plénitude mais l’aise d’une grasse satiété, du repos repu mou et chaud.&lt;/p&gt;
+
+&lt;p&gt;On ne peut même pas leur imputer paresse ou oisiveté : il leur faut des mois d’effort intense pour aboutir, pour que plus rien ne dépasse.&lt;/p&gt;
+
+&lt;p&gt;En a-t-on déjà vu qui ressortent, qui sortent de leur propre tête ? Non. Est-ce possible ? Nul ne le sait. On suppose que ce serait encore plus difficile, encore plus long ; on répute que, même si c’est théoriquement possible, pratiquement ils n’en auraient ni le temps ni les forces. On n’a de toute façon jamais eu connaissance d’aucun d’entre eux l’essayant, ni même en ayant exprimé le désir.&lt;/p&gt;
+
+&lt;p&gt;Mais la menace qu’ils font peser sur l’ordre public monte et les attentats sont devenus fréquents, où l’on force la porte des maisons qui discrètement les abritent encore, où on les arrache aux soins de leurs familiers, et, non sans coups ni insultes, les jette à l’eau, au feu ou, surtout, aux ordures, où, dit-on, est leur vraie place : triste réalisation de leurs craintifs contes prémonitoires.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 Apr 2019 09:47:58 +0200</pubDate>
+        <link>http://localhost:4000/hasard-ou-volonte-et-voila</link>
+        <guid isPermaLink="true">http://localhost:4000/hasard-ou-volonte-et-voila</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Sur la tombe encore fraîche de ma chère épouse…</title>
+        <description>&lt;p&gt;Sur la tombe encore fraîche de ma chère épouse, sur une feuille de l’arbuste que j’ai planté là et qui grandit presque à vue d’œil, je trouve un escargot, un minuscule escargot. Je pourrais l’attraper et le jeter au loin, mais je l’observe. Quelle n’est pas ma surprise de soudain le voir ouvrir une bouche infime et y enfourner le bout d’un pétale ! Je suis ému, émerveillé. Je ne savais pas que les escargots ont une bouche, ne m’étais jamais demandé comment ils se nourrissent. Ce qui peut sembler évident — comment se nourriraient-ils autrement que par ingestion ? — ne l’était aucunement pour moi. Pourtant depuis longtemps j’aime particulièrement les escargots ; quand il a plu, j’essaye de ne pas en écraser (c’est le seul moment où je me félicite de mon habitude de marcher les yeux baissés) ; et si nous en trouvons un au milieu du chemin, ma fille ou moi le déposons à l’abri dans la bordure végétale. J’aime les observer aussi ; pourtant — sans doute faute de patience — c’est la première fois que j’en vois un accomplir cet acte si banal et fréquemment nécessaire : manger. L’endroit n’est pas anodin. Depuis combien de temps es-tu né, petit escargot ? Ta taille infime est-elle celle des adultes de ton espèce, ou bien es-tu jeune, très jeune ? J’aimerais que tu sois à peine né, appelé à grandir et grossir jusqu’à la taille des plus gros escargots du pays… Combien d’atomes du corps décomposé de ma chère épouse seront-ils intégrés à ton corps, si tu es né tout près, si tu continues d’y vivre, de te nourrir là des plantes dont les racines auront tiré de lui leurs aliments ? Belle réincarnation. Malgré ma douleur de la perte irrémédiable, la vie continue, sous mes yeux, renouvelée, recyclée. Vivant, je mange le vivant ; mort, je le nourris. J’essaie de m’en réjouir, d’y puiser le courage d’un apaisement qui tarde à s’épanouir.&lt;/p&gt;
+
+&lt;p&gt;Petit escargot ! Mon frère et mon fils ! Cette bouche infime, ligne fine, radula invisible lorsqu’elle est fermée, dans laquelle tu enfonces ces morceaux de pétales blancs que tu as, si j’ai bien vu, humectés de mucus et découpés de la fleur sur laquelle tu rampes — tu es si léger qu’elle ne ploie même pas sous ton poids — ; par une contraction de ton pied, ces morceaux tu les portes à ta bouche, et tu t’en régales ! Continue, je t’en prie !&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Mar 2019 09:48:00 +0100</pubDate>
+        <link>http://localhost:4000/sur-la-tombe-encore-fraiche-de-ma-chere-epouse</link>
+        <guid isPermaLink="true">http://localhost:4000/sur-la-tombe-encore-fraiche-de-ma-chere-epouse</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Une fois pour toutes</title>
+        <description>&lt;p&gt;Tout jeune encore, il avait voulu se libérer une fois pour toutes de tous les désirs secondaires, accessoires. Une fois pour toutes, flamber la richesse ; une fois pour toutes, souffrir les affres de la passion voluptueuse… Une fois pour toutes, épuiser tour à tour les quelques grandes tentations du siècle, puis, ses préparatifs terminés, ses désirs et sa curiosité satisfaits, enfin libre, devant lui un couloir de temps de vie vide de tout sauf de son obsession jusqu’alors retenue, alors s’y vouer : alors se consacrer exclusivement à l’accomplissement de son ambition d’exceller dans un domaine et un seul.&lt;/p&gt;
+
+&lt;p&gt;Dans les contes, le jeune ambitieux, aidé par un merle et conseillé par un loup, à force d’errer dans la forêt finit par trouver le grand château de la vie. Le pont-levis est baissé ; il entre sans peur. À l’intérieur, aucune porte n’est verrouillée. Dans chaque serrure, une clé. Mais il sait déjà ce qu’il cherche : la plus petite des chambres confortables, une sous-pente qu’il avait repérée du dehors, en faisant le tour des douves et des murs, en observant les fenêtres ; une chambrette coincée entre la roche et la pierre, donnant sur le vide. Il explore le château à sa recherche, incurieux des autres portes. Et pour ne pas craindre un jour la tentation, il verrouille chacune des portes qu’il croise et en jette la clé par les fenêtres dans les douves. Quand il trouve la chambre qu’il cherchait, il s’y installe aussitôt, ravi. Mais au bout de seulement quelques semaines là, assailli chaque nuit par des fantômes — chuchotements, frôlements, grincements —, il commence à penser aux portes, aux autres portes, qu’il a toutes verrouillées et dont il a jeté les clés. Qu’y avait-il derrière ? Il croit résister longtemps, mais en fait de concentration, sa veille s’épuise à imaginer les vies qu’elles promettaient. Jusqu’au jour où brusquement il sort de sa chambre, commence à errer par les couloirs silencieux. Devant la première porte qu’il rencontre, il sort sa dernière clé, celle de sa propre chambre, et l’essaye dans la serrure. Et la porte s’ouvre, sur une vaste plaine déserte où le vent chaud couche les épis. Il continue ; quelques minutes lui suffisent pour se convaincre que la clé de sa chambre est un passe qui ouvre toutes les portes du château, du grand château de la vie.&lt;/p&gt;
+
+&lt;p&gt;Mais tu n’es plus jeune, les années ont fui en vain ; tu n’as pas accompli ton ambition, et tu ne le regrettes plus. Il s’est passé ceci qu’à peine avais-tu fortifié ton quotidien solitaire autour de ce que tu jugeais l’essentiel, tu t’es mis, insidieusement d’abord, puis de plus en plus consciemment sinon décidément, à rechercher la diversion, la distraction, et même le futile. Tu as lutté contre toi-même, jusqu’à l’effondrement de toute illusion… Et tu as dû renoncer, faire demi-tour, revenir, la queue entre les jambes, paupières baissées sur une honte amère. On ne s’est pas privé de te moquer, de t’humilier. Tu l’avais provoqué, par ton arrogance laconique d’autrefois. Mais tu as assumé ton échec ; tu as reconnu tes erreurs une par une. Tu étais bien sûr négligeable, raison pour laquelle, passé une période de quarantaine sociale, on t’a qui réintégré qui définitivement repoussé, sans y accorder grande attention. Ta place dans le monde et dans le jeu social, cette place donnée d’emblée par hasard mais que tu avais abandonnée, tu as dû te la refaire, lentement et discrètement, te la creuser à tous petits coups. Et il s’est avéré que cette voie-là, que cette quête-là, te convenaient mieux que l’accomplissement exclusif d’une ambition dévoreuse et séparante. Peu à peu, tu as retrouvé ce que tu avais cru perdu avec ton enfance et ta prime jeunesse : l’abandon, la joie instantanée, l’aussitôt, le fugace, en légèreté. Et tu continues ; un certain renoncement grandit en toi. Quand il sera mûr, tu pourras en finir avec ta radicalité même : une fois pour toutes, en finir avec l’une fois pour toutes : demeurer décidément, puis intuitivement, dans le règne de l’occasion, une fois à la fois.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Feb 2019 21:31:58 +0100</pubDate>
+        <link>http://localhost:4000/une-fois-pour-toutes</link>
+        <guid isPermaLink="true">http://localhost:4000/une-fois-pour-toutes</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Souvent le soir, ils se réunissent…</title>
+        <description>&lt;p&gt;Souvent le soir, ils se réunissent pour la musique. Chacun s’assoit où il peut ; s’ils sont tous présents, les cent cinquante chaises de la maison commune suffisent à peine, et la surface est comble, bien qu’on ait depuis longtemps démonté l’estrade. On accorde son instrument ; on se recueille un long moment, on attend que les conversations particulières, les nouvelles du jour, les nouvelles intimes, tarissent. Quand le silence est installé depuis assez longtemps, on peut commencer. Ils prennent leur instrument et les phrases montent. Chacun y va de sa voix particulière, de son épanchement. De cette cacophonie la plupart des fois émergent pourtant, au fil du temps, des motifs. Quand les motifs se répètent, le premier stade, celui où un échec musical collectif est encore possible, est passé. Peu à peu, à partir de ce moment, les phrases particulières deviennent moins nombreuses, moins longues, jusqu’au moment où les instruments qui ne se sont pas tus se sont fondus en une seule harmonie. On la répète alors un certain temps, le temps pour chacun d’en appréhender, d’en explorer toutes les subtilités, toutes les virtualités. Ils s’expriment d’une seule voix, enfin, voix pour tous, consensus au moins tacite et vérité collective d’un soir. Mais cet unisson ne peut qu’être bref. Longtemps pour l’atteindre, peu de temps pour le dépasser. Bientôt les diversions, les variations commencent, à partir du motif qui a lentement émergé. Elles peuvent durer jusqu’au matin, le temps que chacun récupère sa voix particulière. Mais la plupart des fois, c’est par fatigue, faute de participants, que la musique s’éteint. Rieurs ou taciturnes suivant la tonalité de cette fois-là, ils font beaucoup de bruits, bruits de chaises, d’instruments cognés contre les caisses où on les range. Puis on se disperse, chacun rentre chez soi ; beaucoup fredonnent.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Jan 2019 17:21:18 +0100</pubDate>
+        <link>http://localhost:4000/souvent-le-soir-ils-se-reunissent</link>
+        <guid isPermaLink="true">http://localhost:4000/souvent-le-soir-ils-se-reunissent</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Invitation en poche, c’est en toute innocence…</title>
+        <description>&lt;p&gt;Invitation en poche, c’est en toute innocence que tu es venue à cette réunion de candidats au concours. Certes, il t’a semblé bizarre de devoir descendre autant ; qu’il y ait de moins en moins de lumière ; qu’il faille entrer par une trappe dans le plancher ; mais tu as suivi. Même quand derrière toi l’échelle a été enlevée et la trappe refermée, il a encore fallu que tes yeux s’habituent à la pénombre ; que tu remarques l’absence de fenêtres ; que tu voies les silhouettes écartées, avachies, immobiles, silencieuses ; que tu scrutes ces visages atones comme des faces de cadavre. Alors seulement tu as compris le piège auquel tu t’étais laissé prendre.&lt;/p&gt;
+
+&lt;p&gt;Te voilà enfermée au dernier sous-sol, avec les ratés. Comment est-ce possible ? Toi, l’ancienne première de la classe ! La terreur te saisit. Seuls les ratés aboutissent là, te dis-tu : ceux qui ne sont pas des ratés ne sont pas venus, ne se sont pas laissé entraîner si bas ; puisque tu y es venue de ton plein gré, sans réticence ni méfiance, n’es-tu pas à ta place ici ? Ta nouvelle place, désormais, à laquelle tu devrais te résigner, t’habituer ? Non ! Il doit y avoir une erreur ! Tu te révoltes contre ta circonspection habituelle ; il suffit d’un coup d’œil pour deviner que tu n’as rien de commun avec cet amas de corps moites, ces voix sourdes, ces yeux fuyants. Tu as seulement été naïve, trop confiante, trop docile, te dis-tu.&lt;/p&gt;
+
+&lt;p&gt;Trêve de scrupules. Tu pousses l’unique table jusque sous la trappe, et commences d’y entasser les chaises. Tout à coup un aboiement te fait sursauter. Il y a même un chien ici ! Baissant les yeux, tu le vois : petit, grognant, babines retroussées. Le genre de roquet ridiculement agressif qu’un coup de pied fait gémir et s’enfuir. Ce dont tu ne te prives pas. Et tu continues à tenter de t’échapper.&lt;/p&gt;
+
+&lt;p&gt;En équilibre sur le tas de chaises, tu as réussi à soulever la trappe. Mais alors que tu essayes de te hisser au-dessus, les autres, les ratés, les déchets, les pré-morts, qui jusqu’à maintenant ne t’avaient ni aidée, ni gênée, ni prêté la moindre attention, se sont approchés et se mettent, sans mot dire, sans heurter une chaise, silencieux comme des fantômes, à tirer sur tes jambes. Il est évident qu’ils ne veulent pas, eux, s’enfuir, ils veulent seulement que toi tu restes là, avec eux, dans la même déchéance.&lt;/p&gt;
+
+&lt;p&gt;Peux-tu encore leur échapper ? Oui, indéniablement oui, il te suffit encore de secouer les jambes, de donner quelques coups de pieds dans ces têtes molles aux faces d’ombre, pour te libérer de leurs mains débiles. Aucun cri ne retentit, tu n’entends rien d’autre que tes propres gémissements d’effort et le bruit sourd en contrebas du choc de chairs molles contre le plancher.&lt;/p&gt;
+
+&lt;p&gt;À peine as-tu, dans un dernier effort, derrière toi refermé la trappe que la lumière s’allume. Une porte s’ouvre, un homme s’approche et te tend la main. Tu la saisis et te relèves. « Bienvenue, dit l’homme, parmi les lauréats », et, de son autre main, il indique, restée ouverte, la porte par laquelle il est entré.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 Dec 2018 12:10:13 +0100</pubDate>
+        <link>http://localhost:4000/invitation-en-poche-c-est-en-toute-innocence</link>
+        <guid isPermaLink="true">http://localhost:4000/invitation-en-poche-c-est-en-toute-innocence</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>La chasse aux ermites</title>
+        <description>&lt;p&gt;Triste souvenir — soudain remonté de ma petite enfance — de cette époque honteuse, heureusement révolue : celle de la chasse aux ermites. Poursuivis jusqu’au fond des grottes, jusqu’en haut des arbres ; ligotés, bâillonnés, traînés jusqu’aux grand-places des capitales ; publiquement accusés d’être de faux prophètes (alors que beaucoup d’entre eux avaient fait vœu de silence !), des exemples fallacieux et corrupteurs (alors qu’ils fuyaient tout contact !) ; enfin exposés à la foule des curieux, à l’attention de laquelle on les forçait à réciter une confession forgée, litanie de péchés supposés. Ce qui leur était reproché ? Extraits d’un pamphlet d’époque (un des plus mesurés) :&lt;/p&gt;
+
+&lt;p&gt;« Ils ne sont en rien dégagés de la mortalité, de la corporéité. S’ils le croient, ils se trompent eux-mêmes ; s’ils le font croire, ils trompent le monde.&lt;/p&gt;
+
+&lt;p&gt;Comment osent-ils chercher la perfection dans la solitude ? Un être complet ne devrait-il pas englober tous les autres ? Il n’y a qu’une seule plénitude : celle du monde ! (Et encore : le monde fuit !)&lt;/p&gt;
+
+&lt;p&gt;À force de restriction, de retranchement, que reste-t-il d’eux ? Moins qu’une bête : un sac de peau, vide ! Un crâne vide aux orbites vides !&lt;/p&gt;
+
+&lt;p&gt;À quoi leur servent encore leurs membres, leurs sens ? Ils pourraient être de purs esprits, cerveaux dans une cuve, machines à sagesse !&lt;/p&gt;
+
+&lt;p&gt;Ils savent réfléchir, attendre et jeûner, disent-ils. Mais ils n’ont plus besoin de réfléchir, puisqu’ils ont trouvé la réponse, comme l’anémone son rocher ! Il ne leur reste donc qu’à jeûner et attendre… Attendre la mort ou l’Éveil ? Différence négligeable !&lt;/p&gt;
+
+&lt;p&gt;Ils se sont, ces renonçants, retranchés dans leur for intérieur ! Ils vivent comme si la mort et le mal n’existaient pas, comme s’ils étaient déjà au paradis ! Mais ils n’ont même pas appris à mourir : ils ont seulement appris à vivre comme s’ils étaient déjà morts.&lt;/p&gt;
+
+&lt;p&gt;Pour leur défense, qu’arguent les rares d’entre eux qui savent encore parler ? Seulement, d’une voix geignarde, ceci : “Toutes les utopies ne se valent-elles pas ? Tous les chemins n’y mènent-ils pas ?”&lt;/p&gt;
+
+&lt;p&gt;Défense absconse et absurde, qui ne leur épargnera pas d’être pourchassés jusqu’au dernier ! »&lt;/p&gt;
+
+&lt;p&gt;Je me souviens de ce jour où, jeune enfant encore mais déjà partiellement et secrètement désapprobateur, rentrant seul de l’école primaire je dus contourner la grand-place bondée, au centre de laquelle, sur une estrade de circonstance, était exposé un de ces ermites, entouré d’une foule scandant le slogan demeuré célèbre « Pas de sépulture pour les déchets humains : aux ordures ! aux ordures ! ». Je m’arrêtai un instant, dans ma rue parallèle, et j’entendis l’ermite demander le silence, étrangement l’obtenir, puis répéter en effet : « Toutes les utopies ne se valent-elles pas ? Tous les chemins n’y mènent-ils pas ? » Je ne le comprends pas mieux qu’alors, mais je l’aurais volontiers sauvé.&lt;/p&gt;
+
+&lt;p&gt;Seule la récente abolition de la peine de mort leur évita d’être exterminés (ce que le peuple réclamait, en substance pour entériner un fait accompli) et préserva notre conscience historique d’un génocide supplémentaire. Comble d’absurdité, comment les punîmes-nous : en les bannissant !&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Dec 2018 11:41:45 +0100</pubDate>
+        <link>http://localhost:4000/la-chasse-aux-ermites</link>
+        <guid isPermaLink="true">http://localhost:4000/la-chasse-aux-ermites</guid>
+        
+        
+      </item>
+    
   </channel>
 </rss>
