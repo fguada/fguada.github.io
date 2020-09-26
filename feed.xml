@@ -3,19 +3,30 @@
   <channel>
     <title>Journal du conteur</title>
     <description>Fictions brèves en prose.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Sep 2020 23:00:51 +0200</pubDate>
-    <lastBuildDate>Fri, 25 Sep 2020 23:00:51 +0200</lastBuildDate>
+    <link>https://franckguadagnini.fr/</link>
+    <atom:link href="https://franckguadagnini.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 26 Sep 2020 19:05:41 +0200</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2020 19:05:41 +0200</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Le sommet est bien visible…</title>
+        <description>&lt;p&gt;Le sommet est bien visible tout là-haut, blanc et brillant. Nul ne s’y trompe ; il suffit d’avoir levé la tête ne serait-ce qu’une fois pour le distinguer. Si pourtant il n’est guère fréquenté, c’est que les rares chemins y menant sont trop difficiles. Aussi a-t-on chargé un grimpeur de frayer un chemin qui soit aussi facile à suivre que le sommet l’est à montrer du doigt. Il s’y emploie obstinément, sans cesse questionnant ce qu’il a obtenu : le sol est-il assez lisse, le dénivelé assez doux, le balisage assez clair, les étapes sont-elles assez régulières ? Il veut que ces dernières soient comme celles d’un pèlerinage : assez courtes et faciles pour ressembler à une balade, assez longues pour que le sommet puisse être atteint en un petit nombre de jours, avant que les impatients ne se lassent. Comme il n’est que rarement satisfait — lui qui sait atteindre le sommet à volonté —, le grimpeur doit fréquemment faire demi-tour pour chercher une voie plus accessible. C’est pourquoi le chemin monte si lentement. Mais on n’est pas pressé. Il importe évidemment que le sommet soit atteint, mais il importe surtout qu’il puisse l’être par tous, même les enfants, même les vieux, les culs-de-jatte, même les aveugles : « Pourquoi ? a-t-il demandé. — Pour que nul n’ait plus d’excuse », lui a-t-il été répondu.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Sep 2020 18:57:09 +0200</pubDate>
+        <link>https://franckguadagnini.fr/le-sommet-est-bien-visible</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/le-sommet-est-bien-visible</guid>
+        
+        
+      </item>
     
       <item>
         <title>Au concours d’escalier…</title>
         <description>&lt;p&gt;Au concours d’escalier, comment ne voient-ils pas — tous : juges et public — que le mien, pour être de terre et non de pierre ou de bois, ou a fortiori de béton, est bien plus résistant sans être moins pratique ? Comment ne voient-ils pas non plus que, s’il monte moins haut que les autres, il raccourcit en conséquence la redescente inévitable ? Dépité, je m’assois sur sa deuxième marche, quand un vacarme de craquements et de cris me fait tourner la tête : mal conçus et trop vite construits, et trop chargés de curieux — car les modèles sont ouverts au public après l’épreuve et le verdict —, ils se sont effondrés, les autres escaliers. Plus de peur que de mal, heureusement, comme on peut l’espérer de modèles de taille modeste élevés en quelques heures. On tourne donc son attention vers le mien, seul encore debout. Prudemment, on l’essaye. On saute sur ses marches pour l’éprouver : il vibre à peine. Mais les sourires de lucidité nouvelle que j’aperçois sur certains visages ne suffisent pas : ni à corriger un verdict sans appel, ni à modifier la décision municipale de ne plus renouveler ce concours annuel au succès déclinant. Ma première participation sera donc aussi la dernière ; première — la surprise des juges était sans équivoque — et dernière fois aussi pour l’escalier de terre. Comment l’idée, la pratique essaimeraient-elles ? Espérons qu’un des curieux finalement convaincus soit de quelque influence : j’aurais du travail, et nos chutes seraient plus douces, sinon moins rares.&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Aug 2020 09:29:07 +0200</pubDate>
-        <link>http://localhost:4000/au-concours-d-escalier</link>
-        <guid isPermaLink="true">http://localhost:4000/au-concours-d-escalier</guid>
+        <link>https://franckguadagnini.fr/au-concours-d-escalier</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/au-concours-d-escalier</guid>
         
         
       </item>
@@ -25,8 +36,8 @@
         <description>&lt;p&gt;Il n’est pas ferme et assuré comme un conquérant du quotidien, chaque rencontre le déroute, chaque avis le trouble, il prend au sérieux tous les conseils qu’on lui donne, et toutes les possibilités l’attirent, même les mauvaises, et sachant cela on pourrait croire qu’il erre continuellement ballotté par les influences contradictoires et les obstacles qui le détournent, or même s’il a tendance à épouser ce point de vue il doit bien reconnaître qu’il n’en est rien et qu’au contraire, malgré l’adversité intérieure et extérieure, malgré les sinuosités, les détours, les longs arrêts, les demi-tours, il fraye son chemin avec une constance qu’il ne s’explique pas lui-même. Comme s’il ne faisait que semblant de prêter l’œil et l’oreille à tous les vents, sans toutefois cesser de foncer ; mais ce n’est pas le cas non plus car non seulement il a l’impression d’aller très lentement, mais surtout, dès que le moindre souffle l’atteint, il faut qu’il le suive, de peur de rater le chemin. En quelque sorte tous les vents, même opposés, quelle que soit leur direction le ramènent toujours dans celle qu’il aurait suivie par calme plat. Chanceux que tu es ! Suivre le vent, c’est le chemin, suivre ton idée, c’est encore le chemin.&lt;/p&gt;
 </description>
         <pubDate>Sun, 26 Jul 2020 09:40:14 +0200</pubDate>
-        <link>http://localhost:4000/il-n-est-pas-ferme-et-assure</link>
-        <guid isPermaLink="true">http://localhost:4000/il-n-est-pas-ferme-et-assure</guid>
+        <link>https://franckguadagnini.fr/il-n-est-pas-ferme-et-assure</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/il-n-est-pas-ferme-et-assure</guid>
         
         
       </item>
@@ -42,8 +53,8 @@
 &lt;p&gt;Mais à la fin tous nos lauréats s’unissent pour porter à tous les autres gens ce qui leur revient : des moyens qu’ils n’ont pas mérités pour des fins qu’ils n’ont pas choisies.&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Jun 2020 08:34:16 +0200</pubDate>
-        <link>http://localhost:4000/notre-ecole-d-elite-accueille</link>
-        <guid isPermaLink="true">http://localhost:4000/notre-ecole-d-elite-accueille</guid>
+        <link>https://franckguadagnini.fr/notre-ecole-d-elite-accueille</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/notre-ecole-d-elite-accueille</guid>
         
         
       </item>
@@ -57,8 +68,8 @@
 &lt;p&gt;Désormais, cela ne peut plus durer toute la nuit. Les premiers ronflements, les premiers chuchotements sonnent la fin d’un événement écourté mais qu’il a été décidé, étant donné les bienfaits individuels et collectifs qu’il prodigue, de répéter dès l’année prochaine aux équinoxes.&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 May 2020 16:55:50 +0200</pubDate>
-        <link>http://localhost:4000/certains-n-ont-fait-que-les-quelques-dernieres</link>
-        <guid isPermaLink="true">http://localhost:4000/certains-n-ont-fait-que-les-quelques-dernieres</guid>
+        <link>https://franckguadagnini.fr/certains-n-ont-fait-que-les-quelques-dernieres</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/certains-n-ont-fait-que-les-quelques-dernieres</guid>
         
         
       </item>
@@ -70,8 +81,8 @@
 &lt;p&gt;Tandis que je m’interroge, je m’aperçois que la nuit tombe ; que, malgré mes semelles épaisses, je n’ai pas gagné sur lui, ou à peine ; qu’il ne s’est pas retourné une seule fois, quoique le bruit des pierres que j’envoie parfois rouler en contrebas par hasard ne puisse pas ne pas lui être parvenu — il n’est pas sourd car je l’ai vu lever la tête vers des oiseaux criards — ; que je ne le rattraperai pas ce soir ; qu’il ne semble pas près de s’arrêter ; qu’il ne donne pas l’impression de chercher un abri, contrairement à moi. Bientôt, debout contre ma tente à peine montée, je l’observe s’évanouir lentement dans les dernières lueurs du couchant, puis disparaître avec ses réponses.&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 May 2020 14:56:45 +0200</pubDate>
-        <link>http://localhost:4000/au-cours-de-mes-peregrinations</link>
-        <guid isPermaLink="true">http://localhost:4000/au-cours-de-mes-peregrinations</guid>
+        <link>https://franckguadagnini.fr/au-cours-de-mes-peregrinations</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/au-cours-de-mes-peregrinations</guid>
         
         
       </item>
@@ -83,8 +94,8 @@
 &lt;p&gt;Ils ont presque disparu de la surface de la terre, mais certains parmi nous, optimistes ou pessimistes, croient qu’un lointain avenir leur appartient. Les optimistes le souhaitent, les pessimistes le craignent.&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 Mar 2020 11:55:31 +0100</pubDate>
-        <link>http://localhost:4000/de-la-crete-basse-ou-je-suis-monte</link>
-        <guid isPermaLink="true">http://localhost:4000/de-la-crete-basse-ou-je-suis-monte</guid>
+        <link>https://franckguadagnini.fr/de-la-crete-basse-ou-je-suis-monte</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/de-la-crete-basse-ou-je-suis-monte</guid>
         
         
       </item>
@@ -94,8 +105,8 @@
         <description>&lt;p&gt;« Nous n’avons vu ni hommes ni traces d’hommes », me fait remarquer mon compagnon de marche et vieil ami. Constat d’autant plus réjouissant qu’on a de moins en moins l’occasion de pouvoir le faire, et qui me rappelle une autre longue journée de marche, en Europe celle-là. Ni humains ni traces fraîches d’humains, certes, mais que de ruines ! Il y a de nombreuses années de cela : j’étais jeune alors, à peine majeur ; et les ruines n’ont pu depuis que continuer à s’effondrer, tombeaux s’ensevelissant eux-mêmes. Certes je ne l’ai pas constaté, mais c’est l’évidence, la conséquence inexorable d’un processus provoqué, puis accéléré, par les qualités, les vertus mêmes qui avaient temporairement soulevé les habitants humains de ce continent. À l’époque, je n’avais pas eu envie d’y aller, c’est mon service militaire qui m’y avait contraint ; même si je le voulais désormais, je ne le pourrais plus, faute de moyens : depuis peu, seule l’armée dispose encore des véhicules indispensables à la traversée. Mais je n’envie nullement les forces qu’on y envoie. Je reste ici, chez moi, volontiers, quoique je n’aie guère le choix. Là-bas, il est trop tard pour les vivants, trop tôt pour les archéologues.&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Feb 2020 13:13:46 +0100</pubDate>
-        <link>http://localhost:4000/nous-n-avons-vu-ni-hommes-ni-traces-d-hommes</link>
-        <guid isPermaLink="true">http://localhost:4000/nous-n-avons-vu-ni-hommes-ni-traces-d-hommes</guid>
+        <link>https://franckguadagnini.fr/nous-n-avons-vu-ni-hommes-ni-traces-d-hommes</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/nous-n-avons-vu-ni-hommes-ni-traces-d-hommes</guid>
         
         
       </item>
@@ -105,8 +116,8 @@
         <description>&lt;p&gt;Un homme s’approche d’une statue, épaules basses et pas lent, il a l’air fatigué, accablé de tristesse et de soucis. La statue, au bord d’un large chemin désert, représente une femme, qui tient dans ses bras un nourrisson. L’homme la voit sans la regarder, il la connaît bien, habitué à passer devant. Mais cette fois il s’arrête. Sans lever ses yeux déjà humides, il s’agenouille devant la statue de bois sombre et rongé. Mais ce n’est pas encore assez : il doit se pencher jusqu’à poser ses mains sur le sol, ses mains jointes, et son front dessus. Alors, alors seulement, quelques larmes peuvent s’épancher, et peut-être un sanglot retentir, un seul sanglot ravalé, ou le cri d’un oiseau, difficile à dire. Les yeux et la gorge secs, l’homme peut rester un moment ainsi, peu à peu soulagé, puis réconforté. Il peut enfin lever la tête, et, par réflexe, les yeux. Il constate alors, ébahi, effrayé, qu’à la place de la tête de femme se tient, grossièrement sculpté et dessiné mais reconnaissable sans le moindre doute, un globe de bois, un globe terrestre.&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Jan 2020 20:48:57 +0100</pubDate>
-        <link>http://localhost:4000/un-homme-s-approche-d-une-statue</link>
-        <guid isPermaLink="true">http://localhost:4000/un-homme-s-approche-d-une-statue</guid>
+        <link>https://franckguadagnini.fr/un-homme-s-approche-d-une-statue</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/un-homme-s-approche-d-une-statue</guid>
         
         
       </item>
@@ -118,8 +129,8 @@
 &lt;p&gt;La pomme avalée, et le verger derrière moi, je traversai la vallée. Au bas de la suivante des quelques collines que je devais encore franchir, j’admirai ses flancs boisés par étage, et les hautes frondaisons agitées par les premières rafales d’un vent qui me fit presser le pas. C’est dans mes pensées, la nuit dans le dos, réchauffé par ma vitesse et grisé par la dopamine, que j’atteignis la prochaine étape.&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 Dec 2019 11:42:57 +0100</pubDate>
-        <link>http://localhost:4000/arrive-en-haut-de-la-colline</link>
-        <guid isPermaLink="true">http://localhost:4000/arrive-en-haut-de-la-colline</guid>
+        <link>https://franckguadagnini.fr/arrive-en-haut-de-la-colline</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/arrive-en-haut-de-la-colline</guid>
         
         
       </item>
@@ -133,8 +144,8 @@
 &lt;p&gt;Quand, quelques heures plus tard, je croise un autre marcheur solitaire, je le salue et lui souris avec plaisir. Par mon pas ralenti, mon regard amène, l’angle de mon profil, je l’incite à s’arrêter pour bavarder. Négligeant cette occasion tendue, il se borne, avec une politesse visiblement contrainte, à me rendre mon salut, d’un seul coup d’œil et d’une voix sourde. Légère déception, qui sera vite oubliée. Je continue seul jusqu’à mon retour vespéral, où me réchauffe et me réjouit la double chaleur du foyer.&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Nov 2019 11:26:34 +0100</pubDate>
-        <link>http://localhost:4000/je-ne-sais-plus-si-ce-qui-d-abord-alerta-mon-attention</link>
-        <guid isPermaLink="true">http://localhost:4000/je-ne-sais-plus-si-ce-qui-d-abord-alerta-mon-attention</guid>
+        <link>https://franckguadagnini.fr/je-ne-sais-plus-si-ce-qui-d-abord-alerta-mon-attention</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/je-ne-sais-plus-si-ce-qui-d-abord-alerta-mon-attention</guid>
         
         
       </item>
@@ -146,8 +157,8 @@
 &lt;p&gt;Serais-je arrivé plus tôt, j’aurais eu le choix. Le grand sac des buts et des sens n’était pas encore vide. J’aurais tiré l’exaltant, ou du moins le remarquable. Mais, parti tard, j’ai par surcroît traîné. Le sac était vide et je n’ai même pas été autorisé à glisser ma main dedans. Dérisoirement unique, j’ai suivi la foule, où si ma voix n’est que la mienne, elle est inaudible. Mais j’ai beau jouer des coudes, impossible de rester bien au milieu, bien entouré, négligé, annulé. Comme une bulle d’air qui ne peut éclater qu’à la surface du fleuve, je me retrouve toujours au bord. Par une dynamique aussi mystérieuse que persistante, même l’anonyme me repousse, comme si j’étais en avance sur ma propre absence.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Oct 2019 16:10:59 +0200</pubDate>
-        <link>http://localhost:4000/arrive-parmi-les-non-premiers</link>
-        <guid isPermaLink="true">http://localhost:4000/arrive-parmi-les-non-premiers</guid>
+        <link>https://franckguadagnini.fr/arrive-parmi-les-non-premiers</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/arrive-parmi-les-non-premiers</guid>
         
         
       </item>
@@ -161,8 +172,8 @@
 &lt;p&gt;On nous fait miroiter des logements proprets, robinets rutilants, douches à volonté, lumière électrique, toiture étanche… Nous découvrons l’espoir et l’impatience, tortures auxquelles nous n’étions pas préparés. Malgré les soins, nous succombons peu à peu à la fièvre de l’histoire.&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 Sep 2019 17:46:15 +0200</pubDate>
-        <link>http://localhost:4000/a-peine-sorti-de-l-enfance</link>
-        <guid isPermaLink="true">http://localhost:4000/a-peine-sorti-de-l-enfance</guid>
+        <link>https://franckguadagnini.fr/a-peine-sorti-de-l-enfance</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/a-peine-sorti-de-l-enfance</guid>
         
         
       </item>
@@ -174,8 +185,8 @@
 &lt;p&gt;Non, il n’y est tout de même pas pour rien : celui qui se rend visible sur de hautes crêtes doit toujours s’attendre à être pris pour guide par un de ceux qui n’ont même pas le courage de s’abandonner à l’errance. Il ne l’ignore sans doute pas, donc tu pourrais cesser de te cacher, surtout maladroitement : tu ne fais que te ridiculiser un peu plus. S’il y a une chance qu’il te fasse signe un jour, qu’il te laisse le rattraper, qu’il te tende la main, son préalable est que tu assumes ta nullité et qu’au moins tu fasses montre de constance dans l’humilité. Mais c’est une chance infime… et tu n’es pas sûr de préférer un vrai compagnon à un faux guide.&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Aug 2019 21:00:31 +0200</pubDate>
-        <link>http://localhost:4000/ce-n-est-pas-un-guide</link>
-        <guid isPermaLink="true">http://localhost:4000/ce-n-est-pas-un-guide</guid>
+        <link>https://franckguadagnini.fr/ce-n-est-pas-un-guide</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/ce-n-est-pas-un-guide</guid>
         
         
       </item>
@@ -195,8 +206,8 @@
 &lt;p&gt;Ses trésors d’une richesse périodique et incarnée périssent avec lui. Ses héritiers n’ont rien d’autre à se partager que ses chaussures et ses jumelles.&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Jul 2019 08:47:36 +0200</pubDate>
-        <link>http://localhost:4000/a-peine-adulte-il-se-met-en-route</link>
-        <guid isPermaLink="true">http://localhost:4000/a-peine-adulte-il-se-met-en-route</guid>
+        <link>https://franckguadagnini.fr/a-peine-adulte-il-se-met-en-route</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/a-peine-adulte-il-se-met-en-route</guid>
         
         
       </item>
@@ -206,8 +217,8 @@
         <description>&lt;p&gt;On a posé et déployé le monde ici, là, tout autour, partout. Quand le monde s’adaptait mal au terrain, on a rasé montagnes et forêts, asséché les marais, détourné les fleuves. Maintenant le monde semble si bien ajusté qu’on ne sait même plus si l’on ne discerne plus la démarcation stratigraphique entre le monde et le terrain dans lequel il a dû s’enfoncer, ou si l’on ne voit plus du tout le terrain, si l’on ne voit plus que le monde seul qui le recouvre donc et le masque entièrement. Comment était ce terrain ? Jusqu’à quelle profondeur faudrait-il creuser pour le trouver assurément ? nous sommes-nous demandé, mais nous avons creusé dans le fond même des océans sans rien trouver d’autre que le monde, et si nous n’allons pas jusqu’au magma loin sous la surface de la planète, c’est moins par crainte du volcan ainsi créé que par quasi-certitude de ne trouver là encore rien d’autre que le monde. C’est seulement lorsque se produisent un ouragan, un tremblement de terre, un tsunami que nous retrouvons la terre. Mais nous la perdons aussi vite qu’elle a été rapide à semer chaos et terreur dans le monde. Nous avons beau chercher par un vain acquit de conscience, nous savons déjà que dans les décombres nous ne trouverons de nouveau rien d’autre que le monde, parmi ses propres débris.&lt;/p&gt;
 </description>
         <pubDate>Thu, 27 Jun 2019 12:49:13 +0200</pubDate>
-        <link>http://localhost:4000/on-a-pose-et-deploye-le-monde-ici</link>
-        <guid isPermaLink="true">http://localhost:4000/on-a-pose-et-deploye-le-monde-ici</guid>
+        <link>https://franckguadagnini.fr/on-a-pose-et-deploye-le-monde-ici</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/on-a-pose-et-deploye-le-monde-ici</guid>
         
         
       </item>
@@ -217,8 +228,8 @@
         <description>&lt;p&gt;Vers le minimum, il procède par étapes. Le corps aspire à la mobilité : il s’assied et s’efforce de ne plus bouger, même un cil. Première étape. La respiration est naturellement arythmique : il entreprend de la réguler. Seconde. Il rentre dans sa tête, une tête vite aveugle, bientôt sourde, muette, édentée, chauve, lisse, pure. Mais il est encore loin du minimum. Il ne boit plus qu’une fois par jour, ne mange plus qu’une fois tous les trois jours, suçant quelques croûtes de pain. Mais il est encore loin du minimum. Puis il s’efforce de ne penser à rien, de tarir sa conscience, d’être un vide intérieur et d’y vivre. Il n’est toujours pas au minimum. Il se rapetisse, finit par se réduire à la taille d’un escargot : ce n’est pas encore le minimum. Enfin il se donne le plus difficile des objectifs : ne plus respirer. Il coupe sa respiration et attend, volonté déjà minérale. Même quand il meurt, que le peu qu’il reste de son corps décomposé retourne à la terre pour la prochaine étape du cycle biotique — même alors, il n’est pas, il n’a jamais été au minimum.&lt;/p&gt;
 </description>
         <pubDate>Tue, 28 May 2019 07:10:49 +0200</pubDate>
-        <link>http://localhost:4000/vers-le-minimum</link>
-        <guid isPermaLink="true">http://localhost:4000/vers-le-minimum</guid>
+        <link>https://franckguadagnini.fr/vers-le-minimum</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/vers-le-minimum</guid>
         
         
       </item>
@@ -244,8 +255,8 @@
 &lt;p&gt;Mais la menace qu’ils font peser sur l’ordre public monte et les attentats sont devenus fréquents, où l’on force la porte des maisons qui discrètement les abritent encore, où on les arrache aux soins de leurs familiers, et, non sans coups ni insultes, les jette à l’eau, au feu ou, surtout, aux ordures, où, dit-on, est leur vraie place : triste réalisation de leurs craintifs contes prémonitoires.&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Apr 2019 09:47:58 +0200</pubDate>
-        <link>http://localhost:4000/hasard-ou-volonte-et-voila</link>
-        <guid isPermaLink="true">http://localhost:4000/hasard-ou-volonte-et-voila</guid>
+        <link>https://franckguadagnini.fr/hasard-ou-volonte-et-voila</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/hasard-ou-volonte-et-voila</guid>
         
         
       </item>
@@ -257,8 +268,8 @@
 &lt;p&gt;Petit escargot ! Mon frère et mon fils ! Cette bouche infime, ligne fine, radula invisible lorsqu’elle est fermée, dans laquelle tu enfonces ces morceaux de pétales blancs que tu as, si j’ai bien vu, humectés de mucus et découpés de la fleur sur laquelle tu rampes — tu es si léger qu’elle ne ploie même pas sous ton poids — ; par une contraction de ton pied, ces morceaux tu les portes à ta bouche, et tu t’en régales ! Continue, je t’en prie !&lt;/p&gt;
 </description>
         <pubDate>Thu, 28 Mar 2019 09:48:00 +0100</pubDate>
-        <link>http://localhost:4000/sur-la-tombe-encore-fraiche-de-ma-chere-epouse</link>
-        <guid isPermaLink="true">http://localhost:4000/sur-la-tombe-encore-fraiche-de-ma-chere-epouse</guid>
+        <link>https://franckguadagnini.fr/sur-la-tombe-encore-fraiche-de-ma-chere-epouse</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/sur-la-tombe-encore-fraiche-de-ma-chere-epouse</guid>
         
         
       </item>
@@ -272,19 +283,8 @@
 &lt;p&gt;Mais tu n’es plus jeune, les années ont fui en vain ; tu n’as pas accompli ton ambition, et tu ne le regrettes plus. Il s’est passé ceci qu’à peine avais-tu fortifié ton quotidien solitaire autour de ce que tu jugeais l’essentiel, tu t’es mis, insidieusement d’abord, puis de plus en plus consciemment sinon décidément, à rechercher la diversion, la distraction, et même le futile. Tu as lutté contre toi-même, jusqu’à l’effondrement de toute illusion… Et tu as dû renoncer, faire demi-tour, revenir, la queue entre les jambes, paupières baissées sur une honte amère. On ne s’est pas privé de te moquer, de t’humilier. Tu l’avais provoqué, par ton arrogance laconique d’autrefois. Mais tu as assumé ton échec ; tu as reconnu tes erreurs une par une. Tu étais bien sûr négligeable, raison pour laquelle, passé une période de quarantaine sociale, on t’a qui réintégré qui définitivement repoussé, sans y accorder grande attention. Ta place dans le monde et dans le jeu social, cette place donnée d’emblée par hasard mais que tu avais abandonnée, tu as dû te la refaire, lentement et discrètement, te la creuser à tous petits coups. Et il s’est avéré que cette voie-là, que cette quête-là, te convenaient mieux que l’accomplissement exclusif d’une ambition dévoreuse et séparante. Peu à peu, tu as retrouvé ce que tu avais cru perdu avec ton enfance et ta prime jeunesse : l’abandon, la joie instantanée, l’aussitôt, le fugace, en légèreté. Et tu continues ; un certain renoncement grandit en toi. Quand il sera mûr, tu pourras en finir avec ta radicalité même : une fois pour toutes, en finir avec l’une fois pour toutes : demeurer décidément, puis intuitivement, dans le règne de l’occasion, une fois à la fois.&lt;/p&gt;
 </description>
         <pubDate>Tue, 26 Feb 2019 21:31:58 +0100</pubDate>
-        <link>http://localhost:4000/une-fois-pour-toutes</link>
-        <guid isPermaLink="true">http://localhost:4000/une-fois-pour-toutes</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Souvent le soir, ils se réunissent…</title>
-        <description>&lt;p&gt;Souvent le soir, ils se réunissent pour la musique. Chacun s’assoit où il peut ; s’ils sont tous présents, les cent cinquante chaises de la maison commune suffisent à peine, et la surface est comble, bien qu’on ait depuis longtemps démonté l’estrade. On accorde son instrument ; on se recueille un long moment, on attend que les conversations particulières, les nouvelles du jour, les nouvelles intimes, tarissent. Quand le silence est installé depuis assez longtemps, on peut commencer. Ils prennent leur instrument et les phrases montent. Chacun y va de sa voix particulière, de son épanchement. De cette cacophonie la plupart des fois émergent pourtant, au fil du temps, des motifs. Quand les motifs se répètent, le premier stade, celui où un échec musical collectif est encore possible, est passé. Peu à peu, à partir de ce moment, les phrases particulières deviennent moins nombreuses, moins longues, jusqu’au moment où les instruments qui ne se sont pas tus se sont fondus en une seule harmonie. On la répète alors un certain temps, le temps pour chacun d’en appréhender, d’en explorer toutes les subtilités, toutes les virtualités. Ils s’expriment d’une seule voix, enfin, voix pour tous, consensus au moins tacite et vérité collective d’un soir. Mais cet unisson ne peut qu’être bref. Longtemps pour l’atteindre, peu de temps pour le dépasser. Bientôt les diversions, les variations commencent, à partir du motif qui a lentement émergé. Elles peuvent durer jusqu’au matin, le temps que chacun récupère sa voix particulière. Mais la plupart des fois, c’est par fatigue, faute de participants, que la musique s’éteint. Rieurs ou taciturnes suivant la tonalité de cette fois-là, ils font beaucoup de bruits, bruits de chaises, d’instruments cognés contre les caisses où on les range. Puis on se disperse, chacun rentre chez soi ; beaucoup fredonnent.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 28 Jan 2019 17:21:18 +0100</pubDate>
-        <link>http://localhost:4000/souvent-le-soir-ils-se-reunissent</link>
-        <guid isPermaLink="true">http://localhost:4000/souvent-le-soir-ils-se-reunissent</guid>
+        <link>https://franckguadagnini.fr/une-fois-pour-toutes</link>
+        <guid isPermaLink="true">https://franckguadagnini.fr/une-fois-pour-toutes</guid>
         
         
       </item>
