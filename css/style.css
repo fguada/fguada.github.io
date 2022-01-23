@@ -20,10 +20,9 @@ h2{font-size:130%;line-height:1.313em;padding-bottom:1em;padding-top:2em}
 article{text-align:left}
 article>p a,article>section>p a,footer a{text-decoration:underline!important}
 article>footer{margin:.3em 0;text-align:right;font-size:70%;padding-top:1em}
-p{margin-bottom:.1em}
-p+p{text-indent:2em}
-.paginator,.spacebefore{padding-top:1.5em;text-indent:0!important}
-.star{padding-top:1.5em;text-align:center;text-indent:0!important}
+p{margin-bottom:.1em;text-indent:2em}
+hr{width:25%;margin-bottom:2em;margin-top:2em}
+.paginator{padding-top:1.5em;text-indent:0!important}
 section a{text-decoration:underline!important}
 .centeredparagraph{text-align:center}
 a{color:#111;text-decoration:none}
