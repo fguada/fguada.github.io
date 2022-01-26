@@ -1,9 +1,8 @@
-a,article,body,cite,div,em,footer,h1,h2,h3,h4,h5,h6,header,hr,html,li,nav,ol,p,section,span,strong,sub,sup,time,ul{margin:0;padding:0;border:0;font:inherit;vertical-align:baseline}
+a,article,body,div,footer,h1,h2,header,hr,html,li,nav,p,section,span,sup,time,ul{margin:0;padding:0;border:0;font:inherit;vertical-align:baseline}
 article,footer,header,hr,nav,section{display:block}
 html{font-size:100%}
-sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
+sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
 sup{top:-.5em}
-sub{bottom:-.25em}
 body{line-height:1.375;background:#fdfdfd;font-family:Palatino,"Palatino Linotype","Book Antiqua","TeX Gyre Pagella",texgyrepagella,"Palatino Nova","URW Palladio L","Bitstream Charter",Constantia,FreeSerif,Georgia,serif;font-size:1.188em;color:#111;position:relative;margin:0 .8em;text-decoration:none;text-align:center}
 #wrapper{margin:0 auto}
 .indexpages{max-width:40em}
@@ -18,16 +17,14 @@ h1,h2{font-weight:700;text-align:center}
 h1{font-size:200%;font-style:italic}
 h2{font-size:130%;line-height:1.313em;padding-bottom:1em;padding-top:2em}
 article{text-align:left}
-article>p a,article>section>p a,footer a{text-decoration:underline!important}
+article>p a,article>section>p a,footer a,section a{text-decoration:underline!important}
 article>footer{margin:.3em 0;text-align:right;font-size:70%;padding-top:1em}
 p{margin-bottom:.1em;text-indent:2em}
 hr{width:25%;border-top:.1em solid #111;margin-right:auto;margin-left:auto;margin-bottom:2em;margin-top:2em}
 .paginator,.spacebefore{padding-top:1.5em;text-indent:0!important}
-section a{text-decoration:underline!important}
 .centeredparagraph{text-align:center}
 a{color:#111;text-decoration:none}
 a:hover{text-decoration:underline}
-cite,em{font-style:italic}
 ul{list-style:none}
 li.dotedLineBelow{margin-bottom:.5em}
 .indexnumber{color:#a6a6a6;font-size:70%;padding-right:1em}
@@ -36,7 +33,6 @@ li.dotedLineBelow{margin-bottom:.5em}
 footer,footer a{color:#a6a6a6}
 aside{margin-top:3em;padding-top:2em;border-top:.1em solid #111;max-width:25em;margin-right:auto;margin-left:auto}
 #wrapper>footer{margin-top:2.5em;padding-bottom:4em;max-width:25em;margin-right:auto;margin-left:auto;font-size:80%}
-img.imageCentered{display:block;margin-left:auto;margin-right:auto;margin-top:1em;margin-bottom:1em;width:100%;height:auto}
 @media only screen and (min-width:768px){
 body{line-height:1.476;font-size:1.25em}
 header{padding-top:0}
