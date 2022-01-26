@@ -22,7 +22,7 @@ article>p a,article>section>p a,footer a{text-decoration:underline!important}
 article>footer{margin:.3em 0;text-align:right;font-size:70%;padding-top:1em}
 p{margin-bottom:.1em;text-indent:2em}
 hr{width:25%;border-top:.1em solid #111;margin-right:auto;margin-left:auto;margin-bottom:2em;margin-top:2em}
-.paginator{padding-top:1.5em;text-indent:0!important}
+.paginator,.spacebefore{padding-top:1.5em;text-indent:0!important}
 section a{text-decoration:underline!important}
 .centeredparagraph{text-align:center}
 a{color:#111;text-decoration:none}
