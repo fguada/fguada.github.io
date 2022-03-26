@@ -5,9 +5,20 @@
     <description>Fictions brèves en prose.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Feb 2022 14:42:05 +0100</pubDate>
-    <lastBuildDate>Sun, 27 Feb 2022 14:42:05 +0100</lastBuildDate>
+    <pubDate>Sat, 26 Mar 2022 14:38:24 +0100</pubDate>
+    <lastBuildDate>Sat, 26 Mar 2022 14:38:24 +0100</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>Leur dieu…</title>
+        <description>&lt;p&gt;Leur dieu — une petite chose très fragile, très délicate, légère, diaphane —, ils l’ont délogé des cieux où il se laisse porter par les vents comme un grand oiseau pour le jeter dans leur boue. Ils l’y font patauger ; et comme il ne se départit pas de sa tranquillité, de sa compréhension, de sa patience, ils essayent de le noyer, en lui tenant la tête dans la boue de longues minutes durant. Il se laisse faire sans bouger, et quand ils le sortent enfin il s’essuie le visage et s’essore les cheveux sans rien dire, ce qui ne les exaspère déjà plus mais achève de les dégoûter. Ses cheveux d’or ont noirci, ses ailes alourdies de boue sèche ne le portent plus, et ils le font travailler comme esclave à la taverne, homme à tout faire entouré des criailleries des ivrognes, qui raillent son corps efféminé tout en rêvant secrètement d’une étreinte avec lui. Ils osent de moins en moins le regarder dans les yeux, et le haïssent et l’envient parce que lui regarde seulement, sans juger, peut-être qu’il ne regarde même pas, qu’il est seulement là, comme un miroir. Il ne peut pas se révolter, et ne le souhaite pas : il se plie à la volonté des hommes avec indulgence. Il sait qu’il leur survivra, et que, lorsque, au seuil de la mort, ces ivrognes brutaux seront redevenus aussi faibles et peureux qu’un nourrisson, il apaisera leur terreur en baisant leur front, en les caressant, en faisant entendre pour la première fois le son de sa voix, d’une berceuse fredonnée avec une douceur inhumaine dans une langue incompréhensible, sans la moindre promesse, et pourtant la plus réconfortante qui soit. Il n’a pas pu les aider à vivre, mais il pourra les aider à mourir, il se pliera à leurs caprices avec égalité ; eux voulaient, sans oser le dire ni même se l’avouer, qu’il connaisse et reconnaisse la dureté de leur existence, et il la reconnaîtra enfin, en leur pardonnant, au creux de l’oreille, avant de leur fermer les yeux et de disparaître avec le dernier d’entre eux.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Mar 2022 14:34:50 +0100</pubDate>
+        <link>http://localhost:4000/leur-dieu</link>
+        <guid isPermaLink="true">http://localhost:4000/leur-dieu</guid>
+        
+        
+      </item>
     
       <item>
         <title>Celui qui fait fuir les oiseaux</title>
@@ -318,17 +329,6 @@
         <pubDate>Fri, 28 Aug 2020 09:29:07 +0200</pubDate>
         <link>http://localhost:4000/au-concours-d-escalier</link>
         <guid isPermaLink="true">http://localhost:4000/au-concours-d-escalier</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Il n’est pas ferme et assuré…</title>
-        <description>&lt;p&gt;Il n’est pas ferme et assuré comme un conquérant du quotidien, chaque rencontre le déroute, chaque avis le trouble, il prend au sérieux tous les conseils qu’on lui donne, et toutes les possibilités l’attirent, même les mauvaises, et sachant cela on pourrait croire qu’il erre continuellement ballotté par les influences contradictoires et les obstacles qui le détournent, or même s’il a tendance à épouser ce point de vue il doit bien reconnaître qu’il n’en est rien et qu’au contraire, malgré l’adversité intérieure et extérieure, malgré les sinuosités, les détours, les longs arrêts, les demi-tours, il fraye son chemin avec une constance qu’il ne s’explique pas lui-même. Comme s’il ne faisait que semblant de prêter l’œil et l’oreille à tous les vents, sans toutefois cesser de foncer ; mais ce n’est pas le cas non plus car non seulement il a l’impression d’aller très lentement, mais surtout, dès que le moindre souffle l’atteint, il faut qu’il le suive, de peur de rater le chemin. En quelque sorte tous les vents, même opposés, quelle que soit leur direction le ramènent toujours dans celle qu’il aurait suivie par calme plat. Chanceux que tu es ! Suivre le vent, c’est le chemin, suivre ton idée, c’est encore le chemin.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 26 Jul 2020 09:40:14 +0200</pubDate>
-        <link>http://localhost:4000/il-n-est-pas-ferme-et-assure</link>
-        <guid isPermaLink="true">http://localhost:4000/il-n-est-pas-ferme-et-assure</guid>
         
         
       </item>
