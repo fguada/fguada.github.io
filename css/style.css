@@ -22,6 +22,7 @@ article>footer{margin:.3em 0;text-align:right;font-size:70%;padding-top:1em}
 p{margin-bottom:.1em;text-indent:2em}
 hr{width:25%;border-top:.1em solid #111;margin-right:auto;margin-left:auto;margin-bottom:2em;margin-top:2em}
 .paginator,.spacebefore{padding-top:1.5em;text-indent:0!important}
+.spacebeforeindented {padding-top:1.5em}
 .centeredparagraph{text-align:center}
 a{color:#111;text-decoration:none}
 a:hover{text-decoration:underline}
