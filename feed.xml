@@ -3,11 +3,40 @@
   <channel>
     <title>Journal du conteur</title>
     <description>Fictions brèves en prose.</description>
-    <link>https://franckguadagnini.fr/</link>
-    <atom:link href="https://franckguadagnini.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Jul 2022 01:01:01 +0200</pubDate>
-    <lastBuildDate>Sat, 30 Jul 2022 01:01:01 +0200</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 31 Aug 2022 19:54:16 +0200</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 19:54:16 +0200</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Les toutous</title>
+        <description>&lt;p&gt;Le roi a fait enfermer leurs jambes dans un carcan de fer qui impose un quasi angle droit, fixe, entre la cuisse et le mollet. De la sorte, ils n’ont d’autre choix que de se déplacer à genoux. Et cela ne les empêche pas de se prosterner jusqu’à terre (les pieds en l’air), de baiser ses pieds, de lécher les traces de ses pas. Au début, je fus horrifié par ce traitement. Mais peu à peu je révisai mon opinion. D’abord, j’appris que l’état servile où ces hommes se trouvent n’est pas un châtiment mais un honneur. Ils l’ont voulu, s’y sont préparés, ont tâché de le mériter. Peu y parviennent, et ceux-ci peuvent se glorifier d’en faire partie. (Je n’ai pas osé demander ce qu’il advient de ceux qui échouent.) Ensuite, ils n’ont pas l’air malheureux. On les traite comme de braves chiens de compagnie, et ils semblent l’apprécier. Certes, on leur jette leur nourriture à même le sol, mais elle est de qualité, viande fraîche et tendre, fruits mûrs, pain cuit du jour… N’était leur carcan, même chez nous on les considérerait choyés, c’est-à-dire traités certes comme des inférieurs, mais comme des inférieurs appréciés — à peu près comme des enfants. Et des enfants, par surcroît, qui non seulement pourraient, mais seraient même encouragés à faire ce qu’ils veulent le plus faire, en l’occurrence vénérer leur maître à l’égal d’un dieu, l’adorer à genoux, lui manifester par une dévotion de chaque instant sa grandeur incommensurable et leur dépendance volontaire et totale.&lt;/p&gt;
+
+&lt;p&gt;Sortant et me baladant par les ruelles de la capitale, je découvris que le peuple, qui manifestement aimait et admirait son roi, les aimaient aussi, eux, ses enfants serviles mais choyés, que le roi ne sortait jamais sans exhiber lavés, coiffés, parfumés, splendidement vêtus… Comment n’aurait-il pas, ce peuple, aimé tendrement ce mélange d’humilité et de faste, de servilité et de luxe, d’absolue dépendance et de bonheur évident ? Je les comprenais, tous, et c’est ainsi que petit à petit je révisai mon opinion. Même le roi, je le comprenais, du moins tel que j’imaginais son psychisme. Quel mal y a-t-il à subjuguer ? Le royaume n’était-il pas prospère ? Il s’assurait des fidèles, des alliés volontairement et viscéralement attachés, plus qu’à leur propre vie, à sa personne sacralisée. Du moins est-ce là une raisonnable conjecture puisque, si j’eus l’honneur d’être invité plusieurs fois aux réceptions qu’il donne régulièrement, je n’eus jamais la chance de m’entretenir avec lui. Je lui fus présenté ; je rougis, balbutiai un compliment… Mais ses toutous, comme le peuple les appelle sans nulle malice, avec affection au contraire, et du ton dont nous parlerions d’un chiot adorable, ses toutous s’occupèrent de moi avec plus que de la courtoisie. Je fus choyé comme je ne l’avais jamais été, et passai en leur compagnie des heures que je n’oublierai jamais. Je les appréciais de plus en plus… Je commençais même à les admirer… Jusqu’au jour où je me surpris à les envier, et même à m’imaginer les imiter, les rejoindre… Alors je pris peur, fis mes bagages aussitôt et partis le plus vite possible — on frôla l’incident diplomatique — vers la sécurité de nos frontières, entre lesquelles je retrouvai la grisaille, la lourde liberté souvent illusoire ou vaine, la médiocrité des sentiments politiques et civiques, la labilité des pouvoirs, la vénalité trompeuse, l’ignorance orgueilleuse, la bêtise agressive, la manipulation obséquieuse… bref : la démocratie moderne. Un léger dégoût m’accompagne désormais, accentué par les nostalgies qui s’obstinent, des images fulgurantes, des contrastes claquants, palais, dorures, politesse exquise de matois courtisans chamarrés, peau luisante des toutous — je leur conserve ce surnom affectueux — agenouillés, souriants, doux, dociles, aimables, exempts de toute vanité, de toute ambition personnelle, heureux d’obéir et de servir, soignant même les croûtes à leurs genoux comme une courtisane se farde… Pourtant je n’y retournerai jamais, je ne les reverrai jamais. J’ai trop peur de moi. Je préfère ici rêver de là-bas qu’irrémédiablement l’inverse.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Avec le temps je me suis renseigné. On dit que le roi n’a jamais demandé l’agenouillement. Adorer à genoux, c’est ce qu’ils avaient toujours voulu sans doute inconsciemment ; mais pas un dieu à travers sa statue, non : un être incarné, qu’ils puissent voir et toucher, qui puisse leur sourire et les flatter, les dresser, les récompenser. Un être qui les soulage de leur moi, qui prenne sur lui tous les egos et les envoie en l’air comme autant d’étincelles, feu d’artifice des egos pulvérisés par le roi, le seul à pouvoir encore dire « Je ». Voilà ce qu’ils voulaient. Ce que leur avait offert, les comblant, le premier aventurier subtil venu, le premier à tenir ferme sur ses deux jambes.&lt;/p&gt;
+
+&lt;p&gt;C’est d’eux-mêmes, dit-on encore, que ses premiers sujets s’agenouillèrent devant lui, pour lui, en reconnaissance de sa supériorité essentielle et inexorable et de leur soumission inconditionnelle. Il semble que l’idée même des carcans ne soit pas de lui non plus mais de ceux qui deviendraient les tout premiers toutous, voulant se prémunir contre toute tentative de gagner une indépendance fatalement illusoire. Comme il les récompense de ce dévouement ! Il suffit qu’il pose un instant sa main sur la tête soyeuse de l’un d’eux… Peu s’en faut qu’il ne défaille, celui-ci, à le voir extasié ; la moindre caresse risque de provoquer un évanouissement profond. Le peuple se moque de tant de délicatesse, mais ces moqueries mêmes sont si bonhommes qu’elles constituent plutôt un hommage et le signe d’une jalousie résignée, sans amertume, que celui de la honte ou du mépris.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Moi aussi… Étant présenté au roi, moi aussi je me suis agenouillé, bien que le protocole ne m’y obligeât point. Et le roi m’a souri — ce sourire m’a aussitôt réchauffé, embrasé, sublimé ; je me suis senti compris et protégé comme jamais je ne l’avais été. Je crois que, bien pauvrement et candidement, j’ai souri en retour, humble et heureux. Alors le roi a, un instant, posé sa main sur ma tête. Son visage était déjà tourné vers un autre, et il s’est éloigné sans plus un regard pour moi ; mais cet attouchement fugace de sa main douce et tiède, souple et ferme, lisse et sûre m’a fait trembler de plaisir — et j’ai compris ceci : que le doux bonheur qui émane des toutous n’est qu’un pâle reflet de ce qu’il émet, de ce qu’il transmet, lui, le roi. Si parfois une ombre passe sur leur visage, j’en devine aisément la cause : il a déjà un certain âge, et quelques enfants gâtés mais pas encore d’héritier…&lt;/p&gt;
+
+&lt;p&gt;Voilà que la nostalgie me reprend… Signe de fatigue, probablement. J’ai beau m’être convaincu que j’avais bien fait de partir — de m’enfuir — ; que je vis mieux ici, chez moi, parmi les miens ; je constate que la moindre faiblesse, la moindre lassitude s’accompagnent invariablement de la nostalgie du royaume, du roi et de ses toutous, comme si ce fantasme, ce mythe étaient toujours là, tapis, prêts à saisir la moindre occasion de se manifester, la moindre opportunité de passer outre les défenses qui habituellement les tiennent en respect sans pouvoir le moins du monde les détruire ni les chasser. Ils surgissent comme un feu d’artifice inattendu et m’éblouissent, et seul le sommeil peut leur faire regagner leurs positions subreptices.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Parfois, encore aujourd’hui, des années plus tard, je m’agenouille face à un miroir, je ferme les yeux, et je me souviens. Je pose ma main sur ma tête, et parfois je sens le lointain écho, la vieille rémanence vibratile de sa main sur ma tête, irradiant de majesté. Brève extase. Quand je rouvre les yeux, il n’est pas rare que j’aie pleuré. Je me détourne alors, je ne veux pas me voir, j’ai honte, mais de quelle faiblesse, de quelle lâcheté : celle de rester, ou celle de rêver ? Je ne cherche pas à le savoir. Je me distrais, m’occupe ; j’oublie ; — jusqu’à la prochaine fois, que j’hésite à appeler la prochaine rechute.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 31 Aug 2022 19:50:05 +0200</pubDate>
+        <link>http://localhost:4000/les-toutous</link>
+        <guid isPermaLink="true">http://localhost:4000/les-toutous</guid>
+        
+        
+      </item>
     
       <item>
         <title>J’ai dû m’arrêter…</title>
@@ -18,8 +47,8 @@
 &lt;p&gt;Par dessus la haie du jardin, je vois la margelle du puits de mon voisin. Ce puits est fermé d’un disque de fer, peut-être seulement pour protéger les enfants. Il m’attire. Et si mon timide voisin se révélait là tout au fond un compagnon loquace, franc, grivois — le complice d’exutoires mégalomaniaques minutieusement fomentés ? Difficile à croire ! D’ailleurs je ne l’ai jamais vu ouvert. C’est mon issue de secours, au cas où mon propre puits serait comblé, inondé, ce que je redoute horriblement. Mais je ne veux plus y penser, j’ai une vie à mener ici en haut, je veux oublier le puits, m’en détourner vers mes affaires, aussi longtemps que je le peux. Je me contente de le laisser toujours ouvert, en cas d’urgence.&lt;/p&gt;
 </description>
         <pubDate>Fri, 29 Jul 2022 11:40:14 +0200</pubDate>
-        <link>https://franckguadagnini.fr/j-ai-du-m-arreter</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/j-ai-du-m-arreter</guid>
+        <link>http://localhost:4000/j-ai-du-m-arreter</link>
+        <guid isPermaLink="true">http://localhost:4000/j-ai-du-m-arreter</guid>
         
         
       </item>
@@ -35,8 +64,8 @@
 &lt;p&gt;Mais le moindre regard peut les ressusciter — et tout est à recommencer.&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Jun 2022 21:35:33 +0200</pubDate>
-        <link>https://franckguadagnini.fr/les-images-de-soi-sont-dans-l-air</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/les-images-de-soi-sont-dans-l-air</guid>
+        <link>http://localhost:4000/les-images-de-soi-sont-dans-l-air</link>
+        <guid isPermaLink="true">http://localhost:4000/les-images-de-soi-sont-dans-l-air</guid>
         
         
       </item>
@@ -46,8 +75,8 @@
         <description>&lt;p&gt;À la grande réunion familiale annuelle, il s’ennuie ; la mère parle trop, le père trop fort ; l’émotion de l’une l’agace autant que la joie franche et vite avinée — « Oublions tout ! » — de l’autre. Il erre de groupe en groupe où l’on se raconte l’année écoulée, à la recherche d’une échappatoire, et bientôt la trouve : la banale porte d’entrée. Qu’est-ce qui l’empêche de la franchir, de la franchir même une fois pour toutes ? Il regrette de n’avoir pas eu le courage de son frère, l’aîné, qui s’est défilé sous un si bon prétexte qu’au lieu de blâmer son absence on admire la raison même qui lui fait manquer ces chaleureuses retrouvailles… (La vraisemblance ayant ses limites, nul ne pousse toutefois la surenchère jusqu’à le plaindre.) Lui, le cadet, voudrait ne pas être là sans avoir à choisir de ne pas venir, sans avoir à décider quelle raison donner aux parents désagréablement surpris et rapidement désapprobateurs, sans avoir à décider quoi et comment répondre à leurs arguments prévisibles, aux suppliques de l’une et à la colère de l’autre. Il est donc venu quand ils l’ont appelé, comme un chien qu’on siffle. Pour avoir l’air occupé il mange et boit et déambule de pièce en pièce, tout en caressant sa honte alternativement dans le sens du poil et à rebrousse-poil, cette honte qui n’en fait qu’à sa tête, et tout à coup, il se retrouve devant une autre porte : celle du jardin. Il s’enfonce dans le noir, franchit la clôture, traverse le champ récolté du voisin. La vieille chienne s’approche sur ses larges pattes. Il s’accroupit pour caresser la peau pelée, mais la chienne recule de quelques pas, aboie trois fois, et gronde. Pour l’amadouer il dit doucement : « Je suis une larve, je rampe, lent, immonde, misérable, je suis répugnant, flasque. Écrase-moi vite. — Je suis ta honte » répond la gueule hargneuse, plus dégoûtante qu’effrayante avec la bave abondante qui coule de ses babines et ses petites dents claires d’animal nourri sans effort. « Au pied ! » ne peut-il s’empêcher d’ironiser alors. Et elle vient ! En rampant même, elle s’aplatit contre ses chaussures, le regard implorant levé vers son maître — son maître ?! Impossible se dit-il, j’aurais donc tant de pouvoir sur elle ? Non, ce n’est pas possible, il s’allonge à son tour et glisse sa tête sous la gueule, pour sentir la bave chaude inonder son visage. Et il est enfin rassuré.&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 May 2022 17:04:51 +0200</pubDate>
-        <link>https://franckguadagnini.fr/a-la-grande-reunion-familiale</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/a-la-grande-reunion-familiale</guid>
+        <link>http://localhost:4000/a-la-grande-reunion-familiale</link>
+        <guid isPermaLink="true">http://localhost:4000/a-la-grande-reunion-familiale</guid>
         
         
       </item>
@@ -57,8 +86,8 @@
         <description>&lt;p&gt;« Autrefois, j’ai été généreux avec toi, je t’ai donné, oui donné, de l’argent, comme ça, parce que tu semblais en avoir besoin, parce que ça me faisait plaisir de t’aider, parce qu’à ce moment je le pouvais… Maintenant je viens vers toi, rappelle-toi ma générosité d’autrefois, maintenant j’ai besoin de la tienne : j’ai faim. » Elle me regardait, ahurie. Elle ne me reconnaissait pas, c’était évident. « Je ne vous connais pas, monsieur. Je ne vois pas de quoi vous parlez. » Un instant, j’hésitai entre la colère et la pitié. J’avais le choix des armes. J’optai sans l’avoir décidé vraiment, sans savoir pourquoi, pour la seconde. On peut dire que la pitié me prit. Deux larmes coulèrent de mes yeux, mes bras ballaient le long de mon corps, mes mains impuissantes pendaient ouvertes et molles, je me recroquevillai, je me sentais rapetisser, rabougrir, je noircissais, bientôt je serais une blatte immonde, rampante, misérable. De dégoût — même pas de peur — on m’écraserait. Puis on détournerait les yeux, on plisserait le nez pour débarrasser le plancher de mon cadavre en bouillie. Rien de plus mérité, pensai-je et involontairement je rentrai la tête dans les épaules, regrettant la tache humide au sol qui ferait mauvaise impressions sur les clients. Les clients ! Il aurait suffi d’un autre client — ou plutôt d’un seul vrai client puisque, je dois le dire même si ma bouche ne le peut que tordue, je n’étais pas un client mais un mendiant — il aurait suffi qu’entrât un client à ce moment pour que je m’enfuisse. Mais je restais là, muet, éperdu, les yeux baissés. Ma générosité, à quoi m’avait-elle servi ? La regrettais-je ? N’aurais-je pas mieux fait de garder cet argent — tout cet argent que j’avais dilapidé en générosités fastueuses, de le garder pour ce jour de dénuement, d’extrême besoin, où nulle générosité — seulement par malchance ? — ne s’abaissait sur moi ? Ou bien était-ce une bonne leçon ? Avais-je secrètement compté sur une réciprocité future — qui ne s’accomplissait pas. Ma générosité était non seulement inutile présentement, mais même ignorée, oubliée, comme annulée dans le passé, comme si elle n’avait jamais été. Étais-je d’ailleurs bien sûr d’elle ? La faim ne troublait-elle pas ma pensée ? N’avais-je pas inventé cette générosité outrageuse ? Avais-je jamais vraiment joui des moyens d’être si généreux ? Et même si je ne l’avais pas inventée, n’était-ce pas l’orgueil qui m’avait rendu prodigue ? N’avais-je pas manqué d’humilité, à refuser imprudemment d’être économe ? Un mouvement me fit revenir à moi, je levai les yeux, une main poussait vers moi un pain, petit mais complet, le plus dense de l’étal. On ne l’avait pas emballé — parce qu’on savait que je le mangerais aussitôt reçu, ou parce que je ne méritais pas cette dépense superflue ? Sans lever les yeux, je pris le pain, fis demi-tour, partis. Franchissant la porte de la boutique, ma bouche baragouina quelque chose qui pouvait être « merci » ou « merde », je ne le sais pas moi-même. J’entamai le pain en me repentant. Elle n’avait pas été généreuse, elle avait été charitable. C’était différent ; c’était tout ce que j’avais mérité par ma générosité : la pitié charitable d’une boulangère de village. Mais qu’aurait-ce été si j’avais choisi la colère ? Aurais-je gagné en dignité ce que j’aurais perdu en pain ? Je ne le saurais jamais. Je dus admettre que je regrettais et ma générosité passée, si elle avait été réelle, et ma cabotinerie ou ma faiblesse ou ma lâcheté ou mon effondrement présent, qui n’était que trop réel. J’avais honte et résolus de ne plus jamais entrer dans cette boulangerie, d’éviter même la rue où elle se situe. Mais bien sûr, au point où j’en étais, je ne pouvais plus me fier à moi-même, j’étais descendu trop bas dans le trou, le plus dur était fait, pour le reste, je n’avais plus qu’à suivre la paroi pentue qui menait tout au fond. Terrifié par cette pensée, je m’éloignai à une vitesse que ma fatigue aurait dû m’interdire. Mais je tenais le pain bien serré dans ma main glacée, je n’en perdais pas une miette.&lt;/p&gt;
 </description>
         <pubDate>Fri, 29 Apr 2022 20:49:43 +0200</pubDate>
-        <link>https://franckguadagnini.fr/autrefois-j-ai-ete-genereux-avec-toi</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/autrefois-j-ai-ete-genereux-avec-toi</guid>
+        <link>http://localhost:4000/autrefois-j-ai-ete-genereux-avec-toi</link>
+        <guid isPermaLink="true">http://localhost:4000/autrefois-j-ai-ete-genereux-avec-toi</guid>
         
         
       </item>
@@ -68,8 +97,8 @@
         <description>&lt;p&gt;Leur dieu — une petite chose très fragile, très délicate, légère, diaphane —, ils l’ont délogé des cieux où il se laisse porter par les vents comme un grand oiseau pour le jeter dans leur boue. Ils l’y font patauger ; et comme il ne se départit pas de sa tranquillité, de sa compréhension, de sa patience, ils essayent de le noyer, en lui tenant la tête dans la boue de longues minutes durant. Il se laisse faire sans bouger, et quand ils le sortent enfin il s’essuie le visage et s’essore les cheveux sans rien dire, ce qui ne les exaspère déjà plus mais achève de les dégoûter. Ses cheveux d’or ont noirci, ses ailes alourdies de boue sèche ne le portent plus, et ils le font travailler comme esclave à la taverne, homme à tout faire entouré des criailleries des ivrognes, qui raillent son corps efféminé tout en rêvant secrètement d’une étreinte avec lui. Ils osent de moins en moins le regarder dans les yeux, et le haïssent et l’envient parce que lui regarde seulement, sans juger, peut-être qu’il ne regarde même pas, qu’il est seulement là, comme un miroir. Il ne peut pas se révolter, et ne le souhaite pas : il se plie à la volonté des hommes avec indulgence. Il sait qu’il leur survivra, et que, lorsque, au seuil de la mort, ces ivrognes brutaux seront redevenus aussi faibles et peureux qu’un nourrisson, il apaisera leur terreur en baisant leur front, en les caressant, en faisant entendre pour la première fois le son de sa voix, d’une berceuse fredonnée avec une douceur inhumaine dans une langue incompréhensible, sans la moindre promesse, et pourtant la plus réconfortante qui soit. Il n’a pas pu les aider à vivre, mais il pourra les aider à mourir, il se pliera à leurs caprices avec égalité ; eux voulaient, sans oser le dire ni même se l’avouer, qu’il connaisse et reconnaisse la dureté de leur existence, et il la reconnaîtra enfin, en leur pardonnant, au creux de l’oreille, avant de leur fermer les yeux et de disparaître avec le dernier d’entre eux.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Mar 2022 14:34:50 +0100</pubDate>
-        <link>https://franckguadagnini.fr/leur-dieu</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/leur-dieu</guid>
+        <link>http://localhost:4000/leur-dieu</link>
+        <guid isPermaLink="true">http://localhost:4000/leur-dieu</guid>
         
         
       </item>
@@ -83,8 +112,8 @@
 &lt;p&gt;J’ai raconté ce rêve à ma fille. Elle me l’a fait répéter deux fois. Puis elle l’a corrigé ainsi : le cadavre est un squelette, il a une tête, et L. est une magicienne.&lt;/p&gt;
 </description>
         <pubDate>Sun, 27 Feb 2022 14:33:00 +0100</pubDate>
-        <link>https://franckguadagnini.fr/celui-qui-fait-fuir-les-oiseaux</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/celui-qui-fait-fuir-les-oiseaux</guid>
+        <link>http://localhost:4000/celui-qui-fait-fuir-les-oiseaux</link>
+        <guid isPermaLink="true">http://localhost:4000/celui-qui-fait-fuir-les-oiseaux</guid>
         
         
       </item>
@@ -102,8 +131,8 @@
 &lt;p&gt;Deux habitués de ce genre d’excursion — ou de vie ? — ont fait du feu. Buvant à petites gorgées ma tisane brûlante de thym sauvage, thym que j’ai moi-même (peut-être illégalement, m’a-t-on dit a posteriori) récolté hier à flanc de colline, j’écoute et questionne ; c’est ma manière de bavarder. La lourde fatigue, et l’aurore majestueuse, rendent la conversation lente et intermittente. Les mots feutrés se font toutefois plus sonores à mesure que les derniers dormeurs se lèvent. Mais voici le guide qui nous rejoint, en effet le dernier d’entre nous, tranquille et souriant, brisant là nos confidences inopinées. Il s’enquiert de notre état de santé mentale et physique, de notre confort, s’excuse d’avoir tardé ; nul ne le lui reproche, au contraire plusieurs lui répondent qu’il aurait pu rester plus longtemps s’il l’avait voulu. « J’ai faim ! » lance-t-il et nos estomacs, négligés, se réveillent tous ensemble aussitôt. Et bientôt le cliquetis des couverts, les doux rires d’aise, le bavardage la bouche pleine, les questions d’organisation saturent notre attention alanguie. Nous n’avons pas payé pour une seconde nuit, et il ne faut plus tarder à entamer la redescente.&lt;/p&gt;
 </description>
         <pubDate>Sun, 30 Jan 2022 08:57:58 +0100</pubDate>
-        <link>https://franckguadagnini.fr/nous-avons-marche-longtemps</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/nous-avons-marche-longtemps</guid>
+        <link>http://localhost:4000/nous-avons-marche-longtemps</link>
+        <guid isPermaLink="true">http://localhost:4000/nous-avons-marche-longtemps</guid>
         
         
       </item>
@@ -131,8 +160,8 @@
 &lt;p&gt;Je vais redescendre, reprendre ma fonction, infime et consciencieux rouage de la machine militaire totale en action : pour conserver, le plus longtemps possible, non pas nos vies, fugaces et vouées au trépas, mais le cadre symbolique de nos existences, et ses conditions nécessaires. Nous n’aurons jamais fait ce qu’il aurait fallu pour éviter la guerre, la double guerre, mais ce sacrifice désespéré donne du moins à nos coupables existences l’occasion d’un rachat dans l’historiographie de nos successeurs, qui ne seront pas nos descendants mais qui, comme nous, reconnaîtront et honoreront le courage. Tel est du moins le discours de mes supérieurs, propagandistes éculés… Je laisse cette illusion qui rend la mort facile aux plus jeunes, aux plus lâches, aux plus crédules d’entre nous. Pour moi, je mourrai avec le monde qui était le mien, hors duquel, sans lequel je ne veux vivre ni ne peux survivre.&lt;/p&gt;
 </description>
         <pubDate>Tue, 28 Dec 2021 18:25:13 +0100</pubDate>
-        <link>https://franckguadagnini.fr/j-ai-profite-d-une-permission</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/j-ai-profite-d-une-permission</guid>
+        <link>http://localhost:4000/j-ai-profite-d-une-permission</link>
+        <guid isPermaLink="true">http://localhost:4000/j-ai-profite-d-une-permission</guid>
         
         
       </item>
@@ -152,8 +181,8 @@
 &lt;p&gt;À travers un enchevêtrement de lianes et de feuilles chues, un rayon de lune fait briller une des pierres d’un muret, une pierre polie, très claire, presque blanche, signe subtil de l’ancienne présence. C’est bien ici, juste ici que les murs autrefois dressés se sont effondrés. Après avoir mangé en silence et sans autre reste que des miettes, nous nous couchons, n’ayant rien d’autre à faire. Dans l’obscurité touffue, je me répète que les ruines sont partout, dessous, autour, que nous sommes couchés dessus ; j’essaye de les sentir, à travers le textile synthétique du sac de couchage, à travers la terre. Peine perdue : elles ne reviennent pas. Elles s’enfoncent au contraire. Elles seront bientôt complètement ensevelies, bientôt désagrégées par la belle forêt, la grande forêt où je venais sans doute pour la dernière fois.&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Nov 2021 14:29:44 +0100</pubDate>
-        <link>https://franckguadagnini.fr/la-route-passe-au-loin</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/la-route-passe-au-loin</guid>
+        <link>http://localhost:4000/la-route-passe-au-loin</link>
+        <guid isPermaLink="true">http://localhost:4000/la-route-passe-au-loin</guid>
         
         
       </item>
@@ -163,8 +192,8 @@
         <description>&lt;p&gt;Ils dansaient autour du trou sacré, du puits sacré. Ils y précipitaient leurs ennemis capturés. Les vieux moribonds s’y jetaient cérémonieusement. Disaient-ils ; mais les ennemis avaient disparu, éteints, pacifiés, assimilés ; et les vieux prenaient des médicaments pour que leur esprit meure avant leur corps. Moi, profitant d’une nuit sans lune et d’un moment de courage exceptionnel, j’y suis descendu. Le trou n’est pas aussi profond qu’ils le croient, que je le pensais aussi d’après eux. Ossements nettoyés crissant sous mes semelles. Fraîcheur bienvenue. Odeur de terre humide. Suintement limité des parois, trop lisses et trop droites pour ne pas être non seulement artificielles, mais mécaniques : on cherchait je ne sais quoi. Aucun artefact oublié au fond. Mais je m’abstiens de creuser sous les os. Seulement quelques squelettes, d’ailleurs. Je m’attendais à plus. Visiblement, le trou est utilisé depuis bien moins longtemps que la sacralité et la centralité des rites qui l’entourent m’avaient fait croire. Je remonte de cette première exploration. Dès la nuit suivante, l’appel intime est intense. Dans le noir, le trou scintille. Brille comme une étoile enterrée, comme rubis incandescent. Il m’attire. Comme une roue tournant très vite, dont le moyeu m’hypnotiserait. Je résiste quelques nuits, chaque fois moins résolument. Je cède enfin, une nuit claire et tiède. Échelle de corde, gourde, lampe étouffée, couverture, je descends. Je déblaie un coin, et me couche aussitôt, la tête sur une omoplate recouverte d’étoffe. Tard dans la matinée, réveillé par la vive clarté d’un soleil presque direct, je me rends compte que je n’avais pas dormi aussi bien depuis des années. Je remonte discrètement. La position écartée du trou et l’absence de curiosité des indigènes m’aident à passer inaperçu. J’ai si bien dormi que j’en ai peur. D’un autre côté je me sens tant de vigueur que pour la première fois j’ai le désir de me joindre à l’une de leurs chasses, puis à leurs danses, et même, pourquoi pas, à leurs jeux érotiques. Ils s’étonnent de mon entrain, de mon aise. Je ne serai jamais un bon chasseur, mais du moins je ne les gêne ni ne les ralentis plus. Pour la première fois, je plais aux femmes ; je le remarque sans surprise. Seul leur alcool me répugne encore. J’y trempe les lèvres, me gargarise, c’est tout. J’ai tant de volonté : je veux la garder, non la diluer. Et je le peux facilement. Personne ne sait où je couche, ni ne s’en soucie. Quand je le veux, quand j’en sens le besoin, je descends dans le trou, pour me régénérer. Toujours seul. Nulle ne voudrait me suivre, mais de toute façon cette retraite doit rester secrète, je le sens. J’y passe de plus en plus de nuits, puis quasi toutes. J’y disparais, j’y sombre dans un sommeil abyssal. Sans moi, sans ego, sans rêve, sans rien. Quand je me réveille, c’est avec la soudaineté et la violence de l’éclair que conscience et lucidité me reviennent. J’ouvre les yeux, je sais aussitôt qui et où je suis. Je bande, j’ai faim, le temps de m’assurer qu’il n’y a personne alentour je suis déjà remonté, sorti du trou comme une renaissance, rentré parmi eux, les vivants. Comme une drogue, je ne peux plus m’en passer. Au point que je vais devoir chercher à les dissuader d’utiliser à nouveau le trou comme tombe. Comment supporterais-je de ne pouvoir y descendre durant les mois qui seraient nécessaires à la décomposition du prochain cadavre ? Je vivrais comme un zombie. Ils me croiraient affecté par la mort, ou le mort, ou l’esprit du mort, ou la peur de l’un de ceux-ci. Ils se tromperaient. Je manquerais du trou. Instinctivement, viscéralement. J’ai peur de ce moment ; et peur de la dépendance où je suis tombé, d’autant que, je m’en rends compte : elle m’interdit tout départ, et le retour. Creuser un autre trou, ici ou ailleurs, bien sûr j’y ai pensé. Mais je sens qu’il ne servirait de rien. C’est celui-ci, et nul autre. Je ne sais pas pourquoi. Il se trouve au centre de mon propre rituel, intime et implacable ; lui, le trou, mon trou, sacré par le hasard d’une suite d’événements irrémédiables et impossibles à reproduire. Il fallait que je fusse pris par surprise. Quelle autre succession causale d’événements mystérieusement et miraculeusement analogues élirait, pour la même fonction, tel autre lieu retiré, solitaire et accessible ? Je n’en ai pas l’espoir, et n’en souffre pas. Toute ma vie, à moi aussi, désormais tourne autour du trou, centre creux, signe et sens. Je n’ai même pas à décider de rester, de continuer.&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Oct 2021 21:06:49 +0200</pubDate>
-        <link>https://franckguadagnini.fr/ils-dansaient-autour-du-trou-sacre</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/ils-dansaient-autour-du-trou-sacre</guid>
+        <link>http://localhost:4000/ils-dansaient-autour-du-trou-sacre</link>
+        <guid isPermaLink="true">http://localhost:4000/ils-dansaient-autour-du-trou-sacre</guid>
         
         
       </item>
@@ -194,8 +223,8 @@
 &lt;p&gt;Mais je ne suis que l’observateur de passage, qui craint tout y compris et surtout lui-même, prisonnier de son jugement, de sa liberté même, de son scrupule.&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Sep 2021 12:40:38 +0200</pubDate>
-        <link>https://franckguadagnini.fr/je-ne-veux-pas-etre-la-brebis</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/je-ne-veux-pas-etre-la-brebis</guid>
+        <link>http://localhost:4000/je-ne-veux-pas-etre-la-brebis</link>
+        <guid isPermaLink="true">http://localhost:4000/je-ne-veux-pas-etre-la-brebis</guid>
         
         
       </item>
@@ -207,8 +236,8 @@
 &lt;p&gt;Il est venu, à la réflexion, non pas pour témoigner, ni retrouver ou ramener quoi que ce soit, mais au contraire pour consumer le fantôme les yeux dans les yeux, sans pitié. — Mais il s’en rend toujours compte trop tard ; car s’il le savait d’emblée, qu’est-ce qui le retiendrait de procéder à une crémation par contumace, reliques mises pour le cadavre sur le bûcher, cendres éparpillées de manière qu’il n’en reste aucune trace ? Le scrupule peut-être, du bourreau consciencieux qui veut assumer lucidement sa tâche ? Ou le doute, d’avoir si facilement gagné, sans confrontation ni confirmation, de ne plus jamais y revenir…&lt;/p&gt;
 </description>
         <pubDate>Fri, 27 Aug 2021 17:28:39 +0200</pubDate>
-        <link>https://franckguadagnini.fr/qui-l-a-envoye-la</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/qui-l-a-envoye-la</guid>
+        <link>http://localhost:4000/qui-l-a-envoye-la</link>
+        <guid isPermaLink="true">http://localhost:4000/qui-l-a-envoye-la</guid>
         
         
       </item>
@@ -222,8 +251,8 @@
 &lt;p&gt;En attendant son tour d’annoncer ce dernier refus, il essaye de se remémorer le moment où il se serait trompé, pour froisser et s’aliéner ainsi le monde. Mais il ne voit pas de moment de rupture, plutôt une longue suite de petits pas ayant fini par opposer deux horizons. Brusquement il s’en va. Pourquoi attendrait-il le monde pour annoncer sa décision irrévocable ? Il lui est désormais plus étranger que jamais. L’homme regrette seulement de savoir qu’il ne pourra jamais faire comme si le monde n’existait pas.&lt;/p&gt;
 </description>
         <pubDate>Wed, 28 Jul 2021 09:31:11 +0200</pubDate>
-        <link>https://franckguadagnini.fr/le-refus</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/le-refus</guid>
+        <link>http://localhost:4000/le-refus</link>
+        <guid isPermaLink="true">http://localhost:4000/le-refus</guid>
         
         
       </item>
@@ -235,8 +264,8 @@
 &lt;p&gt;Tiens, une géante ! Quelle stature ; quel sérieux pétrifie ses traits, aplatit ses lèvres. Je ne laisse pas se déployer le sourire qui papillonne derrière mes dents ; mais une douce moquerie, une ironie compatissante se voient-elles dans mes yeux ? La pauvre ! Elle marche vite : alors je ralentis, pour qu’elle ne prenne pas ombrage d’une vitesse à laquelle je suppose qu’elle croit que je ne devrais pas prétendre. Si elle savait ! — qu’avec mes petites jambes et le balancement des brindilles qui me pendent aux épaules j’avale les kilomètres comme seuls parmi eux les sportifs le peuvent ! Mais surtout ne pas le lui laisser voir ; ou, si c’est trop difficile pour ma vanité, la laisser du moins dans le doute quant à ce qu’elle a perçu. Si ç’avait été un mâle j’aurais fait profil bas : caché derrière une humble dignité, un zèle fatigué. Mais les femelles géantes sont d’ordinaire plus enclines à s’apitoyer, ce dont je ne me lasse pas. M’abandonner dans leur indulgence — dans l’abîme de leurs bras ! Un moment, les os craquant, soulagé de pouvoir reposer mon torticolis chronique, voire finalement de la vie même… Précieuse liberté que me vaut mon insignifiance résignée puis résolue. La seule grandeur que je cherche n’est pas pour moi mais au-dessus de moi. C’est la grandeur des événements, des éléments. Être dépassé par elle ; être minimisé, invisibilisé par elle ; renouvelé par elle en la conscience de ma circonscription dans d’étroites limites spatio-temporelles ; être négligé par les perspectives historique, biologique, géologique, cosmique ; à chaque niveau toujours plus indifférent, plus indiscernable. À côté, votre grandeur est puérile — enfants géants. J’abandonne volontiers les pouvoirs que j’aurais dû hériter. Bâtissez ; détruisez. Du moment que je peux me faufiler entre vos jambes, mobiles colonnes du temple de la continuité biotique… Puissent vos ruines imminentes épargner, par chance, mes os, mes voies.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Jun 2021 01:12:30 +0200</pubDate>
-        <link>https://franckguadagnini.fr/souvent-je-me-rejouis-de-n-avoir-pas-grandi</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/souvent-je-me-rejouis-de-n-avoir-pas-grandi</guid>
+        <link>http://localhost:4000/souvent-je-me-rejouis-de-n-avoir-pas-grandi</link>
+        <guid isPermaLink="true">http://localhost:4000/souvent-je-me-rejouis-de-n-avoir-pas-grandi</guid>
         
         
       </item>
@@ -248,8 +277,8 @@
 &lt;p&gt;Que s’est-il passé ? Un point lumineux s’est éteint, une étoile a cessé de briller. Une parmi les innombrables dites-vous… peut-être une supernova (pour ceux qui savent encore ce que c’est)… Non : il s’agissait du dernier satellite, du dernier artefact humain visible en orbite autour de la Terre. Hier soir encore je l’ai repéré dans sa course habituelle, pseudo-astre brillant ; ce soir je ne le vois plus ; là où il devrait scintiller, je ne vois que le noir de l’espace. À un certain moment durant ces dernières vingt-quatre heures, la gravité a finalement triomphé et le satellite est tombé vers la Terre, dans la haute atmosphère de laquelle il a dû se désintégrer. Quelques débris calcinés, quelques poussières incandescentes ont dû tomber quelque part, probablement inaperçus et méconnaissables. Je regrette de n’avoir pas été là pour admirer l’étoile filante qui a dû résulter de son embrasement, et, surtout, pour rendre un dernier hommage à l’ultime vestige de la prétendue conquête spatiale, cette illusion glorieuse, dangereuse, coûteuse, orgueilleuse, présomptueuse. De conquête il n’y aura pas eu. Seuls demeurent, en orbite, un voile de déchets infimes, invisibles, dont le nombre et la position sont inconnus, que nous n’avons plus les moyens de localiser, encore moins d’étudier, mais qui ne constituent plus la moindre menace pour nous qui avons dû renoncer à l’exploration physique de l’espace, bien trop coûteuse en énergie, bien trop vorace en ressources minérales et intellectuelles rares, celles-là peut-être encore plus que celles-ci désormais ; et plus loin, quelques épaves, incongrues et obscènes d’être immobiles, inutiles et intactes pour des millions d’années à la surface du désert lunaire ; et plus loin encore, quelques sondes éparpillées dans ce bras de la Voie Lactée, lesquelles seront peut-être les dernières preuves de notre existence. En cela plus qu’en tout le reste uniques parmi la faune terrestre, nous laissons, nous laisserons après nous, pour vestiges les plus durables, des déchets. Déjà produits, déjà hors d’atteinte, impossibles à recycler. Adieu, chimères spatiales. Rebonjour, Terre unique et mortelle, notre berceau, qui seras notre tombeau.&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 May 2021 08:52:18 +0200</pubDate>
-        <link>https://franckguadagnini.fr/combien-s-en-sont-apercus</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/combien-s-en-sont-apercus</guid>
+        <link>http://localhost:4000/combien-s-en-sont-apercus</link>
+        <guid isPermaLink="true">http://localhost:4000/combien-s-en-sont-apercus</guid>
         
         
       </item>
@@ -261,8 +290,8 @@
 &lt;p&gt;Mais ce n’est pas un suicide, et nous souhaitons que ce ne soit pas non plus un sacrifice. Notre espoir de survie : que notre haute chute soit amortie par le grand tas, accumulé depuis dix mille ans au pied de l’arbre, de nos propres excréments. S’y enfoncer, en descendre, les répandre, fertiliser avec toute une forêt.&lt;/p&gt;
 </description>
         <pubDate>Wed, 28 Apr 2021 09:38:45 +0200</pubDate>
-        <link>https://franckguadagnini.fr/scier-la-branche</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/scier-la-branche</guid>
+        <link>http://localhost:4000/scier-la-branche</link>
+        <guid isPermaLink="true">http://localhost:4000/scier-la-branche</guid>
         
         
       </item>
@@ -272,8 +301,8 @@
         <description>&lt;p&gt;Les images ne me suffisaient pas : j’avais voulu observer les Géants, les voir de près, les rencontrer, leur parler. Je grimpai à leur recherche. Au bout d’une dernière et rude montée, j’arrivai bientôt chez eux et ne tardai pas à en croiser quelques-uns : il ne me fallut alors qu’un instant et un seul coup d’œil pour que je dusse admettre déçus, brutalement déçus mes espoirs. Ils étaient grands, certes, deux à quatre fois ma taille (ma taille petite), mais d’une grandeur vulgaire, vile, fortuite, lourde, effrayante et même repoussante. Je ne trouvai rien à admirer en eux. Dès qu’ils m’eurent aperçu, ils se ruèrent sur moi. Méfiants et durs, ils m’accablèrent de questions. J’usai de toute mon éloquence balbutiante pour les détromper : non, je ne venais pas les voler ni les espionner. Ils se rendirent à l’évidence que ma seule stature aurait dû leur suggérer. Alors, aussitôt détendus, ils commencèrent à se moquer de moi. Je voulus partir et les saluai. En deux enjambées ils me rattrapaient, m’arrachaient de terre, me tenaient en l’air par les bras entre deux doigts, baissaient mon pantalon. Dès que mon sexe apparut ils éclatèrent de rire, rivalisant de gestes et de paroles d’humiliation grossiers et obscènes. Je les laissai faire comme mort, comme indifférent, espérant seulement qu’ils me laissent partir. Ils se lassèrent vite et me lâchèrent, m’abandonnèrent, s’en retournèrent sans un mot, sans un regard pour l’insecte auquel ils étaient déjà bons de laisser la vie et a fortiori l’intégrité physique. Rhabillé, mal rajusté, je partis. Je ne fuyais pas, incapable de courir. Hébété, je suivais le chemin du retour comme un automate. Atteignant le cirque que j’avais traversé à l’aller, je vis, je reconnus les montagnes que j’avais à peine aperçues dans le crépuscule de l’aube, et cette vision me frappa. Ils étaient là, les vrais géants ! Ni puérils ni cruels, n’usant qu’indistinctement de leurs forces combien plus colossales, périlleux mais tranquilles, ils représentaient, je m’en rendais subitement compte, ce que j’avais vainement espéré trouver chez les géants vivants. Je les contemplai un moment, admirai les courbes de leurs strates visibles, leur puissance géologique majestueuse et ancienne, rassurante. Leur grandeur ne m’écrasait pas. Elle semblait bonhomme. Ou souveraine sans mépris, comme nous les terrestres pouvons l’être à l’égard d’une fourmi, d’un escargot qu’on prend soin de ne pas écraser, ainsi qu’on l’apprend aux enfants. Je me reposai quelques heures contre leurs flancs moussus, blotti dans leur puissance enveloppante, puis repartis, réconforté. Longtemps je marchai à l’abri de leur ombre immense ; jusqu’à la forêt, où les arbres, autres vrais géants, géants mineurs, les relayèrent pour me raccompagner.&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Mar 2021 09:18:34 +0100</pubDate>
-        <link>https://franckguadagnini.fr/a-la-recherche-des-geants</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/a-la-recherche-des-geants</guid>
+        <link>http://localhost:4000/a-la-recherche-des-geants</link>
+        <guid isPermaLink="true">http://localhost:4000/a-la-recherche-des-geants</guid>
         
         
       </item>
@@ -285,8 +314,8 @@
 &lt;p&gt;Ce flux charrie de gros morceaux dont le bord supérieur surnage, comme de petits icebergs sombres. Que sont-ils ? Qu’est-ce qui se perd, s’échappe ainsi ? Trop gros pour être des rochers, ils pourraient être végétaux, mélanges de branches cassées, de racines arrachées, recouverts de terre, dont ils ont la couleur ; ou de gros excréments. Ce n’est bien sûr qu’une illusion. Il suffit que je me lève : mon esprit dans mes pieds, mes chaussettes remplies. Et tandis que je remonte vers la maison bavarder, oublier, grignoter, à chaque pas il remonte un peu plus vers ma tête. Une fois revenu derrière mes yeux, je discerne ce qui jusqu’alors n’était qu’une forme indifférente : le visage d’une statue, petite statue ridicule scellée sur le pilier du portail. Ridicule avec ses yeux rouges illuminés de l’intérieur, des larmes de fiente et des cheveux de feuilles putrides. Une aile me frôle (sans doute de chauve-souris), je ne coule plus, ma main pousse le portail, les bruits de voix m’isolent. Inaperçu comme j’étais parti, me voilà rentré.&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Feb 2021 20:38:05 +0100</pubDate>
-        <link>https://franckguadagnini.fr/je-suis-descendu-a-la-plage</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/je-suis-descendu-a-la-plage</guid>
+        <link>http://localhost:4000/je-suis-descendu-a-la-plage</link>
+        <guid isPermaLink="true">http://localhost:4000/je-suis-descendu-a-la-plage</guid>
         
         
       </item>
@@ -298,19 +327,8 @@
 &lt;p&gt;Quelle résistance appelle et cherche ainsi sa délivrance ? Est-ce le monstre qui fait le mur ou le mur qui fait le monstre ? Mais trêve de questions : ça redouble là dehors, ça grouille, gargouille, hulule, chuinte et crisse… C’est une scène d’horreur : on cherche à entrer, on cogne, casse, et il ne fait aucun doute que c’est pour me tuer, me déchiqueter, me démembrer vif. Mais cette scène, en même temps, n’est pas sans exercer une certaine fascination : pour l’apparence exotique et la radicale étrangeté du monstre en sa simplicité à la fois méthodique et furieuse, en sa férocité monomaniaque ; et elle n’est pas non plus dénuée d’humour : car il est grotesque, ce bras immense et velu que le monstre a réussi à infiltrer, qui palpe à ma recherche en vain, trop court pourtant, et que je m’apprête à trancher…&lt;/p&gt;
 </description>
         <pubDate>Fri, 29 Jan 2021 14:44:34 +0100</pubDate>
-        <link>https://franckguadagnini.fr/somnolence-reve-dans-une-piece-fermee</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/somnolence-reve-dans-une-piece-fermee</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Quand le rassemblement est sonné…</title>
-        <description>&lt;p&gt;Quand le rassemblement est sonné, je m’applique à ne jamais arriver ni parmi les premiers ni parmi les derniers. Ma petite taille m’aide à rester indistinct parmi la foule de ceux qui sont conviés aux fêtes et aux travaux. À celles-là comme à ceux-ci, je me contente d’une participation, d’une implication minimales. Quoique je sente rarement la ferveur attendue, je me force à manifester un enthousiasme dont la parcimonie puisse être imputée seulement à la discrétion, à la timidité ; j’accomplis les bons gestes aux bons moments, je chante d’une voix puissante et juste, ma mémoire est excellente. Mais je ne puis simuler l’ardeur à la tâche, raison pour laquelle je suis tenu, comme travailleur, en piètre estime : ce qui convient autant à la médiocrité de mes forces qu’à mon goût d’activités qui requièrent silence et isolement prolongés. Je n’ambitionne nullement prestige et renom ; ni d’être le moyeu du cycle incessant des obligations réciproques ; ni la solitude du rebelle, du prêtre, du banni ; j’accomplis mes tours — donner, recevoir — avec scrupule et modicité, ni plus ni moins. Mon ambition ne vise ni le haut ni le centre, ni la tête ni le cœur, ni l’horizon : elle vise le bord, la frontière tacite et fluide, là où je puisse passer à discrétion du dedans rassurant et solidaire au dehors élémentaire et exaltant. Mais cette place discrète et trop apparemment oisive et oiseuse est suspecte : je dois gagner le droit d’y être accepté, respecté. Qu’ai-je à offrir en contrepartie ? Quel rôle puis-je jouer qui soit moins effrayant et séparant que celui de sorcier, moins frivole que celui de poète et moins laborieux que celui d’artisan ? Je vais devenir, incarner, manifester la frontière. Je ne serai pas son gardien, je ne surveillerai ni l’intérieur ni l’extérieur : je serai la frontière elle-même. Celui qui en sortant me dépassera saura qu’il s’isole, qu’il s’exclut, qu’il échappe à notre protection, à notre veille réciproque. Je ne veux susciter ni crainte ni sacralisation : c’est pourquoi la frontière sera discrète, presque invisible, faite de traces, des traces de mes passages, de mes arrêts, de mes installations successives. On me demandera pourquoi je l’ai placée ici et pas un peu plus près ou plus loin du centre de nos activités civiles. Que répondrai-je ? Faites-moi confiance et donnez-moi du pain, en échange de quoi je vivrai la frontière dans ma chair pour que vous puissiez l’apprécier en esprit ; je mesure le rayon maximal de notre société : mesurez-moi l’aumône, et la liberté quotidienne d’aller et venir sans règle, et la tranquillité inclusive. C’est peu, sans doute. Pourtant j’ai bon espoir non seulement que cela suffise, mais que la fonction, même un jour vacante, en devienne institutionnalisée. Je fonde un type ! Puisse-t-il être viable, et fécond mais pas trop !&lt;/p&gt;
-</description>
-        <pubDate>Tue, 29 Dec 2020 11:57:18 +0100</pubDate>
-        <link>https://franckguadagnini.fr/quand-le-rassemblement-est-sonne</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/quand-le-rassemblement-est-sonne</guid>
+        <link>http://localhost:4000/somnolence-reve-dans-une-piece-fermee</link>
+        <guid isPermaLink="true">http://localhost:4000/somnolence-reve-dans-une-piece-fermee</guid>
         
         
       </item>
