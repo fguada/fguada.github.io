@@ -5,9 +5,26 @@
     <description>Fictions brèves en prose.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Apr 2024 20:34:59 +0200</pubDate>
-    <lastBuildDate>Tue, 30 Apr 2024 20:34:59 +0200</lastBuildDate>
+    <pubDate>Tue, 28 May 2024 10:19:48 +0200</pubDate>
+    <lastBuildDate>Tue, 28 May 2024 10:19:48 +0200</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
+    
+      <item>
+        <title>H. entropiae</title>
+        <description>&lt;p&gt;Au commencement du cycle devenu typique est la forêt. Foisonnement plus ou moins varié selon les latitudes ; aboutissement de postérités nombreuses en conditions propices. Boréale, elle succombe au froid ; tropicale, au chaud et sec ; mais toutes les forêts succombent aux mangeurs de feu.&lt;/p&gt;
+
+&lt;p&gt;Ils arrivent ; s’installent ; demeurent. Ils redoublent le soleil aussi longtemps qu’ils n’ont pas atteint l’extrême limite de l’extinction locale assumée.&lt;/p&gt;
+
+&lt;p&gt;À la fin, quand ils repartent, quand ils fuient, misérables et moribonds, c’est le désert. Là tout est à recommencer pour tous, et ailleurs pour eux.&lt;/p&gt;
+
+&lt;p&gt;Ils n’ont presque plus rien d’autre à emporter que leur dieu secret, qui a le sable comme emblème et pour nom l’entropie, d’après lequel fut renommée leur sous-espèce dans la nomenclature binominale rénovée.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 May 2024 10:17:32 +0200</pubDate>
+        <link>http://localhost:4000/h-entropiae</link>
+        <guid isPermaLink="true">http://localhost:4000/h-entropiae</guid>
+        
+        
+      </item>
     
       <item>
         <title>Le boomerang-miroir</title>
@@ -289,7 +306,7 @@
         <title>Les Jardiniers</title>
         <description>&lt;p&gt;Ils reviennent. On les a vus descendre la montagne en serpentant, leurs outils sur l’épaule à la place du fusil ; leurs torches les ont trahis dans le crépuscule de l’aube. Aux jumelles, on a suivi leur avancée jusqu’à ce qu’on soit sûr de leur identité. Les Jardiniers de Gaïa, ainsi qu’ils se nomment eux-mêmes. Ils seront là dans quelques heures ; nous les attendons.&lt;/p&gt;
 
-&lt;p&gt;Nos aïeux ont dû avoir peur la première fois qu’ils les ont aperçus, longue file dans le versant comme une rivière grise, au siècle dernier. Pillards ? Soldats en maraude ? Ils les ont observés, hésitant à fuir. Puis ils ont remarqué que les objets longs et fins sur leurs épaules n’étaient que des outils pour le travail de la terre : c’étaient les têtes de métal neuves de ces outils qui luisaient au soleil, et non le canon de fusils. Alors ils ont dû être soulagés, mais pas complètement. Disons méfiants et curieux. Il passe souvent des étrangers dans la vallée, mais en nombre, presque jamais.&lt;/p&gt;
+&lt;p&gt;Nos aïeux ont dû avoir peur la première fois qu’ils les ont aperçus, longue file dans le versant comme une rivière grise, au siècle dernier. Pillards ? Soldats en maraude ? Déserteurs en fuite ? Ils les ont observés, hésitant à fuir. Puis ils ont remarqué que les objets longs et fins sur leurs épaules n’étaient que des outils pour le travail de la terre : c’étaient les têtes de métal neuves de ces outils qui luisaient au soleil, et non le canon de fusils. Alors ils ont dû être soulagés, mais pas complètement. Disons méfiants et curieux. Il passe souvent des étrangers dans la vallée, mais en nombre, presque jamais.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -396,23 +413,6 @@
         <pubDate>Sat, 22 Oct 2022 08:10:07 +0200</pubDate>
         <link>http://localhost:4000/vers-les-ruines-du-camp-d-a</link>
         <guid isPermaLink="true">http://localhost:4000/vers-les-ruines-du-camp-d-a</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Soyons précis : c’est la lecture du premier essai…</title>
-        <description>&lt;p&gt;Soyons précis : c’est la lecture du premier essai du recueil &lt;em&gt;Par-delà le crime et le châtiment&lt;/em&gt; de Jean Améry, rescapé d’Auschwitz, qui a ému violemment notre homme. Timide et solitaire, faible physiquement et psychiquement, maladroit, insomniaque, anxieux, émotif, il s’est convaincu que, faute aussi d’une communauté politique ou religieuse à laquelle il aurait pu se reconnaître et être reconnu appartenir, et à supposer même qu’il n’ait pas été gazé à peine débarqué, il s’est convaincu qu’il serait mort parmi les premiers, plus seul que jamais, sans aide ni pitié, — à moins d’être devenu pire encore peut-être que ses bourreaux : prêt à tout, vol, délation, prostitution…, pour survivre au détriment de tout autre.&lt;/p&gt;
-
-&lt;p&gt;Sombres pensées, qu’il aurait banalement voulu épancher ; mais il n’a trouvé aucune oreille attentive ce soir dans son foyer pour le consoler. Une envie impérieuse de sortir l’a saisi alors, assouvie aussitôt.&lt;/p&gt;
-
-&lt;p&gt;Vingt minutes de marche nocturne : longs contrastes de lumières et d’ombres, jusqu’à ce dernier. Les lumières s’arrêtent aux bords latéraux et supérieur de la forêt, pénètrent de quelques dizaines de mètres là, quelques mètres ici, au détour d’un pas s’aperçoivent, vives entre les troncs, diffuses entre les frondaisons déjà denses. Mais devant, et de plus en plus, c’est l’ombre qui domine, sans effrayer d’ailleurs tant rassurent le silence proche et, derrière, le vrombissement continu des machines ; domine mais s’atténue à mesure que, pupille élargie, s’habitue la vision. Néanmoins le sol reste indistinct. Ce qui ne l’empêche pas de marcher d’un bon pas, indifférent aux flaques éventuelles de boue, aux petits animaux imprudents ou malchanceux, aux branches tombées qui le font trébucher. Les yeux levés, il se guide sur le chemin de ciel entre les cimes. Il sait bien sûr où il va, où il veut arriver ; il pourrait éclairer ses pas ; il ne pourrait pas y aller les yeux fermés.&lt;/p&gt;
-
-&lt;p&gt;À moins d’être une chouette, qui le suivrait des yeux le perdrait rapidement, mais la forêt semble déserte en visibles consciences vigiles. Où sont-ils tous ? Pourquoi lui et nul autre ici parmi un million de voisins ? Il ne s’en étonne qu’un instant, puis surtout se réjouit de cette absence de congénères qui est présence accrue, plus sensible, du reste du monde. Cette majestueuse présence le rapetisse en douceur, tandis que ses sens aux aguets focalisent son attention sur l’instant présent. De la conjonction de ces éléments, la forêt, la nuit, une solitude recherchée et même revendiquée celle-là, naissent sourdement, d’abord l’assomption renouvelée de l’inéluctable possibilité du pire, puis la relativisation cosmique, qui console en désindividualisant, enfin et en somme le simple apaisement. Peu de temps y a suffi. D’ailleurs voilà déjà le premier frisson de froid : il faut rentrer, en refermant la boucle déjà rituelle. Cette fois la lumière croît avec le pas, tandis que s’élargissent les voies, s’élaguent les troncs, s’éclaircissent les broussailles. Il a failli heurter la barrière, qu’il n’a discernée qu’au dernier moment. Voici la rue, trop bien éclairée. Un animal a traversé vite, là-bas, de la taille d’un gros chat peut-être, mais, a-t-il semblé, plus haut sur pattes, plus rond ; il a disparu dans une haie touffue. Nul ne saura jamais quel était cet unique compagnon noctambule.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 30 Sep 2022 16:14:52 +0200</pubDate>
-        <link>http://localhost:4000/soyons-precis-c-est-la-lecture-du-premier-essai</link>
-        <guid isPermaLink="true">http://localhost:4000/soyons-precis-c-est-la-lecture-du-premier-essai</guid>
         
         
       </item>
