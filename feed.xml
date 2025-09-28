@@ -3,11 +3,26 @@
   <channel>
     <title>Journal du conteur</title>
     <description>Fictions brèves en prose.</description>
-    <link>https://franckguadagnini.fr/</link>
-    <atom:link href="https://franckguadagnini.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Aug 2025 22:46:24 +0200</pubDate>
-    <lastBuildDate>Mon, 25 Aug 2025 22:46:24 +0200</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 28 Sep 2025 21:35:27 +0200</pubDate>
+    <lastBuildDate>Sun, 28 Sep 2025 21:35:27 +0200</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>Les positions</title>
+        <description>&lt;p&gt;Dès longtemps avant le départ, j’étais resté le seul survivant de leur couvée annuelle. Vous imaginez comme vos grands-parents me protégeaient. Toute ma première Grande Migration, je l’ai passée entre eux deux, aile contre aile, en plein ensemble, sans un instant de liberté pour la curiosité ni les expériences. Certes, j’ai bien appris à voler de conserve : suivant sans remous, calquant ma vitesse et mes mouvements sur ceux de mon voisin, de sorte qu’une impulsion donnée de la pointe ou d’un flanc parcoure comme une onde la colonie entière — c’est exaltant à vivre, bien que fugace, et surtout c’est émouvant à voir. Bien sûr j’ai appris les autres nécessités vitales. À l’arrivée, la prise d’aspiration était devenue pour moi un réflexe aussi fiable que la respiration ; je sentais le vent ; j’étais aussi économe de mes forces que possible. Mais j’étais frustré plus encore qu’épuisé.&lt;/p&gt;
+
+&lt;p&gt;Ce n’est qu’au retour, l’année d’après, papa étant mort et maman vieille, que j’ai pu essayer autre chose. Pour la pointe, j’avais toujours senti que je ne serais pas de taille ; ayant grandi seul, je n’ai pas appris à me battre. Mais j’ai tenté le flanc : juste après celle de meneur, c’est la position la plus dure. Il y faut lutter contre des rafales et des turbulences qu’au sein de notre masse des milliers de corps ont déjà coupées ou régulées. C’est presque comme si vous faisiez le voyage tout seul — sauf qu’en cas de danger vous n’êtes qu’à quelques coups d’aile de la nuée protectrice. Là sur les flancs, dans les conditions les plus exigeantes, j’ai appris à fond l’art du vol. J’ai pu tester ma vitesse de pointe ; c’était grisant ; mais j’ai vite compris que je ne pourrais pas tenir toute la Grande Migration là, faute d’endurance. Or, parce qu’une fois j’avais été le premier à distinguer un dangereux rapace en piqué, on s’est aperçu que ma vue était extraordinairement perçante. (Vos grands-parents ne l’avaient pas soupçonné, ayant eux-mêmes la vue basse.) C’est ce qui m’a valu de monter à la vigie. J’y suis resté tant que j’ai pu — les plus belles années de ma vie. Loin au-dessus de la nuée, avec les rares élus, au sein du rempart que la garde des longues-serres nous fait de leurs grands corps, à exercer la responsabilité cruciale et prestigieuse : surveiller le ciel à la recherche des rapaces ; distinguer les nuages à fuir de ceux à fendre pour nous y abreuver ; découvrir du plus loin les essaims d’insectes qui nous empêcheront de mourir de faim ; surtout, rechercher les repères confirmant la bonne orientation du vol, et rassurer ou alerter les meneurs, lesquels, dépendant de nos avis, nous écoutent et nous respectent ! Je sais que pour certaines vigies, qui n’aspiraient qu’à la sécurité chaleureuse du nombre, cette fonction éminente est un supplice, et leur vue rare, une malédiction. Mais moi j’aimais tellement cette position que, même lorsque j’étais de repos, je restais là-haut avec mes pairs et amis : sans troubler leur concentration — à la vigie, on parle peu et bas —, j’admirais de loin la nuée fluide et légère, ou bien je somnolais dans leur sillage, ou encore je planais simplement les yeux fermés pour les reposer, écoutant le vent.&lt;/p&gt;
+
+&lt;p&gt;Quand ma vue a baissé — bien trop tôt —, j’ai dû réintégrer la nuée. Comme je n’avais pas encore l’âge où la faiblesse condamne aux seules positions intérieures, je me suis fixé en queue. Je m’y laisse même distancer légèrement : il reste assez de chaleur et d’aspiration, mais il n’y a plus de presse, et les cris sont assourdis. Là, fidèle à mon acquis, je continue à n’être qu’un grand œil — qui désormais, par plaisir, contemple la Terre. Plaisir des reliefs et couleurs variés ; des formes et des masses ; plaisir des longs fleuves, sinueux, brillants, ramifiés ; plaisir étrange des déserts, immenses et inquiétants ; plaisir de la comparaison subtile, des ressemblances et différences, entre deux forêts par exemple, entre deux montagnes, mais aussi entre elles-mêmes et leurs états antérieurs ; plaisir des bouleversements, submersions, assèchements, verdissements, déboisements par le feu… Ce qui n’était qu’un décor, un obstacle, un ensemble de signes dont l’immense majorité sans pertinence, est devenu un compagnon de voyage — que je me réjouis de retrouver tantôt, car le départ est imminent : je le sens dans ma poitrine ! Lissez bien vos ailes ! Et décidez quoi faire de la liberté que je vous laisse. (Je suis sûr que votre mère aurait fait de même.) Pour la vigie, je ne crois malheureusement pas que votre vue suffise. Pour les autres positions : testez-vous au moins une fois ! Vous allez peut-être vouloir rester au milieu, au chaud, protégés, soutenus de toutes parts. Vous allez vouloir vous mettre devant, nous montrer que vous êtes les plus rapides, malgré votre vol encore grossier. Vous allez vouloir vous mettre en queue, pour nous observer, nous juger sans être vous-mêmes observés ni jugés. Vous allez voir sur terre des choses qui vous rendront curieux… Rappelez-vous seulement, constamment, la consigne primordiale : restons groupés. La Grande Migration est si longue, les calories à grappiller en route sont si rares, que la colonie n’a ni le temps ni la force d’attendre les traînards, de retenir les impatients, de rattraper les téméraires, de rechercher les distraits égarés. Ceux-là sont tous condamnés — sans chaleur partagée ni aspiration, sans repos alterné, sans positions complémentaires… Une fois arrivés, une fois achevée l’inévitable reconquête de nos havres périodiques — vous pourrez vous égailler.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 Sep 2025 21:33:52 +0200</pubDate>
+        <link>http://localhost:4000/les-positions</link>
+        <guid isPermaLink="true">http://localhost:4000/les-positions</guid>
+        
+        
+      </item>
     
       <item>
         <title>Nos grands enfants</title>
@@ -18,8 +33,8 @@
 &lt;p&gt;Comment les empêcher d’aller trop loin ? Comment les ramener sans les violenter ? Pour l’instant nous nous contentons de les isoler, pour empêcher toute contamination de leur exemple. Cet isolement répond précisément à leur désir présent et hautain ; mais si leur venait l’envie de se répandre et de prêcher, nous les contraindrions fermement dans les limites du territoire que nous les avons laissé s’approprier. Ils y ont toute liberté de jouer à la chasse aux trésors et aux châteaux de sable… tandis que nos champs et labeurs continuent à les garantir de la famine ! Situation intenable ; mais quant à savoir qui, d’eux ou de nous, seront les premiers à ne plus la tolérer ; et si c’est un conflit ouvert, une réconciliation, ou une définitive ignorance mutuelle qui s’ensuivra : en attendant que le temps y réponde, en attendant surtout — c’est le grand espoir qu’il nous reste — que leurs propres enfants soient en âge de nous écouter, nous continuons aussi à gaspiller, trop souvent, nos loisirs et nos soirées en ruminant le terrible échec de notre génération : n’avoir pas su les éduquer à sentir et admirer le prestige, pourtant immémorial, du style d’ascension pérenne que nous pratiquons sans ostentation : celle qui ne se voit que dans les visages, ne s’entend que dans les paroles.&lt;/p&gt;
 </description>
         <pubDate>Mon, 25 Aug 2025 22:36:51 +0200</pubDate>
-        <link>https://franckguadagnini.fr/nos-grands-enfants</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/nos-grands-enfants</guid>
+        <link>http://localhost:4000/nos-grands-enfants</link>
+        <guid isPermaLink="true">http://localhost:4000/nos-grands-enfants</guid>
         
         
       </item>
@@ -35,8 +50,8 @@
 &lt;p&gt;Comment procéder ? Faut-il viser l’unanimité ? Ou bien chacun creusera-t-il son propre petit trou dans le monde, indifférent aux autres entre lesquels il serpentera jusqu’au sien chaque soir dès qu’il aura rangé ses outils ? D’autres questions, préliminaires, déjà s’interposent… Elles aussi viennent de derrière les remparts, elles montent de leur grand trou, elles grimpent les remparts, les plus petites les traversent en suintant, les autres s’élancent d’en haut et nous touchent en silence, portées par le souffle des nuits, chacun les reçoit, les écoute, et les oublie, ou les repousse, ou les épouse. Elles attendent. Et en attendant elles posent elles-mêmes d’autres questions. Qu’en est-il de la vie transitoire qu’elles nous imposent tout le temps qu’elles dureront ? N’avons-nous jusqu’alors — jusqu’aux moines (dont nous ne savons plus s’il faut les remercier ou les haïr) — n’avons-nous toujours mené qu’une vie transitoire, dans l’attente inconsciente de questions qui nous aiguillonneraient ? Peut-on trouver une réponse définitive et vivre une vie définitive ? Chaque question doit-elle être reposée à chaque génération, en une ronde interminable ? Existe-t-il une fin aux questions ? Surtout : comment savoir si l’on a bien répondu ? Et si l’on ne pouvait le savoir que rétrospectivement ? Une fois pour toutes, peut-on échapper à ce tourbillon ? La seule évidence, qui n’est même pas encore une réponse, c’est qu’il faudra du temps soit pour répondre à la moindre de ces questions soit pour l’abandonner après nous être rendu compte qu’elle est devenue obsolète ou qu’elle était mal posée. En attendant, nous, les premiers questionneurs du renouveau, devrons nous contenter d’une vie en question. Nous l’assumons. — Et en l’assumant, nous découvrons, à notre propre surprise, que cette idée ne nous effraie ni ne nous déçoit, mais qu’elle nous rassure et même, parfois, nous exalte ! Ce n’est pas encore en soi une réponse non plus, mais c’est un bon début.&lt;/p&gt;
 </description>
         <pubDate>Wed, 28 May 2025 13:32:48 +0200</pubDate>
-        <link>https://franckguadagnini.fr/les-moines</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/les-moines</guid>
+        <link>http://localhost:4000/les-moines</link>
+        <guid isPermaLink="true">http://localhost:4000/les-moines</guid>
         
         
       </item>
@@ -48,8 +63,8 @@
 &lt;p&gt;À peine le temps d’avoir eu peur et pas même celui de paniquer, déjà nous voilà rassérénés : c’est avec une grande et paisible délectation que nous voyons dans la nuit claire et tiède nos ennemis s’entre-tuer, s’entre-dévorer, que nous observons tels petits corps à corps indécis dans la mêlée, que nous entendons — il y faut grande attention — l’infime craquement des carapaces percées par les dards, le crissement des mandibules qui broient la chitine, le chuintement des ailes froissées, le doux pompage des trompes avides… Enfin sans crainte sourde ni gêne, chaque heure passant nous rend plus tranquilles et moins curieux, libérés duel à duel des rampants par les volantes et réciproquement, jusqu’au meilleur sommeil. À la fin, au matin tardif, il ne reste plus aucun des mâche-piques — les oiseaux de l’aurore ont déjà tout nettoyé — et seules quelques ailes-de-feu survivent, qui pendant plusieurs jours, voire trois semaines de bonheur absolu, vont être trop occupées à se noyer dans la résine de l’arbre-noxe pour y assurer leur pérennité — trop occupées pour nous importuner, et nous serons heureux, aussi heureux qu’on peut l’être sous la belle ombre, la grande ombre de l’arbre-noxe, qui surplombe tout le monde et protège tout le monde.&lt;/p&gt;
 </description>
         <pubDate>Fri, 29 Nov 2024 09:39:10 +0100</pubDate>
-        <link>https://franckguadagnini.fr/l-arbre</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/l-arbre</guid>
+        <link>http://localhost:4000/l-arbre</link>
+        <guid isPermaLink="true">http://localhost:4000/l-arbre</guid>
         
         
       </item>
@@ -59,8 +74,8 @@
         <description>&lt;p&gt;Les soldats sont là depuis trop longtemps. Ils commencent à aimer les enfants qui leur sont nés des prostituées que nous leur avons consenties. Substituts de l’amour et de la famille qu’ils ont laissés depuis si longtemps chez eux que le souvenir même, sauf en de rares fulgurances, commence à s’en estomper. Leurs enfants parlent mieux notre langue que celle des soldats, qu’ils prononcent avec notre accent. Comment feraient-ils s’ils repartaient soudain ? Emmener les enfants sans les mères ? Partir seuls, comme un arrachement, sans être certains qu’on les attend encore là-bas, qu’on sera heureux de les revoir ? Partir en famille ? Pourquoi partir alors ? De toute façon personne chez nous — et je le soupçonne, de manière croissante chez eux aussi — ne croit plus qu’ils repartiront. La garnison est à demeure. Oubliée ou négligée par les autorités lointaines qui ne s’occupent que de récolter impôts et taxes. Les soldats, d’abord armée d’occupation, ne peuvent vivre longtemps ainsi, exilés, étrangers. Leur science nous soigne, notre travail les nourrit, nos femmes les soulagent de la nostalgie d’autres femmes maintenant déjà vieillies, moins désirables que leur souvenir, ce trésor à contempler le moins possible. Non, les soldats, qu’ils se l’avouent ou non, ne veulent pas rentrer. Ce qui les fait souffrir, ce n’est plus l’éloignement de leur patrie mythifiée, c’est l’isolement dans lequel ils se tiennent encore ici, c’est la peur de représailles, d’une vengeance d’autant plus cruelle qu’elle aurait été longtemps ruminée. Quelques-uns semblent l’avoir compris. Ils se lient à certains d’entre nous par des chaînes d’intérêt religieux et financier ; ils se convertissent à notre foi pour mieux s’intégrer dans nos réseaux d’échanges ; ils exemptent officieusement d’impôt certains trafics où ils ont part. Ils tissent ainsi de fer une toile le plus inextricable possible, qui doit leur devenir armure. Qu’adviendra-t-il ? Si l’histoire se répète, je suppose que certains d’entre eux, les plus habiles, réussiront, deviendront des notables, s’allieront aux grandes familles, s’y couleront. Leurs descendants ne seront plus discernables des nôtres. D’autres se perdront dans la drogue et la volupté frelatée des bordels. D’autres encore chercheront à redevenir d’honnêtes artisans, et peu y parviendront. On en retrouvera noyés « par accident », pendus « de chagrin », suicidés par nostalgie ou par inadaptabilité. Nous ne les plaindrons pas. Comment devenir l’ami, l’égal de ses anciens esclaves ? Certainement pas en se faisant soi-même esclave ! Ils sont venus par la force et pour le pouvoir. Seuls la force et le pouvoir peuvent les maintenir sur place et vivants. Force et pouvoir : leur malédiction.&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Nov 2024 11:02:46 +0100</pubDate>
-        <link>https://franckguadagnini.fr/les-soldats</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/les-soldats</guid>
+        <link>http://localhost:4000/les-soldats</link>
+        <guid isPermaLink="true">http://localhost:4000/les-soldats</guid>
         
         
       </item>
@@ -76,8 +91,8 @@
 &lt;p&gt;Les derniers, le tout petit, le très petit nombre de ceux qui ont eu la chance de voir la terre nourrir leur arbre, le pousser à monter, à sortir, puis le soleil le tirer vers le ciel ; ceux qui ont eu la chance de voir grandir leur arbre, de pouvoir le soigner, l’amener à maturité — ceux-ci devraient être les plus heureux. Mais combien de fruits faut-il manger, et combien de temps attendre pour que ces fruits digérés deviennent des rêves réalisés, cela, personne n’a pu le leur dire, aucun ancêtre, aucun vieux sage, même s’il fut des chanceux. Comme si c’étaient les rêves eux-mêmes qui décidaient quand venir, à leur rythme insaisissable et singulier. Et moi ? Il y a bien longtemps que je ne suis plus un enfant. Je ne me suis pas lassé précocement. J’ai eu de la chance. Les fruits ont mûri. J’en mange chaque été, depuis des années, sans résultat visible. Je ne me désespère, ne m’impatiente pas. J’ai de l’appétit. Je ne sais pas encore si je suis heureux ou malheureux.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Oct 2024 18:43:21 +0200</pubDate>
-        <link>https://franckguadagnini.fr/les-graines</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/les-graines</guid>
+        <link>http://localhost:4000/les-graines</link>
+        <guid isPermaLink="true">http://localhost:4000/les-graines</guid>
         
         
       </item>
@@ -97,8 +112,8 @@
 &lt;p&gt;Mais peut-être n’aurons-nous pas à subir l’angoisse permanente de ce destin : nous sentant affaiblis, nos puissants voisins manifestent ouvertement leurs prétentions territoriales. Le plus probable est donc qu’à la soumission volontaire, temporaire et révocable à un guide choisi, succède une sorte d’esclavage, qu’une majorité d’entre nous accueillera avec soulagement pour peu qu’elle prenne l’apparence de l’intérêt mutuel, et surtout qu’on nous laisse l’errance, ou l’apparence de l’errance, sans quoi notre vie n’a aucun sens. Ils nous donneront un guide de leur cru, hypocritement nôtre mais à leur seule et à peine secrète ou même discrète allégeance ; un guide qui pourrait pourtant être meilleur que nos propres derniers, ayant moins de choix difficiles à faire, de contradictions à dépasser, de dilemmes à surmonter, de connaissances à maîtriser ou ignorer, se contentant de rechercher le seul intérêt de ses maîtres et commanditaires — intérêt d’ailleurs peut-être à long terme mal compris. S’il est aussi bon que l’étaient les nôtres au temps de leur plénitude, si ses maîtres sont aussi perspicaces à le choisir et le missionner que nous l’étions, il nous laissera continuer à creuser nos voies, la seule différence, à vrai dire pour nous négligeable, étant qu’il réserve nos découvertes pour ses seuls maîtres, à qui elles puissent servir soit à renforcer la légitimité historique de leur pouvoir, soit à affaiblir celle de leurs autres voisins. Faux guide et fausse errance, rêve de guide et rêve d’errance qui donneront jour à un rêve d’archéologie, une archéologie certes toujours creusée sans doute — on ne rêve pas la terre sous les ongles : ils sont noirs ou pas — mais, comme les rêves, ne donnant lieu qu’à des productions, sinon arbitraires, du moins d’une fiabilité douteuse. Nous qui nous gardions jusque-là de toute interprétation tant soit peu audacieuse, scrupuleux et conservateurs à l’extrême, nous nous abandonnerons alors au délire d’interprétation le plus ésotérique, libérés que nous serons de toute entrave par le rêve. Comment aurait-il pu savoir, le guide étranger, le faux guide, comment aurait-il pu savoir que le rêve nous guettait depuis toujours, le simple rêve, comme un écran entre nos mains et nos yeux, qui n’attendait que l’occasion de s’emparer de nos âmes comme jamais nos voisins n’auraient pu ambitionner d’y parvenir ; comment aurait-il pu savoir qu’il fallait pour le tenir en respect toute la force et la subtilité du vrai guide qui nous disait quoi penser des bizarres merveilles que nos mains déterrent des strates toujours plus anciennes d’une histoire mystérieuse et mythifiée ; comment aurait-il pu savoir que sans cette stricte discipline, abandonnés à nos lumières étroites, nous allions creuser, nous ne pouvions que creuser dans tous les sens à la fois, et de tesson en os fossile, d’éclat de pierre en empreinte de pas, de gravure en pigment, de dent en tombe, de dessin en statuette rêver des liens sans cohérence historique ni logique, tout à la séduction, tout à la fantaisie d’associations suggérées par hasard ; comment aurait-il pu savoir que ces rêves assurés d’une parole claire aux yeux vides formeraient si vite un labyrinthe où nous abriter, un labyrinthe où se perdre n’est jamais un problème puisqu’il ne faut surtout pas en sortir, mais où lui le faux guide risque d’être enfermé aussi, à son insu d’abord puis à son désespoir ? Impossible ! Rien dans nos comportements antérieurs n’aurait pu lui faire seulement pressentir que le rêve se tenait en embuscade, non pas hostile mais au contraire bonhomme, bénin d’allure, fidèle, tentant — le principal ennemi, le plus ancien, le plus viscéral. Mais alors il sera trop tard, le passé aura pris sous nos doigts mille branches contradictoires que nous allongerons jusqu’aux détails les plus infimes et les plus absurdes, dans lesquelles nous nous perdrons tous aveuglément, sans retour ni regret, adonnés à l’exploration méthodique de ses virtualités même les plus improbables avec une égale patience, une égale ferveur. Le rêve sera notre fièvre, sera notre fuite et notre abandon d’une vie qui ne sera plus tenue par le vrai guide, qui ne voudra plus se regarder, qui ne sera plus protégée contre la tentation, toujours secrètement nôtre, de rêver le passé comme tant de mémoires possibles. Ainsi vivant dans un rêve produisant des rêves, nous attendrons, somnambules, que notre asservisseur, de peur d’être emporté lui aussi dans le rêve, ne s’enfuie et nous abandonne. Après les vrais, les faux guides disparaîtront aussi, et s’il reste quelque chose de nous au réveil, quelque chose pour nous maintenir en vie, ce sera l’errance, toujours l’errance. Nous la suivrons.&lt;/p&gt;
 </description>
         <pubDate>Sat, 31 Aug 2024 22:38:52 +0200</pubDate>
-        <link>https://franckguadagnini.fr/le-guide</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/le-guide</guid>
+        <link>http://localhost:4000/le-guide</link>
+        <guid isPermaLink="true">http://localhost:4000/le-guide</guid>
         
         
       </item>
@@ -108,8 +123,8 @@
         <description>&lt;p&gt;Entrer par la Grande Porte, je ne peux même plus y rêver. On ne me laisserait pas faire. Je n’ai jamais été invité. Et même si je l’étais, même héritier miraculeux du Palais, je ne l’oserais plus. Être refoulé une fois m’a humilié jusqu’à la veulerie, jusqu’à la mort. Ce n’est donc pas l’orgueil qui m’empêcherait de franchir la Grande Porte même si l’on m’y invitait ; et ce n’est certes pas le sentiment d’une juste revanche qui m’y encouragerait. Non, pour moi et pour toujours cette porte est comme un mur de feu, infranchissable, et les hautes fenêtres qui la surplombent sont des miroirs sans tain derrière lesquels la Cour se tait pour se moquer de moi. Plus rien au monde ne pourrait me la faire approcher. À peine si j’ose passer devant à distance d’observation. En revanche, et conformément à l’être que je suis devenu à moins que je ne l’aie toujours été, je traîne volontiers le long des façades arrière, du côté des portes de service, par où j’espère me faufiler jusqu’à la salle du Trône, mon insignifiance et mon air bénin me protégeant de la garde et de la curiosité des serviteurs — je passe pour l’un de ceux-ci —, où, dans la Grande Lumière de Sa Majesté, je quémanderai mon pardon, c’est-à-dire l’existence, laquelle me sera refusée dédaigneusement d’une main légère, ou impatiemment, d’un doigt pointu, ou négligemment, sans un regard. Alors je serai définitivement expulsé, et je pourrai vivre peut-être et mourir en paix, sûr enfin de n’avoir pas existé. Seuls les enfants joyeux des Grands, présents en nombre, attifés, silencieux mais turbulents, auront pitié de moi, trop jeunes encore pour comprendre que je ne la demande pas réellement, que mon audace même à la mendier contre toute vraisemblance est factice, que moi aussi au fond comme eux je joue mais à échouer. « Ne pars pas ! crieront-ils, nous t’aimons, nous ! » Je pourrais me prévaloir de cet amour clamé, réel aussi quoique fugace, pour demander à rester, toléré comme un caprice bénin. Mais je ne le veux pas, ce serait tricher, en abusant de l’indifférence des Maîtres, or c’est à eux que je veux plaire, aux Grands, non pas seulement à leurs enfants, je veux qu’ils me veuillent à leurs pieds, je veux que l’intendant soit obligé de me consentir la clé des cuisines, des garages, des caves, des hangars ! Je veux pouvoir me faufiler à ma guise, les observer ignoré, les surprendre au bain, dans leurs colères et leurs bassesses et les faiblesses de leurs corps augustes ! Cette existence de parasite, aucune autre ne m’étant possible, est la seule pour laquelle j’aurais pu sacrifier ma vie médiocre. Elle m’est refusée. Soit. Je disparais. On n’entendra plus parler de moi. Même si on ne m’oubliait pas, si par miracle on me cherchait, on ne me trouverait plus.&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Jul 2024 18:26:09 +0200</pubDate>
-        <link>https://franckguadagnini.fr/la-grande-porte</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/la-grande-porte</guid>
+        <link>http://localhost:4000/la-grande-porte</link>
+        <guid isPermaLink="true">http://localhost:4000/la-grande-porte</guid>
         
         
       </item>
@@ -141,8 +156,8 @@
 &lt;p&gt;Un constat me rassure : d’après les vieux, on n’a jamais vu un fou aussi jeune que moi. Disons que cette fois je laisse la place ; que je tente ma chance au village. Si j’échoue, j’attendrai la prochaine vacance.&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Jun 2024 23:38:36 +0200</pubDate>
-        <link>https://franckguadagnini.fr/le-fou-du-village</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/le-fou-du-village</guid>
+        <link>http://localhost:4000/le-fou-du-village</link>
+        <guid isPermaLink="true">http://localhost:4000/le-fou-du-village</guid>
         
         
       </item>
@@ -158,8 +173,8 @@
 &lt;p&gt;Ils n’ont presque plus rien d’autre à emporter que leur dieu secret, qui a le sable comme emblème et pour nom l’entropie, d’après lequel fut renommée leur sous-espèce dans la nomenclature binominale rénovée.&lt;/p&gt;
 </description>
         <pubDate>Tue, 28 May 2024 10:17:32 +0200</pubDate>
-        <link>https://franckguadagnini.fr/h-entropiae</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/h-entropiae</guid>
+        <link>http://localhost:4000/h-entropiae</link>
+        <guid isPermaLink="true">http://localhost:4000/h-entropiae</guid>
         
         
       </item>
@@ -171,8 +186,8 @@
 &lt;p&gt;Mais il est fini ce temps ! Il est loin ; il était déjà révolu à l’époque où les Indo-Européens commençaient à s’imposer, quand la parole est devenue l’arme offensive d’un combat pratiqué d’autant plus à distance que ses relais devenaient nombreux. Tout retour en arrière est présentement impossible ; il est bien trop tôt pour cela. Mais le regard, du moins, se corrige plus facilement. D’où l’invention récente du boomerang-miroir : dans lequel c’est au sommet de sa courbe, au plus loin de ma main, que moi lanceur me vois le mieux.&lt;/p&gt;
 </description>
         <pubDate>Tue, 30 Apr 2024 20:33:04 +0200</pubDate>
-        <link>https://franckguadagnini.fr/le-boomerang-miroir</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/le-boomerang-miroir</guid>
+        <link>http://localhost:4000/le-boomerang-miroir</link>
+        <guid isPermaLink="true">http://localhost:4000/le-boomerang-miroir</guid>
         
         
       </item>
@@ -192,8 +207,8 @@
 &lt;p&gt;Si je l’ai bien évoqué, c’est lui qui s’est exprimé.&lt;/p&gt;
 </description>
         <pubDate>Sat, 30 Mar 2024 23:49:59 +0100</pubDate>
-        <link>https://franckguadagnini.fr/petit-juge</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/petit-juge</guid>
+        <link>http://localhost:4000/petit-juge</link>
+        <guid isPermaLink="true">http://localhost:4000/petit-juge</guid>
         
         
       </item>
@@ -211,8 +226,8 @@
 &lt;p&gt;L’espoir, la terreur, la démangeaison, la pitié, la soif, et maintenant la douleur me ravagent.&lt;/p&gt;
 </description>
         <pubDate>Thu, 29 Feb 2024 20:28:24 +0100</pubDate>
-        <link>https://franckguadagnini.fr/la-tete</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/la-tete</guid>
+        <link>http://localhost:4000/la-tete</link>
+        <guid isPermaLink="true">http://localhost:4000/la-tete</guid>
         
         
       </item>
@@ -236,8 +251,8 @@
 &lt;p&gt;Assister à des confessions véridiques sans être obligé à la réciproque : voilà ce que désire la majorité rétive dont je participe ! Offrir son indulgence sélectivement et sans contrepartie ; se jauger dans le miroir statistique des fautes du grand nombre ; et se découvrir sûrement plus ou moins grand criminel qu’on ne croyait. Seulement après beaucoup d’autres, je voudrais moi aussi gagner l’absolution publique, raisonnablement sûr enfin de la mériter si la plupart s’avèrent pires qu’ils se croient et meilleurs qu’on le suppose. Mais le doute même de pouvoir me fier à mon concitoyen et prochain, qui motive la C. P. G., m’a retenu de voter pour ; le risque était trop grand que la roue ne tourne dans l’autre sens : méfiance exacerbée, huées, lynchages, vendettas, guerre civile et mise au ban des nations… Dans le doute, je garde ma honte et mes secrets.&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Feb 2024 22:10:33 +0100</pubDate>
-        <link>https://franckguadagnini.fr/l-echec-de-la-c-p-g</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/l-echec-de-la-c-p-g</guid>
+        <link>http://localhost:4000/l-echec-de-la-c-p-g</link>
+        <guid isPermaLink="true">http://localhost:4000/l-echec-de-la-c-p-g</guid>
         
         
       </item>
@@ -251,8 +266,8 @@
 &lt;p&gt;Je ne l’ai jamais ni revu, ni oublié. J’ai continué à choisir de préférence les pentes escarpées, mais plus jamais sans douter. Il m’a fallu du temps pour admettre que j’avais trouvé mon Maître, et ne l’avais pas suivi ; et ce alors même que je l’avais rencontré à mi-chemin du premier Tour, donc au moment traditionnellement considéré le meilleur pour prendre Maître. Je ne l’ai pas cherché — nous n’avions même pas échangé nos noms —, mais j’ai scruté toutes ces années tous les visages à chaque étape, en vain. Il m’aurait fallu une chance exceptionnelle pour le croiser de nouveau, étant donné l’intermittence de nos temps de Pèlerinage (seuls quelques riches héritiers pèlerinent à plein temps), et la longueur du Grand Tour, la variété des parcours, la différence de nos rythmes et l’opposition entre nos voies favorites. J’ai monté, redescendu et remonté, suivant des hasards et des conventions, mais il m’a manqué et il me manque encore quelque chose, et avec le temps j’ai décidé de croire que c’est lui. Le souvenir de son bref exemple ne m’a pas suffi ; il m’aurait fallu sa présence, même si je n’aurais pu le suivre qu’en le devançant. J’ai maintenant à peu près l’âge qu’il devait avoir, et je sais qu’il est mort : sinon il figurerait sur la Liste Publique des Doyens de l’Humanité. Pourtant ce soir, au gîte d’étape, je me surprendrai encore à chercher des yeux ma chimère parmi les Pèlerins nombreux de la plaine. Je ne sais toujours pas ce que je fuyais dans les pentes abruptes avant de le rencontrer. Après, je pense le savoir : je fuyais le regret de n’avoir su ni le reconnaître à temps, ni l’imiter, ni trouver qui l’aurait remplacé.&lt;/p&gt;
 </description>
         <pubDate>Sun, 31 Dec 2023 18:22:54 +0100</pubDate>
-        <link>https://franckguadagnini.fr/pente-douce</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/pente-douce</guid>
+        <link>http://localhost:4000/pente-douce</link>
+        <guid isPermaLink="true">http://localhost:4000/pente-douce</guid>
         
         
       </item>
@@ -280,8 +295,8 @@
 &lt;p&gt;Comment cela finira-t-il ? Dans un dernier cri global ; dans un mutisme généralisé ? Ou bien cette situation angoissante est-elle notre nouvelle condition pour les siècles à venir ? Nul ne l’espère, peu admettent le croire, beaucoup le soupçonnent, et tout le monde le craint.&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Nov 2023 11:41:44 +0100</pubDate>
-        <link>https://franckguadagnini.fr/le-cri-viral</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/le-cri-viral</guid>
+        <link>http://localhost:4000/le-cri-viral</link>
+        <guid isPermaLink="true">http://localhost:4000/le-cri-viral</guid>
         
         
       </item>
@@ -291,8 +306,8 @@
         <description>&lt;p&gt;Il y a déjà plusieurs générations que nous sommes retournés vivre dans les arbres. Pourquoi, nous l’avons oublié ; était-ce fuite, appel, opportunité, retour nostalgique, nécessité ? Quoi qu’il en soit, à force de vivre dans les arbres comme nos lointains ancêtres primates, nous avons perdu le contact avec le sol et l’habitude du sol. Désormais il nous fait peur. Pourtant il nous est indispensable d’y redescendre, au moins pour honorer nos morts. Nous déroulons alors les longues échelles de corde que nous tenons d’ordinaire précautionneusement relevées, même s’il semble que les seuls autres animaux capables de les emprunter puissent se passer d’elles pour grimper. Il ne subsiste heureusement plus guère de ceux-ci dans notre forêt : nous les avons chassés par notre prédation massive des fruits, noix, insectes et petits vertébrés qu’on trouve dans la canopée ; ils ont fui notre présence agressive et tapageuse. En effet, ici dans les plus grands arbres, à l’abri de la canopée merveilleuse et ondulante, nous passons les heures fraîches à nous chamailler bruyamment pour la nourriture et les meilleures branches, et les heures chaudes à chanter, chacun pour soi, à l’ombre des feuillages. Mais dès que nous déroulons les échelles de corde, la peur et la prudence nous font faire silence. Nous tremblons quand nous traversons la couche nuageuse, car nous savons que nous quittons notre territoire, la canopée des plus hautes cimes, îles dans l’océan de vapeur qui masque le sol de la forêt. Ce sol ténébreux, nous nous y déplaçons sur la pointe des pieds, sur le qui-vive, scrutant buissons et sous-bois dans la crainte continuelle d’une attaque imminente et fatale — mais qui nous attaquerait ? Des congénères restés peut-être vivre au sol ; ou d’une autre forêt ; ou d’autres animaux, tour à tour ou coalisés contre ces intrus extravagants, ces proies alléchantes et faciles ? Nous ne le savons pas car notre histoire orale ne consigne nulle attaque : l’ennemi est d’autant plus effrayant qu’il est encore inconnu, tapi, attendant l’instant de faiblesse et d’inattention que nous ne lui avons encore jamais accordé. Dans le silence des feuilles froissées, des branches cassées, nous portons le corps aux membres pendants du défunt juste assez loin pour qu’odeur et miasmes ne nous atteignent pas. Nous l’abandonnons sous un arbre où son âme s’incarnera peut-être et rentrons aussi vite que la prudence et la panique le permettent. C’est ainsi que nous honorons nos morts. Arrivés au pied de nos grands arbres, notre impatience est à son comble : comme nous nous pressons trop, nous maltraitons les échelles, qui, peu à peu, se cassent l’une après l’autre. Bien sûr nous sommes de trop gros animaux pour vivre tout là-haut. Certes, notre stature et notre poids moyens ont diminué, car les grands et gros chutent plus souvent mortellement avant d’avoir procréé ; mais c’est loin d’être suffisant. C’est pourquoi, même si notre tapage nous fait sembler nombreux, nous ne sommes guère plus qu’une petite bande, une tribu décroissante en nombre, à la consanguinité dangereuse, et probablement vouée à une extinction prochaine. Car qui parmi nous renoncerait à la canopée pour retourner vivre au sol, quand chacun ne rêve que de s’élever jusqu’à la cime des arbres, ayant laissé au plus loin la terre, tout là-bas, invisible, inaudible, comme si elle n’existait plus — dangereuse illusion ! — ; ayant laissé aussi la jungle des lianes et des corps ; parvenu au sommet, dans la rareté des dernières feuilles, au bord du ciel, presque en plein ciel : oui, s’élever pour vivre au plus près du ciel, sur la plus haute branche, unique privilège de l’éminence hiérarchique conquise et reconnue… non, nul parmi nous, malgré la perte de ces commodités historiques qui ne sont plus que des mythes — la médecine, l’écriture, le métal… — nul n’oserait quitter la canopée, cette vie aérienne, pour la lourdeur, la touffeur, la pénombre, la peur, les rampants, les serpents… De toute façon, qui sait encore fabriquer ces échelles de corde qui nous demeurent indispensables pour descendre et remonter ? Bientôt nous nous contenterons de laisser tomber nos morts, espérant que l’odeur ne nous atteigne pas, tant nous sommes loin du sol. C’est ainsi, lâchant prise, que les derniers membres de notre utopie trompeuse disparaîtront de ces hauteurs, rendues pour un instant au silence azuré. Fini, les douches de pluie, la caresse du vent odoriférant, le bercement des branches, la contemplation des oiseaux planant, des étoiles brillant… Adieu. Ce paradis n’était pas pour nous.&lt;/p&gt;
 </description>
         <pubDate>Tue, 31 Oct 2023 15:46:31 +0100</pubDate>
-        <link>https://franckguadagnini.fr/la-vie-dans-les-arbres</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/la-vie-dans-les-arbres</guid>
+        <link>http://localhost:4000/la-vie-dans-les-arbres</link>
+        <guid isPermaLink="true">http://localhost:4000/la-vie-dans-les-arbres</guid>
         
         
       </item>
@@ -304,8 +319,8 @@
 &lt;p&gt;Je me suis fait découvrir, recueillir. J’avais rogné mes griffes, rasé mes poils, limé mes crocs. Suis-je devenu pour autant doux comme un agneau ? Je ne sais pas, je ne crois pas, pas encore. La docilité, la soumission, la dépendance du chien me guettent-elles ? Ou au contraire, désormais que je n’aurai plus à vivre isolé, puis-je espérer des relations sociales et personnelles riches, d’égal à égal ? C’est prématuré. Mes griffes repoussent et ma vue rebute. La capacité légale m’est refusée. Ne suis-je donc pas prêt ? Ai-je besoin d’une période de transition — d’au moins quelques siècles ? Qu’on s’habitue à ne plus s’effrayer de mes poils et de mes griffes, à ne plus mépriser leur absence périodique ; que je m’habitue à non plus mordre mais flairer, lécher, baiser, serrer la main qui se tend ? Non pas celle qui me flatte, ni celle qui me dresse, mais celle qui tire et me redresse. Reste une profonde sensibilité aux odeurs qui rend dangereusement sensuelles mes rencontres avec les femelles. Les mâles me craignent ; les dominants me défient ; nous nous battons ; je n’ai rien gagné à remplacer mes griffes par un couteau.&lt;/p&gt;
 </description>
         <pubDate>Fri, 29 Sep 2023 21:03:54 +0200</pubDate>
-        <link>https://franckguadagnini.fr/griffes</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/griffes</guid>
+        <link>http://localhost:4000/griffes</link>
+        <guid isPermaLink="true">http://localhost:4000/griffes</guid>
         
         
       </item>
@@ -321,8 +336,8 @@
 &lt;p&gt;Voilà, c’est ainsi que ça se passe. D’ordinaire ça fonctionne remarquablement bien, ce qu’atteste d’ailleurs le fait que notre renommée soit parvenue jusqu’à vous. Moi ? Vous devinez mon âge ! Je rétrograde peu à peu au fil des ans. Mais… « Tant que je recule, je tire encore ! » comme on dit. Non, je n’ai jamais été tête de cordée, ni parmi les premiers tireurs. Mais j’étais à ma place, c’est le principe même de la corde qui l’implique — et je le suis encore. Si j’avais pu faire mieux je l’aurais fait, et ceux qui me suivaient aussi. De la sorte, vous comprenez bien qu’on ne puisse pas aller plus vite. Votre vie, celle dont vous nous vantez les bienfaits, nous la connaissons aussi, où tous se mêlent au hasard, sans rang ni ordre, où donc la trajectoire collective, privée de but, n’est que la moyenne des errances individuelles — mais nous la connaissons entre les expéditions ferventes qui nous définissent. Bien sûr que nous aimons ces pauses, parfois longues d’ailleurs, bien sûr que nous apprécions le repos, le foyer, la musique, la fête, le bavardage sous les grands arbres… Mais ces joies-là, simples, je crois moi que nous les savourons plus que vous, parce que, à la corde — chacun à sa juste place et au maximum de ses capacités, qui s’additionnent —, nous les avons méritées ! Et nous le savons tous et chacun sait qu’il a mérité sa part, jamais trop petite. Pas de tricherie à la corde, personne ne cède sa place, nul ne renonce à doubler, il n’y a rien qui puisse acheter un nœud car il n’y a rien de plus honorable qu’un nœud de tête. Mais il n’y a aucun déshonneur à être en queue. Le seul déshonneur, c’est de lâcher la corde. Et ceux qui s’en rendent coupables s’enfuient et ne reviennent jamais, de honte ou de peur. Oui je me doutais bien que c’est par leur intermédiaire que vous aviez entendu parler de nous… En termes peu flatteurs, évidemment. Vous êtes notre invité : vous jugerez vous-même. Je me fais fort de vous obtenir l’honneur, rarissime pour un étranger, de participer à la prochaine cordée, qui part justement dans trois jours. Ainsi vous nous jugerez. Et vous vous jugerez aussi. Vous verrez ce que vous valez !&lt;/p&gt;
 </description>
         <pubDate>Thu, 31 Aug 2023 18:27:52 +0200</pubDate>
-        <link>https://franckguadagnini.fr/la-corde-a-noeuds</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/la-corde-a-noeuds</guid>
+        <link>http://localhost:4000/la-corde-a-noeuds</link>
+        <guid isPermaLink="true">http://localhost:4000/la-corde-a-noeuds</guid>
         
         
       </item>
@@ -340,29 +355,8 @@
 &lt;p&gt;Le plus difficile, c’est l’homme. Lointain idéal, quasi mythique… Je n’essaie même plus.&lt;/p&gt;
 </description>
         <pubDate>Sun, 30 Jul 2023 12:56:44 +0200</pubDate>
-        <link>https://franckguadagnini.fr/les-metamorphoses</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/les-metamorphoses</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Les cornes cassées</title>
-        <description>&lt;p&gt;Qu’il est loin déjà le temps des terres à tous ! Ni murs, ni clôtures, ni frontières. Il est révolu le temps des nomades qui redécouvraient et renommaient sans cesse les lieux de la Terre. Ici le Col du Chamois ; là, l’Antre de l’Ours, etc. À l’infini croyait-on. Non ; ça s’est même fini assez vite.&lt;/p&gt;
-
-&lt;p&gt;Et qu’il est encore loin, le temps des ruines ! Où l’on pourra franchir, abattre les murs abandonnés et branlants. Combien de générations après celle de ma fille ? Combien de générations, pour une Terre à redécouvrir, à ré-explorer, dont retrouver et renommer des parties rénovées par la forêt, englouties par le désert ? Combien de générations plus tard pour que des archéologues amateurs — ils ne s’appelleront sans doute pas ainsi et la pratique n’existera sûrement plus en tant que profession — découvrent émerveillés, fouillant le sol de leurs cornes juvéniles, les ruines enfouies de la mythique tour Eiffel ?&lt;/p&gt;
-
-&lt;p&gt;Entre-temps, c’est dans un labyrinthe étriqué bien qu’immense qu’ils doivent circuler, les cornus ; dans un dédale dont les murs ne cessent d’épaissir, de grandir en taille et grossir en nombre ; d’autant moins fait pour eux qu’ils ne connaissent qu’une manière de lutter : tout de suite, de front et à fond, et qu’une seule manière d’avancer : en fonçant, tête baissée.&lt;/p&gt;
-
-&lt;p&gt;La première fois qu’ils heurtent un mur, quoique prévenus, c’est tout de même le pur étonnement qui d’abord les saisit. Comment ne peuvent-ils pas aller droit devant, simplement, comme les oiseaux dans le ciel, jusqu’à l’épuisement sinon jusqu’à l’infini ? Puis viennent les larmes, d’abord de douleur, ensuite de honte et de déception. La plupart, plus ou moins lentement, parviennent à la résignation, laquelle est peut-être la principale cause de la forme qu’a prise leur société : une sorte de féodalité brutalement instituée, avec sa hiérarchie basée sur la dominance, l’allégeance et la parenté. Ceux qui ne se résignent pas, faible proportion de non-inféodés, on les reconnaît facilement, d’abord à leur solitude, puis à mesure qu’ils s’approchent, à leur tête déformée.&lt;/p&gt;
-
-&lt;p&gt;De leurs toiles tendues aux coins des murs, les hautes araignées les observent — certaines ont une très bonne vue — avec pitié, mais aussi avec la légère condescendance peut-être inévitable que leur inflige la croyance en leur supériorité morale, elles qui vivent non pas entre mais dans les murs, dans les trous entre les pierres, qui savent que l’envers d’un mur n’est que le même mur, et que derrière un mur il n’est jamais qu’un autre mur, — à une distance d’ailleurs souvent assez petite pour qu’elles puissent la franchir sans risque démesuré. La migration d’un mur à l’autre est le seul moment où les reines de ce temps lâchent la pierre.&lt;/p&gt;
-
-&lt;p&gt;Il y a longtemps qu’elles n’essaient plus de raisonner ceux qui « éprouvent les murs », ainsi qu’elles le formulent. Seuls des insultes rageuses puis un méprisant silence répondaient à leurs suggestions évidentes et circonspectes. Leur bienveillance s’est résignée à la compassion. Depuis lors c’est sans ingérence — une ingérence qu’elles se reprochent encore — qu’elles continuent d’être attentives, intensément attentives, ne serait-ce que pour se préparer aux chocs, qui font trembler dangereusement leurs toiles. Dès qu’elles distinguent, sous les paupières mi-closes, les yeux figés, au fond desquels ne luit plus qu’une étincelle d’obstination obtuse, elles voient d’avance la suite : les coups réguliers, les bosses durcies qui défigurent, les plaies sanglantes constamment rouvertes, les sillons creusés dans les joues par les larmes ; les cornes cassées l’une après l’autre, puis usées jusqu’à l’os ; les dents limées contre la pierre quand il ne leur est plus resté rien d’autre ; enfin le dernier choc, le dernier gémissement, soubresaut, frémissement ; les paupières closes une fois pour toutes ; le premier et dernier abandon, soulageant sinon salvateur. Elles se laissent glisser pour le voir de près. Toute cette viande qui n’est pas pour elles. Philosophes, elles saisissent l’occasion de raviver leur vieille controverse : savoir si ceux-là sont les plus courageux — puisqu’ils ne cessent jamais d’essayer, malgré la douleur, malgré la vanité apparente de leur acharnement — ; les plus stupides — parce qu’ils ne voient pas que tout espoir ne peut être qu’illusoire, du moins tant qu’ils n’unissent pas leurs efforts — ; ou les plus lâches — incapables d’assumer la réalité limitante, cherchant la folie et la mort dans cette unique et involontairement violente et sanglante possibilité de suicide. Elles se chamaillent. Vieux arguments ressassés ; mêmes positions inébranlées, inconciliables. Rien n’a changé ; elles savent à quoi s’en tenir ; ce n’est pas désagréable. Elles se taisent. Elles attendent. Bientôt les grosses mouches arrivent, et les toiles se mettent à vibrer de plaisir.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 30 Jun 2023 10:13:31 +0200</pubDate>
-        <link>https://franckguadagnini.fr/les-cornes-cassees</link>
-        <guid isPermaLink="true">https://franckguadagnini.fr/les-cornes-cassees</guid>
+        <link>http://localhost:4000/les-metamorphoses</link>
+        <guid isPermaLink="true">http://localhost:4000/les-metamorphoses</guid>
         
         
       </item>
